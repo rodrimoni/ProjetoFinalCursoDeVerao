@@ -1,0 +1,1891 @@
+"tit_projeto" "descricao" "autor_situacao"
+"1" "PROC. 00015/20 - PLCE 001/20" "DISPOE SOBRE A COBRANCA DA TARIFA DE CONGESTIONAMENTO." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"2" "PROC. 00016/20 - PLCE 002/20" "INSTITUI A TAXA DE MOBILIDADE URBANA (TMU), E INCLUI DISPOSITIVOS NA LEI COMPLEMENTAR Nº 7, DE 7 DE DEZEMBRO DE 1973, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"3" "PROC. 00017/20 - PLCE 003/20" "ALTERA O CAPUT E REVOGA AS ALS. A, B E C DO § 3º DO ART. 32 DA LEI Nº 8.133, DE 12 DE JANEIRO DE 1998, QUE DISPOE SOBRE O SISTEMA DE TRASNPORTE E CIRCULACAO NO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"4" "PROC. 00637/19 - PLCE 021/19" "ALTERA O § 5º E OS INCS. I A VII DO § 8º, INCLUI O ART. 34-A E REVOGA OS §§ 6º, 7º, 9º E 10 DO ART. 32, TODOS NA LEI COMPLEMENTAR Nº 765, DE 8 DE JULHO DE 2015, ALTERANDO A FORMA DE CALCULO DA GRATIFICACAO DE ATIVIDADE TRIBUTARIA (GAT)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ORDEM DO DIA"
+"5" "PROC. 00612/19 - PLCE 020/19" "INSTITUI O FUNDO MUNICIPAL DE INOVACAO E TECNOLOGIA DE PORTO ALEGRE (FIT/POA)." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"6" "PROC. 00603/19 - PLCE 018/19" "ALTERA DISPOSITIVOS DA LEI COMPLEMETAR Nº 701, DE 18 DE JULHO DE 2012, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ORDEM DO DIA"
+"7" "PROC. 00606/19 - PLCE 019/19" "ALTERA O INC. XIX DO ART. 21 DA LEI COMPLEMENTAR Nº 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO, ESTENDENDO A VIGENCIA DA ALIQUOTA DO ISS PARA OS SERVICOS REALIZADOS PELOS CENTROS DE CONTATO (CONTACT CENTERS) ATE 31 DE DEZEMBRO DE 2020." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"8" "PROC. 00580/19 - PLCE 017/19" "ALTERA A EMENTA, O CAPUT DO ART. 1º, O INC. III E OS §§ 4º, 5º E 6º DO ART. 2º, O CAPUT E O INC. II DO ART. 3º, OS INCS. II, IV, V, VI, E VII E O CAPUT DO ART. 4º, O INC. X DO ART. 8º, OS §§ 4º, 5º E 6º DO ART. 10; INCLUI O PARAGRAFO UNICO AO ART. 1º, E O INC. XII AO ART. 8º, E REVOGA O § 4º DO ART. 2º, O ART. 6º E O INC. II DO § 2º DO ART. 10,..." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA PARECER"
+"9" "PROC. 00579/19 - PLCE 016/19" "ESTABELECE NORMAS GERAIS PARA O PROCESSO ADMINISTRATIVO E NORMAS ESPECIAIS PARA A CONSTITUICAO DE DIVIDA NAO TRIBUTARIA NO AMBITO DA EMPRESA PUBLICA DE TRANSPORTES E CIRCULACAO (EPTC); REVOGA OS ARTS. 57, 58, 59, 60, 61, 64 E 65 DA LEI Nº 11.582, DE 12 DE FEVEREIRO DE2014, E OS ARTS. 19 E 20 DA LEI Nº 12.162, DE 9 DE DEZEMBRO DE 2016." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA PARECER"
+"10" "PROC. 00562/19 - PLCE 015/19" "DISPOE SOBRE A CRIACAO DE CARGOS PUBLICOS PARA AGENTES COMUNITARIOS DE SAUDE (ACS) E DE COMBATE AS ENDEMIAS (ACE) E SOBRE O PROCESSO SELETIVO PUBLICO NO AMBITO DA ADMINISTRACAO PUBLICA MUNICIPAL." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"11" "PROC. 00521/19 - PLCE 014/19" "INCLUI O § 18 NO ART. 5° DA LEI COMPLEMENTAR Nº 7, DE 7 DE DEZEMBRO DE 1973." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"12" "PROC. 00463/19 - PLCE 013/19" "ALTERA O CAPUT DO ART. 49 DA LEI COMPLEMENTAR Nº 7, DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO, INCLUINDO, COMO SUJEITOS PASSIVOS DA TAXA DE APROVACAO DE LICENCA DE PARCELAMENTO DO SOLO, EDIFICACOES E OBRAS, O INTERESSADO E O EXECUTOR DA OBRA." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"13" "PROC. 00443/19 - PLCE 012/19" "PROIBE A ATIVIDADE DE GUARDADOR AUTONOMO DE VEICULOS AUTOMOTORES - FLANELINHAS - EM VIAS E LOGRADOUROS PUBLICOS DO MUNICIPIO DE PORTO ALEGRE E REVOGA O INC. XXX DO CAPUT DO ART. 18 DA LEI COMPLEMENTAR Nº 12, DE 7 DE JANEIRO DE 1975; A LEI Nº 5.738, DE 7 DE JANEIRO DE 1986; E A LEI Nº 6.602, DE 7 DE MAIO DE 1990." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA APREGOAR"
+"14" "PROC. 00383/19 - PLCE 011/19" "altera o § 5º e os incs. I, II, III, IV, V, VI e VII do § 8º do art. 32 da Lei Complementar nº 765, de 8 de julho de 2015." "Autor
+Governo Municipal
+Situação
+ORDEM DO DIA"
+"15" "PROC. 00359/19 - PLCE 009/19" "CRIA COMITE GERAL DE AVALIACAO DE METAS DE PRODUTIVIDADE (CGAMP) RESPONSAVEL PELA AVALIACAO E AFERICAO DE METAS E INDICADORES DE GRATIFICACOES QUE ELENCA NO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+COM REDACAO FINAL"
+"16" "PROC. 00364/19 - PLCE 010/19" "ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 701 DE 18 DE JULHO DE 2012, PARA ALTERAR AVANCOS, INCORPORACAO DE FUNCAO GRATIFICADA E ADICIONAL POR TEMPO DE SERVICO PARA ADAPTAR AS DISPOSICOES TRAZIDAS PELA LEI COMPLEMENTAR Nº 851, 12 DE JUNHO DE 2019; ALTERA O ART. 39-A DA LEI COMPLEMETAR Nº 478, DE 26 DE SETEMBRO DE 2002; ALTERA O § 3º DO ART. 45,..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ORDEM DO DIA"
+"17" "PROC. 00357/19 - PLCE 007/19" "INCLUI O INC. III E O PARAGRAFO UNICO NO ART. 94 DA LEI COMPLEMENTAR Nº 478, DE 26 DE SETEMBRO DE 2002, QUE DISPOE SOBRE O DEPARTAMENTO MUNICIPAL DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE PORTO ALEGRE (PREVIMPA)." "Autor
+GOVERNO MUNICIPAL
+Situação
+POR SOLICITACAO"
+"18" "PROC. 00358/19 - PLCE 008/19" "INCLUI A AL. E NO INC. IV E REVOGA A AL. C DO INC. V, AMBAS DO ART. 4º DA LEI COMPLEMENTAR Nº 810, DE 4 DE JANEIRO DE 2017, ALTERADA PELA LEI COMPLEMENTAR MUNICIPAL Nº 817, DE 30 DE AGOSTO DE 2017." "Autor
+GOVERNO MUNICIPAL
+Situação
+POR SOLICITACAO"
+"19" "PROC. 00356/19 - PLCE 006/19" "ALTERA A LEI COMPLEMENTAR Nº 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DO MUNICIPIO." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"20" "PROC. 00242/19 - PLCE 005/19" "DISPOE SOBRE DIRETRIZES PARA A CRIACAO E A EXTINCAO DE FUNDOS PUBLICOS; ESTABELECE NOVAS REGRAS PARA MOVIMENTACAO FINANCEIRA DOS ATUAIS FUNDOS E CRIA O FUNDO DE REFORMA E DESENVOLVIMENTO MUNICIPAL, BEM COMO AUTORIZA O PODER EXECUTIVO A REVERTER OS SALDOS FINANCEIROS DOS FUNDOS ATIVOS E EXTINTOS AO TESOURO MUNICIPAL." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA APREGOAR"
+"21" "PROC. 00230/19 - PLCE 004/19" "INCLUI O ART. 2º-A A LEI Nº 1.651, DE 9 DE OUTUBRO DE 1956 - QUE DISPOE SOBRE DOACAO REALIZADA AO SPORT CLUB INTERNACIONAL, DE PORTO ALEGRE, PARA CONSTRUCAO DE UMA PRACA DE ESPORTES - AUTORIZANDO A REALIZACAO DE EMPREENDIMENTO IMOBILIARIO, E EXCLUI O POLIGONO A QUE SE REFERE DA AREA DE INTERESSE INSTITUCIONAL PREVISTA NO ART. 4º DA LEI..." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"22" "PROC. 00211/19 - PLCE 003/19" "AUTORIZA O MUNICIPIO DE PORTO ALEGRE A ADQUIRIR IMOVEIS DE PROPRIEDADE DA UNIAO E DO INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), AUTARQUIA FEDERAL, ATRAVES DE DOACOES COM ENCARGOS DESTINADOS A SECRETARIA MUNICIPAL DE SAUDE (SMS)." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"23" "PROC. 00044/19 - PLCE 002/19" "ALTERA O CAPUT DO ART. 122, INCLUI O ART. 37-A, O §§ 3º E 4º AO ART. 122-A, O ART. 129-A E O PARAGRAFO UNICO AO ART. 131, REVOGA OS ARTS 79, 124, 125, 126, 127, 127-A, 129, 130, 133 TODOS DA LEI COMPLEMENTAR Nº 133, DE 31 DE DEZEMBRO DE 1985, QUE ESTABELECE O ESTATUTO DOS FUNCIONARIOS PUBLICOS DO MUNICIPIO DE PORTO ALEGRE; INCLUI O ART. 39-A E..." "Autor
+GOVERNO MUNICIPAL
+Situação
+COM REDACAO FINAL APROVADA"
+"24" "PROC. 00027/19 - PLCE 001/19" "ALTERA OS ANEXOS 1.1 E 1.2 DA LEI COMPLEMENTAR Nº 434 DE 1º DE DEZEMBRO DE 1999, REDEFININDO O LIMITE DA AREA DE INTERESSE INSTITUCIONAL DA SUBUNIDADE 01, CRIANDO AS SUBUNIDADES 05 E 06 DA UNIDADE DE ESTRUTURACAO URBANA 092 DA MACROZONA 03, ALTERANDO OS LIMITES DA SUBUNIDADE 02 DA UNIDADE DE ESTRUTURACAO URBANA 092 DA MACROZONA 03, DEFININDO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA PARECER"
+"25" "PROC. 01360/18 - PLCE 019/18" "ALTERA O INC. XXIX DO ART. 70 DA LEI COMPLEMENTAR Nº 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO, ESTENDENDO A VIGENCIA DA ISENCAO PARA A CENTRAL DE ABASTECIMENTO DO ESTADO DO RIO GRANDE DO SUL (CEASA) ATE 31 DE DEZEMBRO DE 2018." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"26" "PROC. 01352/18 - PLCE 018/18" "ALTERA O § 2º DO ART. 71 DA LEI COMPLEMENTAR Nº 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO, ESTENDENDO A VIGENCIA DA ISENCAO PARA O SERVICO DE TRANSPORTE COLETIVO POR ONIBUS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"27" "PROC. 01334/18 - PLCE 017/18" "INCLUI O ART. 47-A E 47-B NA LEI COMPLEMENTAR Nº 757, DE 14 DE JANEIRO DE 2015 - QUE ESTABELECE REGRAS PARA A SUPRESSAO, O TRANSPLANTE OU A PODA DE ESPECIMES VEGETAIS NO MUNICIPIO DE PORTO ALGRE, DETERMINA O PRAZO DE MANIFESTACAO AS SOLICITACOES DE MANEJO DA VEGETACAO NO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"28" "PROC. 01333/18 - PLCE 016/18" "CRIA O PROGRAMA DE APROVEITAMENTO E GESTAO DOS IMOVEIS PROPRIOS MUNICIPAIS DE PORTO ALEGRE, AUTORIZANDO O PODER EXECUTIVO A ALIENAR BENS IMOVEIS PROPRIOS E DE SUAS AUTARQUIAS E FUNDACOES POR MEIO DE LEILAO, PERMUTA POR OUTROS IMOVEIS PUBLICOS OU PARTICULARES, BEM COMO POR PERMUTA POR AREA CONSTRUIDA." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"29" "PROC. 01331/18 - PLCE 015/18" "AUTORIZA O PODER EXECUTIVO MUNICIPAL A CONTRATAR PARCERIA PUBLICO-PRIVADA PARA A PRESTACAO DOS SERVICOS DE ILUMINACAO PUBLICA NO MUNICIPIO DE PORTO ALEGRE, NA FORMA DA LEI FEDERAL Nº 11079, DE 30 DE DEZEMBRO DE 2004, E DA LEI MUNICIPAL Nº 9875, DE 8 DE DEZEMBRO DE 2005, E ALTERA A LEI Nº 9329, DE 22 DE DEZEMBRO DE 2003, QUE INSTITUI, NO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"30" "PROC. 01085/18 - PLCE 014/18" "DISPOE SOBRE AS NORMAS DE FINANCAS PUBLICAS NO AMBITO DO MUNICIPIO DE PORTO ALEGRE, VOLTADAS PARA A RESPONSABILIDADE, QUALIDADE E TRANSPARENCIA NA GESTAO FISCAL COM A FINALIDADE DE ALCANCAR O EQUILIBRIO FINANCEIRO DAS CONTAS PUBLICAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA REDACAO FINAL"
+"31" "PROC. 00866/18 - PLCE 013/18" "DISPOE SOBRE NORMAS URBANISTICAS ESPECIFICAS PARA A INSTALACAO DAS ESTACOES TRANSMISSORAS DE RADIOCOMUNICACAO, AUTORIZADAS E HOMOLOGADOS PELA AGENCIA NACIONAL DE TELECOMUNICACOES (ANATEL) E O RESPECTIVO LICENCIAMENTO, NOS TERMOS DA LEGISLACAO FEDERAL VIGENTE, NO MUNICIPIO DE PORTO ALEGRE E REVOGA A LEI Nº 8896 DE 26 DE ABRIL DE 2002." "Autor
+Governo Municipal
+Situação
+AGUARDANDO SANCAO"
+"32" "PROC. 00857/18 - PLCE 012/18" "ALTERA OS CAPITA DOS ARTS. 41, 42, 43 E 44 E O PARAGRAFO UNICO DO ART. 41, TODOS DA LEI COMPLEMENTAR Nº 284 DE 27 DE OUTUBRO DE 1992, ATUALIZANDO O CODIGO MUNICIPAL DE EDIFICACOES DE PORTO ALEGRE, NO QUE TANGE O USO DE MATERIAIS, PERMITINDO APROVACAO DE PROJETOS INOVADORES, USO DE CONTAINERS E REVOGA OS INCS. I E II DOS ARTS. 41, 43 E 44 DA LEI..." "Autor
+Governo Municipal
+Situação
+PARA CONFERENCIA DA LEI / RESOLUCAO"
+"33" "PROC. 00856/18 - PLCE 011/18" "DISPOE SOBRE A OUTORGA ONEROSA DO DIREITO DE CONSTRUIR NO MUNICIPIO DE PORTO ALEGRE, CRIA O FUNDO MUNICIPAL DE GESTAO DE TERRITORIO, ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 612, DE 19 DE FEVEREIRO DE 2009 E REVOGA AS LEIS COMPLEMENTARES Nº 315 DE 06 DE JANEIRO DE 1994 E Nº 644, DE 2 DE JULHO DE 2010." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"34" "PROC. 00813/18 - PLCE 010/18" "DISPOE SOBRE DIRETRIZES PARA A CRIACAO E A EXTINCAO DE FUNDOS PUBLICOS, E NOVAS REGRAS PARA MOVIMENTACAO FINANCEIRA DOS ATUAIS FUNDOS, CRIACAO DO FUNDO DE REFORMA E DESENVOLVIMENTO MUNICIPAL, AUTORIZA O PODER EXECUTIVO A REVERTER OS SALDOS FINANCEIROS DOS FUNDOS ATIVOS E EXTINTOS AO TESOURO MUNICIPAL, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"35" "PROC. 00733/18 - PLCE 009/18" "ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 478, DE 26 DE SETEMBRO DE 2002, QUE DISPOE SOBRE O DEPARTAMENTO MUNICIPAL DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE PORTO ALEGRE (PREVIMPA), DISCIPLINA O REGIME PROPRIO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"36" "PROC. 00727/18 - PLCE 008/18" "INCLUI O ART. 37-A, O §§ 3º AO 6º AO ART. 122, O ART. 122-A, O ART. 129-A E O PARAGRAFO UNICO AO ART. 131, ALTERA O CAPUT DO ART. 122, REVOGA OS ARTS. 79, 124, 125, 126, 127, 127-A, 129 E 130 TODOS DA LEI COMPLEMENTAR Nº 133, DE 31 DE DEZEMBRO DE 1985, QUE ESTABELECE O ESTATUTO DOS FUNCIONARIOS PUBLICOS DO MUNICIPIO DE PORTO ALEGRE; INCLUI O..." "Autor
+GOVERNO MUNICIPAL
+Situação
+P - PARA CONSULTA"
+"37" "PROC. 00725/18 - PLCE 007/18" "INSTITUI O REGIME DE PREVIDENCIA COMPLEMENTAR NO AMBITO DO MUNICIPIO DE PORTO ALEGRE, FIXA LIMITE MAXIMO PARA A CONCESSAO DE APOSENTADORIAS E PENSOES, DE QUE TRATA O ARTIGO 40 DA CONSTITUICAO FEDERAL, AUTORIZA A CRIACAO DE ENTIDADE FECHADA DE PREVIDENCIA COMPLEMENTAR." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"38" "PROC. 00724/18 - PLCE 006/18" "ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 478, DE 26 DE SETEMBRO DE 2002, QUE DISPOE SOBRE O DEPARTAMENTO MUNICIPAL DE PREVIDENCIAS DOS SERVIDORES PUBLICOS DO MUNICIPIO DE PORTO ALEGRE (PREVIMPA), DISCIPLINA O REGIME PROPRIO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO SANCAO"
+"39" "PROC. 00721/18 - PLCE 005/18" "APROVA A PLANTA GENERICA DE VALORES IMOBILIARIOS (PGV) PARA EFEITOS DE LANCAMENTO E COBRANCA DO IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU) RELATIVO AO ANO DE 2019, ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR N 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO, FIXANDO NOVO SISTEMA DE ALIQUOTAS DO IPTU, E..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ORDEM DO DIA
+Veto
+VETO PARCIAL EM APRECIACAO"
+"40" "PROC. 00720/18 - PLCE 004/18" "ALTERA A AL. K DO § 1º DO ART. 20, O INC. XXVII DO ART. 21 E O SUBITEM 13.05 DA LISTA DE SERVICOS; INCLUI O ART. 21-A, O PARAGRAFO UNICO NO ART. 25, A ALINEA D AO § 1º DO ART. 59 E REVOGA O INC. VI DO ART. 18-B E AS ALS. B, C E D DO § 1º DO ART. 20; TODOS DA LEI COMPLEMENTAR Nº 07, DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA CONFERENCIA DA LEI / RESOLUCAO
+Veto
+VETO PARCIAL REJEITADO"
+"41" "PROC. 00719/18 - PLCE 003/18" "ALTERA O CAPUT E INCLUI O § 3º NO ART. 101 DA LEI COMPLEMENTAR Nº 478, DE 26 DE SETEMBRO DE 2002, QUE DISPOE SOBRE O DEPARTAMENTO MUNICIPAL DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE PORTO ALEGRE, DISCIPLINA O REGIME PROPRIO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ORDEM DO DIA"
+"42" "PROC. 00591/18 - PLCE 002/18" "ALTERA OS INCS. IX E XII E INCLUI O INC. XXIII, TODOS NO ART. 1º DA LEI COMPLEMENTAR Nº 306, DE 23 DE DEZEMBRO DE 1993, QUE INSTITUI HIPOTESE DE RESPONSABILIDADE PELO PAGAMENTO DE IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - ISSQN; E ALTERA O INC. II E INCLUI O INC. IV, AMBOS NO ART. 5º DA LEI COMPLEMENTAR Nº 687, DE 1º DE FEVEREIRO DE 2012,..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"43" "PROC. 00512/18 - PLCE 001/18" "DISPOE SOBRE A PUBLICIDADE NO SISTEMA DE TRANSPORTE COLETIVO E SOBRE A MODICIDADE TARIFARIA E AS RECEITAS EXTRATARIFARIAS QUE COMPOEM A CMARA DE COMPOSICAO TARIFARIA (CCT) DO TRANSPORTE COLETIVO POR ONIBUS DO MUNICIPIO DE PORTO ALEGRE, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ORDEM DO DIA"
+"44" "PROC. 03109/17 - PLCE 017/17" "APROVA A PLANTA GENERICA DE VALORES IMOBILIARIOS (PGV) PARA EFEITOS DE LANCAMENTO E COBRANCA DO IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU) RELATIVO AO ANO DE 2019, ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR N 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO, FIXANDO NOVO SISTEMA DE ALIQUOTAS DO IPTU,..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"45" "PROC. 02982/17 - PLCE 016/17" "altera a al. k do § 1º e os §§ 2º e 16 do art. 20; o inc. XXVII do art. 21, o inc. XVI do art. 71 e o subitem 13.05 da Lista de Serviços; inclui o § 10 no art. 3º-A, o art. 21-A, o parágrafo único no art. 25, a alínea d ao § 1º do art. 59 e revoga o inc. VI do art. 18-B, as als. b, c e d do § 1º do art. 20 e os inc. I a XV do art. 71; todos da..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"46" "PROC. 02981/17 - PLCE 015/17" "altera o inc. XIX do art. 21 da Lei Complementar nº 07, de 7 de dezembro de 1973, que institui e disciplina os tributos de competência do Município, modificando a alíquota do ISS dos serviços realizados pelos centros de contato – contact centers. Concede remissão do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) e anistia de..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"47" "PROC. 02557/17 - PLCE 014/17" "ALTERA O ART. 100 DA LEI COMPLEMENTAR N 790, DE 10 DE FEVEREIRO DE 2016, ALTERANDO O REQUISITO PARA O PROVIMENTO DO CARGO DE AGENTE DE FISCALIZACAO PARA ENSINO MEDIO COMPLETO." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"48" "PROC. 02262/17 - PLCE 013/17" "aprova a Planta Genérica de Valores Imobiliários (PGV) para efeitos de lançamento e cobrança do Imposto Predial e Territorial Urbano (IPTU) relativo ao ano de 2018, altera dispositivos da Lei Complementar nº 7, de 7 de dezembro de 1973, que institui e disciplina os tributos de competência do Município, fixando novo sistema de alíquotas do IPTU,..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"49" "PROC. 02260/17 - PLCE 012/17" "institui o Programa de Recuperação Fiscal (REFISPOA 2017)." "Autor
+Governo Municipal
+Situação
+AGUARDANDO SANCAO"
+"50" "PROC. 02066/17 - PLCE 011/17" "INCLUI O ART. 37-A, O 3 AO 6 AO ART. 122, O ART. 122-A, O ART. 129-A E O PARAGRAFO UNICO AO ART. 131, ALTERA O CAPUT DO ART. 122, REVOGA OS ARTS. 132 E 133, E EM 1 DE NOVEMBRO DE 2017, REVOGA OS ARTS. 79, 124, 125, 126, 127, 127-A, 129 E 130 TODOS DA LEI COMPLEMENTAR N 133, DE 31 DE DEZEMBRO DE 1985, QUE ESTABELECE O ESTATUTO DOS FUNCIONARIOS..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"51" "PROC. 01953/17 - PLCE 010/17" "altera o caput, os incs. I, II, III, IV, V e VI; as als. a, b e c do inc. IV, e incluídas as als. d no inc. IV; a e b no inc. V, todos do art. 74-A da Lei Complementar nº 434, de 1º de dezembro de 1999." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"52" "PROC. 01904/17 - PLCE 009/17" "institui o Fundo Municipal de Segurança Pública (FUMSEG)." "Autor
+Governo Municipal
+Situação
+AGUARDANDO SANCAO"
+"53" "PROC. 01811/17 - PLCE 008/17" "dispõe sobre os cargos efetivos das carreiras da Administração Tributária, incluí o art. 38-A na Lei Complementar nº 765, de 8 de julho de 2015, revoga os §§ 10 e 15 do art. 32 da Lei Complementar nº 765, de 8 de julho de 2015, determinando a inaplicabilidade de disposições da Lei nº 6.309, de 28 de dezembro de 1988 e dá outras providências." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"54" "PROC. 01740/17 - PLCE 007/17" "dispõe sobre o aporte em imóveis para amortização do déficit atuarial do Departamento de Previdência dos Servidores Públicos do Município de Porto Alegre." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"55" "PROC. 01478/17 - PLCE 006/17" "que dispõe sobre a atividade de fiscalização das infrações administrativas no âmbito do Município de Porto Alegre, altera as atribuições da Guarda Municipal constantes no Anexo I da Lei nº 6.309, de 28 de dezembro de 1988, os incs. IV, VI, IX, XII, XX e XXIX do art. 18, os incs. I, II e IV do art. 20, o art. 27, o caput e o inc. I do § 2º do..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"56" "PROC. 01433/17 - PLCE 005/17" "dispõe sobre a reorganização da administração pública municipal, extingue secretarias municipais, incorpora as competências das secretarias extintas nas secretarias municipais criadas pela Lei Complementar nº 810, de 4 de janeiro de 2017; transfere e vincula a Controladoria-Geral do Município (CGM) à Secretaria Municipal da Transparência e..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"57" "PROC. 01311/17 - PLCE 004/17" "inclui a al. d no inc. I do art. 2º da Lei Complementar nº 505, de 28 de maio de 2004, que dispõe sobre alíquotas de contribuição previdenciária para fins de custeio do Regime Próprio de Previdência Social dos Servidores Públicos do Município de Porto Alegre." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"58" "PROC. 01310/17 - PLCE 003/17" "altera o inciso II do caput do art. 68-A da Lei Complementar nº 7, de 1973, possibilitando o protesto de CDAs em execução fiscal, desde que não suspensa a sua exigibilidade." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"59" "PROC. 01309/17 - PLCE 002/17" "altera o inc. I e os §§3º, 5º e 6º do art. 5º, as als. b e c do inc. I, renumera o parágrafo único para §1º e inclui o §2º no art. 9º, todos da Lei Complementar nº 478, de 26 de setembro de 2002, que dispõe sobre o Departamento Municipal de Previdência dos Servidores Públicos do Município de Porto Alegre (PREVIMPA), disciplina o Regime Próprio..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"60" "PROC. 00987/17 - PLCE 001/17" "Altera a al. a do § 2º do art. 18 da Lei Complementar nº 197, de 21 de março de 1989 – que institui e disciplina o Imposto sobre a Transmissão Inter-Vivos (ITBI), por ato oneroso, de bens imóveis e de direitos reais a eles relativos – estendendo o prazo para solicitação do parcelamento do imposto até 31 de dezembro de 2022." "Autor
+Governo Municipal
+Situação
+AGUARDANDO SANCAO"
+"61" "PROC. 02826/16 - PLCE 018/16" "ALTERA O INCISO I, DO ART. 52-X, DA LEI COMPLEMENTAR Nº 7, DE 7 DE SETEMBRO DE 1973 - QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO E ESTABELECE NORMAS GERAIS DE DIREITO TRIBUTARIO - E ALTERACOES POSTERIORES, CRIANDO A TAXA DE FISCALIZACAO DE ABERTURA DO PAVIMENTO DAS VIAS PUBLICAS E DAS CALCADAS E DANDO OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"62" "PROC. 02806/16 - PLCE 017/16" "cria e declara como Área Especial de Interesse Social – I (AEIS I), na Macrozona (MZ) 02, as Subunidades 07, 08 e 09, na Unidade de Estruturação Urbana (UEU) 50; na Macrozona (MZ) 03, as Subunidades 04 e 05, na UEU 06; 05, na UEU 10; 07 e 08, na UEU 16; 08, na UEU 20; 02, na UEU 22; 13, 14, 15, 16, 17 e 18, na UEU 86; 07 na UEU 88; na Macrozona..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"63" "PROC. 02764/16 - PLCE 016/16" "altera os incs. X, XIV e XVII; inclui os incs. XXI, XXII e XXIII e os §§ 7º a 9º, todos no art. 3º-A, prevendo novas regras sobre o local de incidência do ISS; altera os incs. II e VIII do art. 21, bem como altera a lista de serviços anexa, todos da Lei Complementar nº 7, de 7 de dezembro de 1973 – que institui e disciplina os tributos de..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"64" "PROC. 02762/16 - PLCE 015/16" "altera o § 2º do art. 71 da Lei Complementar nº 7, de 7 de dezembro de 1973 – que institui e disciplina os tributos de competência do Município –, estendendo a vigência da isenção para o serviço público de transporte coletivo por ônibus." "Autor
+Governo Municipal
+Situação
+AGUARDANDO DOCUMENTO
+Veto
+VETO PARCIAL MANTIDO"
+"65" "PROC. 02756/16 - PLCE 014/16" "no art. 21, revoga o inciso XII e altera o inc. XXVII; inclui parágrafo único ao art. 25; no art. 59, inclui alínea “d” ao § 1º; no art. 70, altera o inciso XVII e os §§ 7º e 12; no art. 72, altera o item 1 da alínea “a” do inciso I e inclui o inc. III e o parágrafo único; no art. 75, altera o caput, os inc. I e II e o parágrafo único e revoga o..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"66" "PROC. 02752/16 - PLCE 013/16" "inclui art. 5º-C na Lei Complementar nº 505, de 28 de maio de 2004 – que fixa alíquotas de contribuição previdenciária para fins de custeio do Regime Próprio da Previdência Social dos Servidores Públicos do Município de Porto Alegre e dá outras providências, e alterações posteriores –, autorizando parcelamento de débitos do Município de Porto..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"67" "PROC. 02750/16 - PLCE 012/16" "cria as Secretarias Municipais que refere, estabelece suas finalidades e competências, extingue secretarias e dispõe sobre a organização administrativa durante a sua extinção e revoga legislação sobre o tema." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"68" "PROC. 02748/16 - PLCE 011/16" "revoga a Lei Complementar nº 708, de 18 de janeiro de 2013, que altera os dispositivos de controle da edificação para o imóvel localizado na Rua Buarque de Macedo, nº 120, sede da Câmara de Dirigentes Lojistas (CDL) de Porto Alegre." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"69" "PROC. 02708/16 - PLCE 010/16" "inclui o art. 58-A na Lei Complementar nº 7, de 7 de dezembro de 1973 – que institui e disciplina os tributos de competência do Município –, estabelecendo multa pela falta de apresentação, ou apresentação incompleta, de documentos, livros e registros de instituições financeiras, a que se refere o art. 6º da Lei Complementar Nacional nº 105, de..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"70" "PROC. 02673/16 - PLCE 009/16" "INSTITUI O CODIGO MUNICIPAL DE CONVIVENCIA DEMOCRATICA E REVOGA AS LEIS QUE REFERE." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"71" "PROC. 02363/16 - PLCE 008/16" "cria o Fundo Municipal de Incentivo à Reciclagem e Inserção Produtiva de Catadores (FMRIC) e revoga a Lei Complementar 672, de 1º de fevereiro de 2011 – que cria o Fundo para Implementação do Programa de Redução Gradativa do Número de Veículos de Tração Animal e de Veículos de Tração Humana." "Autor
+Governo Municipal
+Situação
+AGUARDANDO SANCAO"
+"72" "PROC. 01929/16 - PLCE 007/16" "Altera os limites das Macrozonas (MZ) 05 e 08, altera os limites da Subunidade 09 da Unidade de Estruturação Urbana (UEU) 22 da MZ 05 e da Subunidade 01 da UEU 38 da MZ 08, cria e institui como Área Especial de Interesse Social II (AEIS II) a Subunidade 03 da UEU 22 da MZ 05, cria a Subunidade 04 da UEU 22 da MZ 05 com o mesmo regime da..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"73" "PROC. 01313/16 - PLCE 006/16" "dispõe sobre o Conselho Municipal de Saúde de Porto Alegre." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"74" "PROC. 01312/16 - PLCE 005/16" "que altera limites de Subunidades e de Unidades de Estruturação Urbana (UEUs) das Macrozonas (MZs) 02, 03, 04, 05, 07, 08 e 10, cria Subunidades em UEUs dessas MZs, correspondentes a áreas de empreendimentos aprovados no Programa Minha Casa, Minha Vida, da Caixa Econômica Federal (CEF), e de novos empreendimentos destinados à produção..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"75" "PROC. 01069/16 - PLCE 003/16" "cria o Sistema Municipal de Ciência, Tecnologia e Inovação de Porto Alegre, doravante designado pela sigla SMCT&I." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"76" "PROC. 00592/16 - PLCE 002/16" "cria a Gratificação por Atividade de Planejamento Estratégico (GAPE) para servidores em efetivo exercício na Secretaria Municipal de Planejamento Estratégico e Orçamento (SMPEO), em substituição à parcela prevista na Lei Complementar nº 668, de 13 de janeiro de 2011, alterada e revogada pela Lei Complementar nº 707, de 27 de dezembro de 2012, e..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"77" "PROC. 00538/16 - PLCE 001/16" "ALTERA O CAPUT DOS ARTIGOS 1. E 2. E REVOGA O PARAGRAFO PARAGRAFO 1. DO ARTIGO 2., TODOS DA LEI N. 10.390, DE 22 DE FEVEREIRO DE 2008 QUE - AUTORIZA A CONCESSAO DE USO DE AREA SITUADA NA SUBUNIDADE 1 DA UEU 1044., DE ACORDO COM A LEI COMPLEMENTAR N. 434, DE 1. DE DEZEMBRO DE 1999, PARA IMPLANTACAO DO MEMORIAL CAMINHO DA SOBERANIA - ALTERANDO A..." "Autor
+GOVERNO MUNICIPAL - GABINETE DO PREFEITO
+Situação
+ARQUIVADO"
+"78" "PROC. 02707/15 - PLCE 026/15" "institui o Sistema Financeiro de Administração Centralizada (SIFAC), como instrumento de centralização em conta bancária única dos recursos financeiros do Poder Executivo do Município de Porto Alegre." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"79" "PROC. 02634/15 - PLCE 025/15" "altera os incs. I, II e III do § 1º do art. 196 da Lei Complementar nº 395, de 26 de dezembro de 1996. (multa/fiscalização sanitária)" "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"80" "PROC. 02633/15 - PLCE 024/15" "inclui o Capítulo IX no Título III da Lei Complementar nº 7, de 7 de dezembro de 1973, que institui e disciplina os tributos de competência do Município e estabelece normas gerais de direito tributário. (cria taxa de fiscalização de abertura do pavimento das vias públicas e calçadas)" "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"81" "PROC. 02558/15 - PLCE 023/15" "ALTERA OS ARTS. 7. E 8. E REVOGA O ART. 12, TUDO DA LEI COMPLEMENTAR N. 133, DE 31 DE DEZEMBRO DE 1985, QUE ESTABELECE O ESTATUTO DOS FUNCIONARIOS PUBLICOS DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE O ACESSO DOS ESTRANGEIROS AOS CARGOS PUBLICOS MUNICIPAIS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"82" "PROC. 02379/15 - PLCE 022/15" "inclui inc. XXVII no caput do art. 21 e inc. XXX e § 14 no caput do art. 70 da Lei Complementar nº 07, de 7 de dezembro de 1973; e inclui inc. VII e § 7º no art. 8º da Lei Complementar nº 197, de 21 de março de 1989. (Redução/Isenção/ISS/IPTU/ITBI/Área Tecnológica)" "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"83" "PROC. 02291/15 - PLCE 021/15" "altera o parágrafo único do art. 20, os arts. 26 e 27 e inclui art. 26-A, todos da Lei Complementar nº 677, de 19 de julho de 2011 – que altera os arts. 4º e 44 e o Anexo I e inclui arts. 36-A, 37-A e 43-A na Lei nº 6.309, de 28 de dezembro de 1988, e alterações posteriores, criando o grupo ESM – Especialidade Médica e as classes de cargos de..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"84" "PROC. 02269/15 - PLCE 020/15" "altera a composição do Conselho Municipal de Educação – CME/POA – e dá outras providências." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"85" "PROC. 02099/15 - PLCE 019/15" "institui o Programa de Recuperação Fiscal – REFISPOA 2015 – e revoga a Lei nº 11.428, de 30 de abril de 2013." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"86" "PROC. 01783/15 - PLCE 018/15" "altera o parágrafo único do art. 17 da Lei Complementar nº 755, de 30 de dezembro de 2014, que altera a Lei Complementar nº 7, de 7 de dezembro de 1973 – que institui e disciplina os tributos de competência do Município –, e alterações posteriores, dispondo sobre a atualização dos alvarás de Localização e Funcionamento." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"87" "PROC. 01782/15 - PLCE 017/15" "ALTERA A LEI COMPLEMENTAR N. 694, DE 21 DE MAIO DE 2012, - QUE CONSOLIDA A LEGISLACAO SOBRE CRIACAO, COMERCIO, EXIBICAO, CIRCULACAO E POLITICAS DE PROTECAO DE ANIMAIS DOMESTICOS NO MUNICIPIO DE PORTO ALEGRE E REVOGA LEGISLACAO SOBRE O TEMA, - INCLUI A SECAO IV-A, ALTERANDO O CAPUT DO ART. 46, O ART. 51 E O ART. 52, INCLUINDO A SUBSECAO III NA..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"88" "PROC. 01760/15 - PLCE 016/15" "altera os §§ 4º e 6º, do art. 81, da Lei Complementar nº 133, de 31 de dezembro de 1985 – que estabelece o Estatuto dos Funcionários Públicos do Município de Porto Alegre. (gozo de férias)" "Autor
+Executivo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"89" "PROC. 01759/15 - PLCE 015/15" "altera os incs. I a IV do parágrafo único do art. 49 da Lei Complementar nº 728, de 8 de janeiro de 2014, – que institui o Código Municipal de Limpeza Urbana, revoga as Leis Complementares nºs 234, de 10 de outubro de 1990, 274, de 25 de março de 1992, 376, de 3 de junho de 1996, 377, de 3 de junho de 1996, 591, de 23 de abril de 2008, e 602, de..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"90" "PROC. 01540/15 - PLCE 014/15" "que altera o art. 109, o caput do art. 125, o caput e §§ 2º e 3º do art. 129, e os arts. 130 e 131, inclui os §§ 3º e 7º ao art. 129 e o art. 127-A, tudo na Lei Complementar nº 133, de 31 de dezembro de 1985, - que estabelece o Estatuto dos Funcionários Públicos do Município de Porto Alegre -, excluindo a incidência de avanços, regimes de..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"91" "PROC. 01411/15 - PLCE 013/15" "altera a redação do parágrafo único do art. 12 da Lei Complementar nº 703, de 28 de setembro de 2012 – que estabelece as diretrizes para a implementação da infraestrutura necessária à realização da Copa do Mundo de 2014, implantação do Sistema Bus Rapid Transit (BRT) e do Metrô de Porto Alegre –, modificando o limitador do cálculo de..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"92" "PROC. 01199/15 - PLCE 012/15" "altera o inc. II do Art. 2º da Lei Complementar nº 367, de 10 de janeiro de 1996, que dispõe sobre a constituição do Conselho Municipal de Ciência e Tecnologia de Porto Alegre (COMCET)." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"93" "PROC. 01093/15 - PLCE 011/15" "DISPOE SOBRE O PLANO DE MOBILIDADE URBANA DO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO ART 108"
+"94" "PROC. 00916/15 - PLCE 010/15" "institui Área Especial de Interesse Social (AEIS) III com Ocupação Intensiva nas áreas, objeto das matrículas de nºs 150.628, 152.120 e 173.534 do Registro de Imóveis da 3ª Zona de Porto Alegre, situadas na Rua Granja Bela Vista, na Unidade de Estruturação Urbana (UEU) 038 da Macrozona (MZ) 08, e criadas as Subunidades (SUBsUEU) 05 e 06 na UEU..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"95" "PROC. 00884/15 - PLCE 009/15" "altera o § 3º do art. 1º, o caput do art. 7º, o § 3º do art. 8º, o caput do art. 9º, o caput do art. 14 e o caput do art. 15, inclui incs. I a III no caput, parágrafo único e incs. I a III, todos no art. 14, revoga o inc. II do art. 8º e o § 1º do art. 9º da Lei Complementar nº 687, de 1º de fevereiro de 2012, institui obrigações acessórias..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"96" "PROC. 00780/15 - PLCE 008/15" "altera o art. 18 da Lei Complementar nº 755, de 30 de dezembro de 2014, que altera a Lei Complementar nº 7, de 7 de dezembro de 1973 – que institui e disciplina os tributos de competência do Município –, e alterações posteriores, dispondo sobre as taxas de Fiscalização de Localização e Funcionamento, de Serviços Ambientais Diversos, de Controle..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"97" "PROC. 00779/15 - PLCE 007/15" "ALTERA OS INSC. I, II, III E IV E INCLUI OS PARAGRAFOS 1. E 2. NO ART. 1., ALTERA O PARAGRAFO UNICO DO ART. 2. E REVOGA O PARAGRAFO UNICO DO ART. 1. DA LEI COMPLEMENTAR N. 570, DE 11 DE JUNHO DE 2007, QUE ESTABELECE CONDICOES PARA A INSTALACAO DE REDES DE ABASTECIME NTO DE AGUA E DE REMOCAO DE ESGOTO CLOACAL EM AREAS NAO REGULARIZADAS E DA..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"98" "PROC. 00761/15 - PLCE 006/15" "altera o Anexo V da Lei Complementar nº 630, de 1º de outubro de 2009, que institui a Operação Urbana Consorciada Lomba do Pinheiro e dá outras providências, dispondo sobre o conceito e o grupamento de Atividades da Zona de Uso Residencial 1." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"99" "PROC. 00760/15 - PLCE 005/15" "altera os limites da Macrozona (MZ) 08, entre as Unidades de Estruturação Urbana (UEU) 078 e UEU 080; das Subunidades 01 e 09 da UEU 078 da Macrozona (MZ) 08 e das Subunidades 01 e 02 da UEU 080 da Macrozona (MZ) 08; cria as Subunidades 11, 12, 13, 14, 15 e 16 da UEU 078 da Macrozona (MZ) 08 e cria as Subunidades 05, 06, 07, 08, 09, 10, 11 e 12..." "Autor
+Executivo Municipal
+Situação
+AGUARDANDO REPUBLICACAO DA LEI"
+"100" "PROC. 00649/15 - PLCE 004/15" "DISPOE SOBRE A REGULARIZACAO DE OBRAS CIVIS E CONSTRUCOES DO CONJUNTO HABITACIONAL HEROPHILO AZAMBUJA (IPE II), LOCALIZADO ENTRE AS AVENIDAS PROTASIO ALVES, BENTO GONCALVES E ANTONIO DE CARVALHO, OBJETO DA MATRICULA ORIGINAL N. 62.408, DE PROPRIEDADE DO INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL (IPERGS), E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"101" "PROC. 00548/15 - PLCE 003/15" "cria o Fundo de Reaparelhamento e Aperfeiçoamento Previdenciário- FRAP." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"102" "PROC. 00427/15 - PLCE 002/15" "estabelece normas gerais para o processo administrativo no âmbito da Administração Municipal Direta e da Administração Municipal Indireta e normas especiais para a constituição de dívida não tributária no Município de Porto Alegre; altera o caput e seus incs. I a IV, renomeia o parágrafo único para § 1º, alterando-se sua redação atual, inclui..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL REJEITADO"
+"103" "PROC. 00347/15 - PLCE 001/15" "altera o caput, os incs. I, II, III, IV, e os §§ 1º, 2º, 3º e 4º do art. 15, inclui incs. V, VI, VII, VIII e IX e § 6º no caput do art. 15; altera o caput do art. 16, renumera o parágrafo único para § 1º alterando sua redação, inclui incs. I e II e § 2º no caput do art. 16, e altera o art. 17, todos da lei Complementar nº 170, de 31 de..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"104" "PROC. 02965/14 - PLCE 016/14" "que altera os arts. 109, 125, caput; revoga o parágrafo único e altera o caput do art. 131; inclui o art. 127-A, todos da Lei Complementar nº 133, de 31 de dezembro de 1985, que estabelece sobre o Estatuto dos Funcionários Públicos do Município de Porto Alegre, e dá outras providências." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"105" "PROC. 02805/14 - PLCE 015/14" "cria a Subunidade 02 da UEU 22 da Macrozona 09, institui regime urbanístico e dá outras providências, com base no inc. IV do art. 162 e no inc. III do art. 76 da Lei Complementar nº 434, de 1º de dezembro de 1999, alterada pela Lei Complementar nº 646, de 22 de julho de 2010." "Autor
+do Executivo Municipal
+Situação
+ARQUIVADO"
+"106" "PROC. 02783/14 - PLCE 014/14" "altera o caput do art. 15, o inc. IX do art. 16 e o art. 17 e inclui art. 17-A na Lei Complementar nº 721, de 29 de novembro de 2013 – que estabelece medidas de incentivo e apoio à inovação e à pesquisa científica e tecnológica no ambiente empresarial, acadêmico e social no Município de Porto Alegre –, modificando a constituição do Conselho..." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"107" "PROC. 02759/14 - PLCE 013/14" "inclui § 3º no art. 17-A, altera o caput e o § 2º do art. 66-A, revoga os §§ 3º e 4º do art. 66-A e altera o § 3º do art. 68, todos da Lei Complementar nº 7, de 7 de dezembro de 1973 – que institui e disciplina os tributos de competência do Município –; revoga a al. f do § 2º do art. 18, altera o § 3º do art. 26 e inclui § 6º no art. 26, todos..." "Autor
+do Executivo Municipal
+Situação
+ARQUIVADO"
+"108" "PROC. 02758/14 - PLCE 012/14" "altera o § 5º do art. 33 da Lei Complementar nº 728, de 8 de janeiro de 2014. (Código Municipal de Limpeza Urbana)" "Autor
+do Executivo Municipal
+Situação
+ARQUIVADO"
+"109" "PROC. 02728/14 - PLCE 011/14" "altera o § 9º do art. 2º; inclui arts. 2º-A e 5º-B na Lei Complementar nº 505, de 28 de maio de 2004, alterada pela Lei Complementar nº 723, de 30 de dezembro de 2013 – que dispõe sobre alíquotas de contribuição previdenciária para fins de custeio do Regime Próprio de Previdência Social dos Servidores Públicos do Município de Porto Alegre, e dá..." "Autor
+do Executivo Municipal
+Situação
+ARQUIVADO"
+"110" "PROC. 02665/14 - PLCE 010/14" "que dispõe sobre alterações na estrutura da Secretaria Municipal da Fazenda; cria o Tesouro Municipal, a Superintendência da Tecnologia da Informação e a Receita Municipal e define a estrutura básica e as funções institucionais destes; altera a estrutura da Controladoria-Geral do Município; dispõe sobre a carreira e a remuneração do..." "Autor
+Governo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"111" "PROC. 02617/14 - PLCE 009/14" "institui os preços públicos para os serviços que menciona e revoga a Lei Complementar nº 203, de 28 de dezembro de 1989." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO"
+"112" "PROC. 02616/14 - PLCE 008/14" "inclui as als. g, h e i no inc. II do art. 2º; altera a redação da al. b do inc. II do art. 3º, do § 1º e do caput do art. 45, do caput e dos §§ 1º, 5º e 6º do art. 47, do art. 48-A, do art. 51, do § 8º do art. 47 e dos arts. 48-B, 52-B, 52-C, 52-D, 52-E, 52-F, 52-G, 52-H, 52-I, 52-J, 52-L, 52-M, 52-N, 52-O, 52-P, 52-Q e 52-R; inclui item 6 na..." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO"
+"113" "PROC. 02555/14 - PLCE 007/14" "institui a Zona Rural no Município de Porto Alegre e cria o Sistema de Gestão da Política de Desenvolvimento Rural." "Autor
+Executivo Municipal
+Situação
+ARQUIVADO"
+"114" "PROC. 02368/14 - PLCE 006/14" "cria o Conselho Municipal de Saneamento Básico de Porto Alegre." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO"
+"115" "PROC. 01907/14 - PLCE 005/14" "altera o art. 1º e inclui inc. V no caput do art. 2º da Lei Complementar nº 341, de 17 de janeiro de 1995, estabelecendo à Fundação de Assistência Social e Cidadania (FASC) a realização de atividades em regime de plantões de 12 (doze) horas consecutivas de trabalho por 36 (trinta e seis) horas consecutivas de descanso, para assegurar o..." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL (PARTE MANTIDO\PARTE REJEITADO)"
+"116" "PROC. 01631/14 - PLCE 004/14" "revoga os arts. 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56 e 57 da Lei Complementar nº 12, de 7 de janeiro de 1975, que dispõe sobre elevadores." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"117" "PROC. 00438/14 - PLCE 003/14" "REVOGA A PARAGRAFO 2., DO ART. 2. DA LEI COMPLEMENTAR N. 703, DE 28 DE SETEMBRO DE 2012 - QUE ESTABELECE AS DIRETRIZES PARA A IMPLANTACAO DA INFRAESTRUTURA NECESSARIA A REALIZACAO DA COPA DO MUNDO DE 2014, IMPLANTACAO DO SISTEMA BUS RAPID TRANSIT (BRT) E DO METRO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"118" "PROC. 00409/14 - PLCE 002/14" "INCLUI INC. XVII AO ART. 10 DA LEI COMPLEMENTAR N. 563, DE 30 DE JANEIRO DE 2007 - QUE ORGANIZA, NO AMBITO DA ADMINISTRACAO CENTRALIZADA DA PREFEITURA MUNICIPAL DE PORTO ALEGRE, O SISTEMA MUNICIPAL DE PROTECAO E DEFESA DOS DIREITOS DO CONSUMIDOR (SMDC), INSTITUI O SERVICO DE PROTECAO E DEFESA DOS DIREITOS DO CONSUMIDOR (PROCON/PMPA), O CONSELHO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"119" "PROC. 00408/14 - PLCE 001/14" "AUTORIZA INTERVENCOES NO COMPLEXO DO HOSPITAL DE CLINICAS DE PORTO ALEGRE, EM IMOVEL RELACIONADO COMO PREDIO INVENTARIADO DE ESTRUTURACAO, INSERIDO EM AREA DE INTERESSE INSTITUCIONAL." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"120" "PROC. 03454/13 - PLCE 021/13" "ALTERA A EMENTA E O ART. 1. DA LEI COMPLEMENTAR N. 666, DE 30 DE DEZEMBRO DE 2010, QUE DEFINE OS INDICES DE APROVEITAMENTO PARA OS TERRENOS NOS QUAIS SE TENHA A FINALIDADE DE IMPLANTAR PROJETOS DE REFORMAS OU AMPLIACOES DE CENTROS ESPORTIVOS, CLUBES, EQUIPAMENTOS ADMINISTRATIVOS, HOSPITAIS, HOTEIS, APART-HOTEIS, CENTROS DE EVENTOS, CENTROS..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"121" "PROC. 03425/13 - PLCE 020/13" "INSTITUI O CORREDOR PARQUE DO GASOMETRO E ALTERA O PARAGRAFO 3. DO ART. 154 DA LEI COMPLEMENTAR N. 646, DE 22 DE JULHO DE 2010." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO REPUBLICACAO DA LEI"
+"122" "PROC. 03349/13 - PLCE 019/13" "DISPOE SOBRE INFORMACOES A SEREM PRESTADAS PELAS ADMINISTRADORAS DE CARTOES DE CREDITO OU DE DEBITO EM CONTA CORRENTE E DEMAIS ESTABELECIMENTOS SIMILARES.." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"123" "PROC. 03348/13 - PLCE 018/13" "ALTERA A AL. ''C'' DO INC. I E INCLUI AL. ''F'' AO INC. II E PARAGRAFO 6. AO ART. 8., TODOS DA LEI COMPLEMENTAR N. 197, DE 21 DE MARCO DE 1989 - QUE INSTITUI E DISCIPLINA O IMPOSTO SOBRE A TRANSMISSAO ''INTER-VIVOS'', POR ATO ONEROSO, DE BENS IMOVEIS E DE DIREITOS REAIS A ELES RELATIVOS.." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"124" "PROC. 03347/13 - PLCE 017/13" "INCLUI PARAGRAFO 7. AO ART. 3., INCS. XXIII E XXIV AO ART. 21 E INC. XXIX AO ART. 70, E ALTERA O INC. II DO PARAGRAFO 2. DO ART. 21 E O PARAGRAFO 3. DO ART. 68, TODOS DA LEI COMPLENTAR N. 7, DE 7 DE DEZEMBRO DE 1973 - QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO -, ALTERA OS ART. 3., 6. E 11, E REVOGA O PARAGRAFO UNICO DA..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"125" "PROC. 03246/13 - PLCE 016/13" "DEFINE O INDICE DE APROVEITAMENTO PARA O ESTUDO DE VIABILIDADE URBANISTICA (EVU) REFERENTE AO EMPREENDIMENTO NAVAL LOCALIZADO NA ILHA GRANDE DOS MARINHEIROS E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"126" "PROC. 03185/13 - PLCE 015/13" "extingue a Subunidade 10 da Unidade de Estruturação Urbana (UEU) 10 da Macrozona (MZ) 07, definida como Área Especial de Interesse Social I (AEIS I), e altera os limites, os regimes urbanísticos e as Subunidades 01 e 05 da UEU 10 da MZ 07, revogando a Lei Complementar nº 621, de 23 de junho de 2009." "Autor
+Governo Municipal
+Situação
+AGUARDANDO REPUBLICACAO DA LEI"
+"127" "PROC. 02821/13 - PLCE 014/13" "ALTERA OS CAPUTS DOS ARTS. 42, 45 E 61, OS INCC. I A IV DO ART. 62 E O INC. VIII DO ART. 133, E INCLUI PARAGRAFOS 1, 1 E 3 AO ART. 61,TODOS DA LEI COMPLEMENTAR N. 628, DE 17 DE AGOSTO DE 2009 - QUE CONSOLIDA A LEGISLACAO MUNICIPAL QUE DISPOE SOBRE A DEFESA DOS DIREITOS DA CRIANCA E DO ADOLESCENTE E REVOGA O ART. 13 DA LEI N. 9.693, DE 29 DE..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"128" "PROC. 02686/13 - PLCE 013/13" "estabelece regras para a supressão, o transplante ou a poda de espécies vegetais no Município de Porto Alegre, revoga os Decretos nºs 10.237, de 11 de março de 1992, 10.258, de 3 de abril de 1992, 15.418, de 20 de dezembro de 2006, 17.232, de 26 de agosto de 2011, 18.083, de 21 de novembro de 2012, e 18.305, de 28 de maio de 2013, e dá outras..." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"129" "PROC. 02599/13 - PLCE 012/13" "INSTITUI O CODIGO MUNICIPAL DE LIMPEZA URBANA, REVOGA AS LEIS COMPLEMENTARES N. 234, DE 10 DE OUTUBRO DE 1990; A LEI COMPLEMENTAR N. 274, DE 25 DE MARCO DE 1992; 376, DE 3 DE JUNHO DE 1996; 377, DE 3 DE JUNHO DE 1996; 591, DE 23 DE ABRIL DE 2008; E 602, DE 24 DE NOVEMBRO DE 2008, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"130" "PROC. 02568/13 - PLCE 011/13" "ALTERA AS ALIQUOTAS DE CONTRIBUICAO PREVIDENCIARIA, ALTERANDO A AL. ''C'' DO INC. II DO ART. 2. DA LEI COMPLEMENTAR N. 505, DE 28 DE MAIO DE 2004; INCLUI AL. ''D'' AO INC. II E PARAGRAFOS 4., 5., 6., 7., 8. E 9., NO MESMO DISPOSITIVO; INCLUI PARAGRAFO 1. AO ART. 7., E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"131" "PROC. 02495/13 - PLCE 010/13" "altera o art. 24 e revoga o § 2º do art. 32 da Lei Complementar nº 626, de 15 de julho de 2009 – que institui o Plano Diretor Cicloviário Integrado e dá outras providências –, e inclui Anexo 6 na Lei Complementar nº 626, de 2009, criando o Fundo Municipal de Apoio à Implantação do Sistema Cicloviário (FMASC) e instituindo seu Conselho Gestor." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"132" "PROC. 02159/13 - PLCE 009/13" "ALTERA O ''CAPUT'' DO ART. 9. E O PARAGRAFO 2. DO ART. 17-A DA LEI COMPLEMENTAR N. 636, DE 13 DE JANEIRO DE 2010 - QUE INSTITUI O PROGRAMA MINHA CASA, MINHA VIDA - PORTO ALEGRE, ALTERA O PARAGRAFO UNICO DO ART. 1. DA LEI COMPLEMENTAR N. 548, DE 24 DE ABRIL DE 2006, ALTERADA PELA LEI COMPLEMENTAR N. 619, DE 10 DE JUNHO DE 2009, REVOGA A LEI..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"133" "PROC. 02154/13 - PLCE 008/13" "INSTITUI COMO AREA DE INTERESSE CULTURAL (AIC), OS IMOVEIS SITUADOS NO MZ 08 UEU 066 - QUARTEIRAO 01 DA AREA DENOMINADA ALDEIA INDIGENA CHARRUA POLIDORO LOCALIZADA NA ESTRADA SAO CAETANO, N. 2004, CARACTERIZADA COMO PROPRIEDADE MUNICIPAL INDIVISIVEL, INSTITUI REGIME URBANISTICO PROPRIO E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"134" "PROC. 02001/13 - PLCE 007/13" "INCLUI INC. XVII, RENUMERA O PARAGRAFO UNICO E INCLUI PARAGRAFO 2., TODOS DO ART. 71 E REVOGA O INC. IV DO ART. 21, AMBOS DA LEI COMPLEMENTAR N. 7, , DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"135" "PROC. 01963/13 - PLCE 006/13" "ALTERA O ART. 14 DA LEI COMPLEMENTAR N. 703, DE 28 DE SETEMBRO DE 2012 - QUE ESTABELECE AS DIRETRIZES PARA A IMPLEMENTACAO DA INFRAESTRUTURA NECESSARIA A REALIZACAO DA COPA DO MUNDO DE 2014, IMPLANTACAO DO SISTEMA 'BUS RAPID TRANSIT' (BRT) E DO METRO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"136" "PROC. 01699/13 - PLCE 005/13" "ESTABELECE MEDIDAS DE INCENTIVO E APOIO A INOVACAO E A PESQUISA CIENTIFICA E TECNOLOGICA NO AMBIENTE EMPRESARIAL, ACADEMICO E SOCIAL NO MUNICIPIO DE PORTO ALEGRE E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"137" "PROC. 00823/13 - PLCE 004/13" "ALTERA O CAPUT DO ART. 1. DA LEI COMPLEMENTAR N. 666, DE 30 DE DEZEMBRO DE 2010, INCLUINDO OS TERRENOS NOS QUAIS SE TENHA A FINALIDADE DE IMPLANTAR CLINICAS MEDICAS, EM ROL PARA CUJOS PROJETOS DE REFORMAS, ADEQUACOES OU AMPLIACOES SAO DEFINIDOS INDICES DE APROVEITAMENTO E AMPLIANDO A DATA MAXIMA DE PROTOCOLIZACAO DOS PEDIDOS DE APROVACAO DESSE..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"138" "PROC. 00773/13 - PLCE 003/13" "INSTITUI AREAS ESPECIAIS DE INTERESSE SOCIAL, NA CATEGORIA DE AEIS III E DEFINE REGIME URBANISTICO, QUE VISA ATENDER A DEMANDA HABITACIONAL PRORITARIA (DHP), PARA ATENDIMENTO AOS REASSENTAMENTOS VINCULADOS AS OBRAS DA COPA DE 2014, NA FORMA DA LEI COMPLEMENTAR 434, DE 1. DE DEZEMBRO DE 1999, MODIFICADA PELA LEI COMPLEMENTAR N. 646, DE 22 DE..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"139" "PROC. 00768/13 - PLCE 002/13" "revoga o art. 42 da Lei Complementar nº 663, de 28 de dezembro de 2010." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO"
+"140" "PROC. 00677/13 - PLCE 001/13" "ALTERA O PARAGRAFO UNICO DO ART. 20, OS ART. 26 E 27 E INCLUI ART. 26-A, TODOS DA LEI COMPLEMENTAR N. 677, DE 19 DE JULHO DE 2011 - QUE ALTERA OS ARTS. 4 E 44 E O ANEXO I E INCLUI ARTS. 36-A,, 37-A E 43-A NA LEI N. 6.309, DE 28 DE DEZEMBRO DE 1988, E ALTERACOES POSTERIORES, CRIANDO O GRUPO ESM - ESPECIALIDADE MEDICA E AS CLASSES DE CARGOS EM..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"141" "PROC. 03425/13 - PLCE 020/13" "INSTITUI O CORREDOR PARQUE DO GASOMETRO E ALTERA O PARAGRAFO 3. DO ART. 154 DA LEI COMPLEMENTAR N. 646, DE 22 DE JULHO DE 2010." "Autor
+GOVERNO MUNICIPAL
+Situação
+AGUARDANDO REPUBLICACAO DA LEI"
+"142" "PROC. 03349/13 - PLCE 019/13" "DISPOE SOBRE INFORMACOES A SEREM PRESTADAS PELAS ADMINISTRADORAS DE CARTOES DE CREDITO OU DE DEBITO EM CONTA CORRENTE E DEMAIS ESTABELECIMENTOS SIMILARES.." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"143" "PROC. 03348/13 - PLCE 018/13" "ALTERA A AL. ''C'' DO INC. I E INCLUI AL. ''F'' AO INC. II E PARAGRAFO 6. AO ART. 8., TODOS DA LEI COMPLEMENTAR N. 197, DE 21 DE MARCO DE 1989 - QUE INSTITUI E DISCIPLINA O IMPOSTO SOBRE A TRANSMISSAO ''INTER-VIVOS'', POR ATO ONEROSO, DE BENS IMOVEIS E DE DIREITOS REAIS A ELES RELATIVOS.." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"144" "PROC. 03347/13 - PLCE 017/13" "INCLUI PARAGRAFO 7. AO ART. 3., INCS. XXIII E XXIV AO ART. 21 E INC. XXIX AO ART. 70, E ALTERA O INC. II DO PARAGRAFO 2. DO ART. 21 E O PARAGRAFO 3. DO ART. 68, TODOS DA LEI COMPLENTAR N. 7, DE 7 DE DEZEMBRO DE 1973 - QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO -, ALTERA OS ART. 3., 6. E 11, E REVOGA O PARAGRAFO UNICO DA..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"145" "PROC. 03246/13 - PLCE 016/13" "DEFINE O INDICE DE APROVEITAMENTO PARA O ESTUDO DE VIABILIDADE URBANISTICA (EVU) REFERENTE AO EMPREENDIMENTO NAVAL LOCALIZADO NA ILHA GRANDE DOS MARINHEIROS E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"146" "PROC. 03185/13 - PLCE 015/13" "extingue a Subunidade 10 da Unidade de Estruturação Urbana (UEU) 10 da Macrozona (MZ) 07, definida como Área Especial de Interesse Social I (AEIS I), e altera os limites, os regimes urbanísticos e as Subunidades 01 e 05 da UEU 10 da MZ 07, revogando a Lei Complementar nº 621, de 23 de junho de 2009." "Autor
+Governo Municipal
+Situação
+AGUARDANDO REPUBLICACAO DA LEI"
+"147" "PROC. 02821/13 - PLCE 014/13" "ALTERA OS CAPUTS DOS ARTS. 42, 45 E 61, OS INCC. I A IV DO ART. 62 E O INC. VIII DO ART. 133, E INCLUI PARAGRAFOS 1, 1 E 3 AO ART. 61,TODOS DA LEI COMPLEMENTAR N. 628, DE 17 DE AGOSTO DE 2009 - QUE CONSOLIDA A LEGISLACAO MUNICIPAL QUE DISPOE SOBRE A DEFESA DOS DIREITOS DA CRIANCA E DO ADOLESCENTE E REVOGA O ART. 13 DA LEI N. 9.693, DE 29 DE..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"148" "PROC. 02686/13 - PLCE 013/13" "estabelece regras para a supressão, o transplante ou a poda de espécies vegetais no Município de Porto Alegre, revoga os Decretos nºs 10.237, de 11 de março de 1992, 10.258, de 3 de abril de 1992, 15.418, de 20 de dezembro de 2006, 17.232, de 26 de agosto de 2011, 18.083, de 21 de novembro de 2012, e 18.305, de 28 de maio de 2013, e dá outras..." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"149" "PROC. 02599/13 - PLCE 012/13" "INSTITUI O CODIGO MUNICIPAL DE LIMPEZA URBANA, REVOGA AS LEIS COMPLEMENTARES N. 234, DE 10 DE OUTUBRO DE 1990; A LEI COMPLEMENTAR N. 274, DE 25 DE MARCO DE 1992; 376, DE 3 DE JUNHO DE 1996; 377, DE 3 DE JUNHO DE 1996; 591, DE 23 DE ABRIL DE 2008; E 602, DE 24 DE NOVEMBRO DE 2008, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"150" "PROC. 02568/13 - PLCE 011/13" "ALTERA AS ALIQUOTAS DE CONTRIBUICAO PREVIDENCIARIA, ALTERANDO A AL. ''C'' DO INC. II DO ART. 2. DA LEI COMPLEMENTAR N. 505, DE 28 DE MAIO DE 2004; INCLUI AL. ''D'' AO INC. II E PARAGRAFOS 4., 5., 6., 7., 8. E 9., NO MESMO DISPOSITIVO; INCLUI PARAGRAFO 1. AO ART. 7., E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"151" "PROC. 02495/13 - PLCE 010/13" "altera o art. 24 e revoga o § 2º do art. 32 da Lei Complementar nº 626, de 15 de julho de 2009 – que institui o Plano Diretor Cicloviário Integrado e dá outras providências –, e inclui Anexo 6 na Lei Complementar nº 626, de 2009, criando o Fundo Municipal de Apoio à Implantação do Sistema Cicloviário (FMASC) e instituindo seu Conselho Gestor." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"152" "PROC. 02159/13 - PLCE 009/13" "ALTERA O ''CAPUT'' DO ART. 9. E O PARAGRAFO 2. DO ART. 17-A DA LEI COMPLEMENTAR N. 636, DE 13 DE JANEIRO DE 2010 - QUE INSTITUI O PROGRAMA MINHA CASA, MINHA VIDA - PORTO ALEGRE, ALTERA O PARAGRAFO UNICO DO ART. 1. DA LEI COMPLEMENTAR N. 548, DE 24 DE ABRIL DE 2006, ALTERADA PELA LEI COMPLEMENTAR N. 619, DE 10 DE JUNHO DE 2009, REVOGA A LEI..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"153" "PROC. 02154/13 - PLCE 008/13" "INSTITUI COMO AREA DE INTERESSE CULTURAL (AIC), OS IMOVEIS SITUADOS NO MZ 08 UEU 066 - QUARTEIRAO 01 DA AREA DENOMINADA ALDEIA INDIGENA CHARRUA POLIDORO LOCALIZADA NA ESTRADA SAO CAETANO, N. 2004, CARACTERIZADA COMO PROPRIEDADE MUNICIPAL INDIVISIVEL, INSTITUI REGIME URBANISTICO PROPRIO E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"154" "PROC. 02001/13 - PLCE 007/13" "INCLUI INC. XVII, RENUMERA O PARAGRAFO UNICO E INCLUI PARAGRAFO 2., TODOS DO ART. 71 E REVOGA O INC. IV DO ART. 21, AMBOS DA LEI COMPLEMENTAR N. 7, , DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"155" "PROC. 01963/13 - PLCE 006/13" "ALTERA O ART. 14 DA LEI COMPLEMENTAR N. 703, DE 28 DE SETEMBRO DE 2012 - QUE ESTABELECE AS DIRETRIZES PARA A IMPLEMENTACAO DA INFRAESTRUTURA NECESSARIA A REALIZACAO DA COPA DO MUNDO DE 2014, IMPLANTACAO DO SISTEMA 'BUS RAPID TRANSIT' (BRT) E DO METRO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"156" "PROC. 01699/13 - PLCE 005/13" "ESTABELECE MEDIDAS DE INCENTIVO E APOIO A INOVACAO E A PESQUISA CIENTIFICA E TECNOLOGICA NO AMBIENTE EMPRESARIAL, ACADEMICO E SOCIAL NO MUNICIPIO DE PORTO ALEGRE E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"157" "PROC. 00823/13 - PLCE 004/13" "ALTERA O CAPUT DO ART. 1. DA LEI COMPLEMENTAR N. 666, DE 30 DE DEZEMBRO DE 2010, INCLUINDO OS TERRENOS NOS QUAIS SE TENHA A FINALIDADE DE IMPLANTAR CLINICAS MEDICAS, EM ROL PARA CUJOS PROJETOS DE REFORMAS, ADEQUACOES OU AMPLIACOES SAO DEFINIDOS INDICES DE APROVEITAMENTO E AMPLIANDO A DATA MAXIMA DE PROTOCOLIZACAO DOS PEDIDOS DE APROVACAO DESSE..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"158" "PROC. 00773/13 - PLCE 003/13" "INSTITUI AREAS ESPECIAIS DE INTERESSE SOCIAL, NA CATEGORIA DE AEIS III E DEFINE REGIME URBANISTICO, QUE VISA ATENDER A DEMANDA HABITACIONAL PRORITARIA (DHP), PARA ATENDIMENTO AOS REASSENTAMENTOS VINCULADOS AS OBRAS DA COPA DE 2014, NA FORMA DA LEI COMPLEMENTAR 434, DE 1. DE DEZEMBRO DE 1999, MODIFICADA PELA LEI COMPLEMENTAR N. 646, DE 22 DE..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"159" "PROC. 00768/13 - PLCE 002/13" "revoga o art. 42 da Lei Complementar nº 663, de 28 de dezembro de 2010." "Autor
+do Governo Municipal
+Situação
+ARQUIVADO"
+"160" "PROC. 00677/13 - PLCE 001/13" "ALTERA O PARAGRAFO UNICO DO ART. 20, OS ART. 26 E 27 E INCLUI ART. 26-A, TODOS DA LEI COMPLEMENTAR N. 677, DE 19 DE JULHO DE 2011 - QUE ALTERA OS ARTS. 4 E 44 E O ANEXO I E INCLUI ARTS. 36-A,, 37-A E 43-A NA LEI N. 6.309, DE 28 DE DEZEMBRO DE 1988, E ALTERACOES POSTERIORES, CRIANDO O GRUPO ESM - ESPECIALIDADE MEDICA E AS CLASSES DE CARGOS EM..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"161" "PROC. 03913/11 - PLCE 009/11" "DISPENSA O PODER EXECUTIVO MUNICIPAL DE REALIZAR LANCAMENTOS RETROATIVOS; DISPENSA O LANCAMENTO POR DESCUMPRIMENTO DE OBRIGACAO ACESSORIA E ESTABELECE A DATA DE RETROACAO DE LANCAMENTOS, NAS CONDICOES QUE ESTABELECE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"162" "PROC. 03772/11 - PLCE 008/11" "ALTERA O ''CAPUT'', A AL. 'B' DO INC. I E AS ALS. ''B'' E ''C'' DO INC. II DO PARAGRAFO 1 DO ART. 1, OS INCS. I, V E IX DO ''CAPUT'' E O INC. II DO PARAGRAFO UNICO DO ART. 3; O ''CAPUT'' E O PARAGRAFO 1 DO ART. 4; O PARAGRAFO UNICO DO ART. 5; OS ARTS. 6 E 8; O INC. I DO ART. 9; ACRESCENTA ART. 2-A E INC. III NO PARAGRAFO UNICO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"163" "PROC. 03699/11 - PLCE 007/11" "ALTERA OS PARAGRAFOS 1 E 2 DO ART. 8, O PARAGRAFO 3 DO ART. 12, OS ARTS. 14, 18, 19 E 20 DA LEI COMPLEMENTAR N. 478, DE 26 DE SETEMBRO DE 2002 E INCLUI O ART. 19-A NA REFERIDA LEI COMPLEMENTAR, QUE DISPOE SOBRE O DEPARTAMENTO MUNICIPAL DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE PORTO ALEGRE (PREVIMPA), ..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"164" "PROC. 03665/11 - PLCE 006/11" "INCLUI PARAGRAFO 2., RENUMERA O PARAGRAFO UNICO DO ART. 107 E INCLUI ART. 107-A A LEI COMPLEMENTAR N. 133, DE 31 DE DEZEMBRO DE 1985 - ESTATUTO DOS SERVIDORES PUBLICOS DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"165" "PROC. 03594/11 - PLCE 005/11" "CONSOLIDA A LEGISLACAO SOBRE CRIACAO, COMERCIO, EXIBICAO, CIRCULACAO E POLITICAS DE PROTECAO DE ANIMAIS NO MUNICIPIO DE PORTO ALEGRE E REVOGA LEGISLACAO SOBRE O TEMA." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"166" "PROC. 03138/11 - PLCE 004/11" "ESTABELECE REGRAS DE PERCEPCAO DE VENCIMENTOS AOS SERVIDORES MUNICIPARIOS EM EXERCICIO NA SECRETARIA MUNICIPAL DE SAUDE (SMS), QUE ADERIRAM AO MOVIMENTO GREVISTA DA SAUDE, NO PERIODO DE AGOSTO A SETEMBRO DE 2011, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"167" "PROC. 03137/11 - PLCE 003/11" "INSTITUI, NO MUNICIPIO DE PORTO ALEGRE, O ESTUDO DE IMPACTO DE VIZINHANCA (EIV), NOS TERMOS DOS ARTS. 36, 37 E 38 DA LEI FEDERAL N. 10.257, DE 10 DE JULHO DE 2001 - ESTATUTO DA CIDADE, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"168" "PROC. 03073/11 - PLCE 002/11" "CRIA O FUNDO MUNICIPAL DOS DIREITOS ANIMAIS (FMDA) E INSTITUI SEU CONSELHO GESTOR." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"169" "PROC. 02287/11 - PLCE 001/11" "CRIA O GRUPO ESPECIALIDADE MEDICA E A CLASSE DE CARGOS DE MEDICO ESPECIALISTA NO ANEXO I, LETRA A - DO QUADRO DE CARGOS DE PROVIMENTO EFETIVO; CRIA A ESPECIFICACAO DE CLASSE DESSA CLASSE DE CARGOS NO ANEXO I, LETRA B - ESPECIFICACOES DE CLASSES; EXTINGUE A CLASSE DE CARGOS DE PROVIMENTO EFETIVO DE MEDICO; CRIA A CLASSE DE CARGOS DE MEDICO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"170" "PROC. 04370/10 - PLCE 016/10" "REVOGA O PARAGRAFO 7 DO ART. 6 DA LEI COMPLEMENTAR N. 197, DE 21 DE MARCO DE 1989, QUE INSTITUI E DISCIPLINA O IMPOSTO SOBRE A TRANSMISSAO INTER-VIVOS, POR ATO ONEROSO, DE BENS IMOVEIS E DE DIREITOS REAIS A ELES RELATIVOS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"171" "PROC. 04369/10 - PLCE 015/10" "ALTERA O ART. 11; O INC. XXI DO ART. 21; A AL. B DO PARAGRAFO 1 DO ART. 70; E O CAPUT E O ITEM 2 DA AL. A DO INC. I DO ART. 72, E ACRESCENTA ITEM 3 DA REFERIDA ALINEA; TODOS DA LEI COMPLEMENTAR N. 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"172" "PROC. 04243/10 - PLCE 014/10" "CRIA NO MUNICIPIO DE PORTO ALEGRE O FUNDO PARA IMPLEMENTACAO DO PROGRAMA DE REDUCAO GRADATIVA (FRGV) DE VEICULOS DE TRACAO ANIMAL (VTAS) E VEICULOS DE TRACAO HUMANA (VTHS); SEU CONSELHO GESTOR E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"173" "PROC. 04240/10 - PLCE 013/10" "ACRESCENTA O PARAGRAFO 4 AO ART. 68 DA LEI COMPLEMENTAR N. 133, DE 31 DE DEZEMBRO DE 1985, QUE ESTABELECE SOBRE O ESTATUTO DOS FUNCIONARIOS PUBLICOS DO MUNICIPIO DE PORTO ALEGRE, POSSIBILITANTO A ATRIBUICAO DE FUNCAO GRATIFICADA ESPECIAL PARA POSTOS DE CONFIANCA DO GABINETE DE PLANEJAMENTO ESTRATEGICO (GPE), DO GABINETE DO PREFEITO (GP); E DA..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"174" "PROC. 04226/10 - PLCE 012/10" "DISPOE SOBRE OS CENTROS ADMINISTRATIVOS REGIONAIS (CARS) E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"175" "PROC. 04118/10 - PLCE 011/10" "DISPOE SOBRE PARCELAMENTO ORDINARIO DE CREDITOS DECORRENTES DA PRESTACAO DOS SERVICOS DE ABASTECIMENTO DE AGUA E REMOCAO DE ESGOTOS; AUTORIZA O DEPARTAMENTO MUNICIPAL DE AGUA E ESGOTOS (DMAE) A CONCEDER REDUCAO DA MULTA E DOS JUROS DE MORA, PARA PAGAMENTO OU PARCELAMENTO DAS DIVIDAS VENCIDAS ATE 31 DE OUTUBRO DE 2010; E ALTERA OS ARTS. 44, 49 E..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"176" "PROC. 04117/10 - PLCE 010/10" "DEFINE INDICE DE APROVEITAMENTO PARA PROJETOS DE REFORMAS OU AMPLIACOES DE CENTROS ESPORTIVOS, CLUBES, EQUIPAMENTOS ADMINISTRATIVOS, HOSPITAIS, HOTEIS, APART-HOTEIS (RESIDENCIAIS COM SERVICOS DE HOTELARIA), CENTROS DE EVENTOS, CENTROS COMERCIAIS, SHOPPING CENTERS, ESCOLAS, UNIVERSIDADES E IGREJAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"177" "PROC. 03803/10 - PLCE 009/10" "INCLUI ART. 134-A NO TITULO IV - DAS DISPOSICOES GERAIS E FINAIS - , ALTERA O PARAGRAFO 3 DO ART. 27, O CAPUT DO ART. 34, O PARAGRAFO 1 DO ART. 43, O PARAGRAFO 2 DO ART. 48, O CAPUT DO ART. 65, O ART. 66, O INC. III DO ART. 70, O INC. I DO ART. 81, TODOS DA LEI COMPLEMENTAR N. 478, DE 26 DE SETEMBRO DE 2002, QUE DISPOE SOBRE O REGIME PROPRIO DE..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"178" "PROC. 03383/10 - PLCE 008/10" "ALTERA LIMITES DE SUBUNIDADES, DE UNIDADES DE ESTRUTURACAO URBANA (UEU) E DE MACROZONAS (MZS), CRIA SUBUNIDADES, INSTITUI COMO AREAS ESPECIAIS DE INTERESSE SOCIAL - AEIS I E III - NO PLANO DIRETOR DE DESENVOLVIMENTO URBANO E AMBIENTAL (LEI COMPLEMENTAR N. 434, DE 1 DE DEZEMBRO DE 1999) AS AREAS CORRESPONDENTES AOS EMPREENDIMENTOS APROVADOS NO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+P - PARA CONSULTA"
+"179" "PROC. 03181/10 - PLCE 007/10" "INCLUI INC. XVI E PARAGRAFO UNICO AO ART. 71 DA LEI COMPLEMENTAR N. 7, DE 7 DE DEZEMBRO DE 1973, QUE TRATA DE HIPOTESES DE ISENCAO DO IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA (ISSQN)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"180" "PROC. 02974/10 - PLCE 006/10" "ALTERA A REDACAO DO PARAGRAFO 7 DO ART. 52 DA LEI COMPLEMENTAR N. 434, DE 1 DE DEZEMBRO DE 1999, ALTERADA PELA LEI COMPLEMENTAR N. 646, DE 22 DE JULHO DE 2010 (ALTERA LIMITES DAS EDIFICACOES MA MACROZONA 1 - ART. 52 DO PDDUA)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"181" "PROC. 02003/10 - PLCE 005/10" "ALTERA A REDACAO DO PARAGRAFO 2 DO ART. 1 DA LEI COMPLEMENTAR N. 605, DE 29 DE SETEMBRO DE 2008, QUE ISENTA A PESSOA FISICA, JURIDICA OU EQUIPARADA, NACIONAL OU ESTRANGEIRA, DO ISSQN, DO IPTU, DO ITBI, DAS TAXAS INSTITUIDAS PELO MUNICIPIO DE PORTO ALEGRE E DA CONTRIBUICAO PARA CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA (CIP); E INCLUI I INC...." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"182" "PROC. 01241/10 - PLCE 004/10" "CRIA O CONSELHO MUNICIPAL DOS DIREITOS DO POVO NEGRO E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"183" "PROC. 01188/10 - PLCE 003/10" "ESTABELECE NORMAS SOBRE A INCORPORACAO DE FUNCOES GRATIFICADAS NO AMBITO DO DEPARTAMENTO MUNICIPAL DE AGUA E ESGOTOS (DMAE), E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"184" "PROC. 01187/10 - PLCE 002/10" "ALTERA O INC. II DO ART. 11 ; O CAPUT E OS INCS. I E II DO ART. 12; O ART. 13; O CAPUT DO ART. 14; O PARAGRAFO 1 DO ART. 16; O CAPUT DO ART. 17; O PARAGRAFO UNICO DO ART. 20; O PARAGRAFO 2 DO ART. 29...E REVOGA DISPOSITIVOS, TODOS DA LEI COMPLEMENTAR N. 133, DE 31 DE DEZEMBRO DE 1985, QUE ESTABELECE O ESTATUTO DOS FUNCIONARIOS PUBLICOS DO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"185" "PROC. 01093/10 - PLCE 001/10" "CRIA O FUNDO MUNICIPAL DO PLANEJAMENTO URBANO (FMPU), DA SECRETARIA DO PLANEJAMENTO MUNICIPAL (SPM), E ALTERA A LEI COMPLEMENTAR N. 612, DE 19 DE FEVEREIRO DE 2009, QUE CRIA O FUNDO MUNICIPAL DE HABITACAO DE INTERESSE SOCIAL (FMHIS)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"186" "PROC. 06107/09 - PLCE 018/09" "AUTORIZA O EXECUTIVO MUNICIPAL A PERMUTAR COM A EMPRESA MONTAINE PARTICIPACOES LTDA, O PROPRIO MUNICIPAL MATRICULADO SOB O N. 81.043, NA 4 ZONA DE REGISTRO DE IMOVEIS DE PORTO ALEGRE, PELO PROPRIO PARTICULAR MATRICULADO SOB N. 32.968, REGISTRADO NA 6. ZONA DE REGISTRO DE IMOVEIS DESTA CAPITAL, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"187" "PROC. 06060/09 - PLCE 017/09" "DISPOE SOBRE NORMAS GERAIS PARA OS CONSELHOS MUNICIPAIS, NOS TERMOS DO ART. 101 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, E REVOGA A LEI COMPLEMENTAR N. 267, DE 16 DE JANEIRO DE 1992, E LEGISLACAO SOBRE CONSELHOS MUNICIPAIS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"188" "PROC. 06059/09 - PLCE 016/09" "ALTERA DISPOSITIVOS DAS LEIS COMPLEMENTARES N. 248, DE 23/01/1991; 318, DE 28/03/1994; 370, DE 16/01/1996; 399, DE 14/01/1997; 434, DE 01/12/1999; E ALTERACOES POSTERIORES; 444, DE 30/03/2000; 447, DE 10/05/2000, ALTERADA PELA LEI COMPLEMENTAR N. 587, DE 22/01/2008; E 585, DE 28/12/2007; ALTERA E REVOGA DISPOSITIVOS DAS LEIS COMPLEMENTARES N...." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"189" "PROC. 06058/09 - PLCE 015/09" "INSTITUI O CONSELHO MUNICIPAL DE ENTORPECENTES - COMEN - E REVOGA A LEI COMPLEMENTAR N. 241, DE 4 DE JANEIRO DE 1991." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"190" "PROC. 06057/09 - PLCE 014/09" "ALTERA O ART. 2 E INCLUI ARTS. 3 E 4 NA LEI COMPLEMENTAR N. 347, DE 30 DE MAIO DE 1995, QUE AUTORIZA O PREFEITO MUNICIPAL A CRIAR O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER - COMDIM - , ATUALIZANDO A COMPOSICAO DO CONSELHO E AJUSTANDO TECNICAMENTE A DISPOSICAO DOS ARTIGOS DESSA LEI COMPLEMENTAR." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"191" "PROC. 06056/09 - PLCE 013/09" "DISPOE SOBRE O CONSELHO MUNICIPAL DO PATRIMONIO HISTORICO E CULTURAL - COMPAHC - E REVOGA O INC. VIII E O PARAGRAFO 8 DO ART. 1 DA LEI N. 3607, DE 27 DE DEZEMBRO DE 1971." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"192" "PROC. 06055/09 - PLCE 012/09" "ALTERA OS ARTS. 2 E 3 DA LEI COMPLEMENTAR N. 455, DE 1 DE SETEMBRO DE 2000, QUE CRIA O CONSELHO MUNICIPAL DE ALIMENTACAO ESCOLAR - CAE -, E DA OUTRAS PROVIDENCIAS, DISPONDO SOBRE COMPOSICAO E COMPETENCIAS DO CAE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"193" "PROC. 06054/09 - PLCE 011/09" "ALTERA O ''CAPUT'' DO ART. 5, O INC. II DO ART. 7 E O PARAGRAFO UNICO DO ART. 15 DA LEI COMPLEMENTAR N. 580, DE 12 DE NOVEMBRO DE 2007, QUE CRIA O CONSELHO MUNICIPAL DOS DIREITOS DAS PESSOAS COM DEFICIENCIA DE PORTO ALEGRE, ESTABELECENDO A MAIORIA DOS MEMBROS DA SOCIEDADE CIVIL ORGANIZADA NA COMPOSICAO DO CONSELHO E ALTERANDO O QUORUM PARA..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"194" "PROC. 06053/09 - PLCE 010/09" "INSTITUI O CONSELHO MUNICIPAL DE JUSTICA E SEGURANCA - COMJUS -, OS FORUNS REGIONAIS DE JUSTICA E SEGURANCA E OS CONSELHOS COMUNITARIO DE JUSTICA E SEGURANCA - CCJSS - E REVOGA A LEI COMPLEMENTAR N. 487, DE 14 DE JANEIRO DE 2003." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"195" "PROC. 05572/09 - PLCE 009/09" "INCLUI ART. 68-A NA LEI COMPLEMENTAR N. 7, DE 7 DE DEZEMBRO DE 1973 - QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO -, E ALTERACOES POSTERIORES, AUTORIZANDO O EXECUTIVO MUNICIPAL A RECONHECER DE OFICIO A PRESCRICAO DOS CREDITOS INSCRITOS NA DIVIDA ATIVA, E DA OUTRAS PROVIDENCIAS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"196" "PROC. 05425/09 - PLCE 008/09" "ALTERA AS LEIS COMPLEMENTARES N. 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA DO MUNICIPIO; 113, DE 21 DE DEZEMBRO DE 1984, QUE INSTITUI A TAXA DE COLETA DE LIXO; 197, DE 21 DE MARCO DE 1989, QUE INSTITUI E DISCIPLINA O ITBI; E 306, DE 23 DE DEZEMBRO DE 1993, QUE INSTITUI HIPOTESE DE RESPONSABILIDADE PELO..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"197" "PROC. 05068/09 - PLCE 007/09" "ALTERA A LEI COMPLEMENTAR N. 628, DE 17 DE AGOSTO DE 2009, QUE CONSOLIDA A LEGISLACAO MUNICIPAL QUE DISPOE SOBRE A DEFESA DOS DIREITOS DA CRIANCA E DO ADOLESCENTE; RETIRA A REPRESENTACAO DO LEGISLATIVO MUNICIPAL NO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANCA E DO ADOLESCENTE (CMDCA) E NA CORREGEDORIA DOS CONSELHOS TUTELARES; AJUSTA OS REQUISITOS..." "Autor
+GOVERNO MUNICIPAL, MESA DIRETORA
+Situação
+PARA ARQUIVAR"
+"198" "PROC. 05045/09 - PLCE 006/09" "INSTITUI O PROGRAMA MINHA CASA MINHA VIDA/PORTO ALEGRE, COM O OBJETIVO DE VIABILIZAR AS CONSTRUCOES DE HABITACOES POPULARES PREVISTOS NA LEI FEDERAL N. 11977, DE 7 DE JULHO DE 2009 (MINHA CASA MINHA VIDA); ALTERA A LEI COMPLEMENTAR N. 548, DE 2009; E REVOGA A LEI COMPLEMENTAR N. 619, DE 10 DE JUNHO DE 2009." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"199" "PROC. 04180/09 - PLCE 005/09" "DISPOE SOBRE A ACESSIBILIDADE ORIENTADA PELO DESENHO UNIVERSAL NO MUNICIPIO DE PORTO ALEGRE, INSTITUI O PLANO DIRETOR DE ACESSIBILIDADE DE PORTO ALEGRE, QUE ESTABELECE NORMAS GERAIS E CRITERIOS BASICOS, PARA A PROMOCAO DA ACESSIBILIDADE DAS PESSOAS COM DEFICIENCIA OU COM MOBILIDADE REDUZIDA." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"200" "PROC. 03555/09 - PLCE 004/09" "ESTABELECE O REGIME URBANISTICO PARA MACROZONA (MZ) 01, UNIDADE DE ESTRUTURACAO URBANA (UEU) 02, SUBUNIDADES 02, 04 E 05; ALTERA OS LIMITES DAS SUBUNIDADES 01 E 02 E CRIA AS SUBUNIDADES 04 E 05, E DA OUTRAS PROVIDENCIAS (PROJETO CAIS MAUA/CAIS DO PORTO)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"201" "PROC. 02524/09 - PLCE 003/09" "CONSOLIDA A LEGISLACAO MUNICIPAL QUE DISPOE SOBRE A DEFESA DOS DIREITOS DA CRIANCA E DO ADOLESCENTE E REVOGA O ART. 13 DA LEI N. 9639, DE 29 DE DEZEMBRO DE 2004, E AS LEIS N. 6787, DE 11 DE JANEIRO DE 1991; 7207, DE 30 DE DEZEMBRO DE 1992; 7394, DE 28 DE DEZEMBRO 1993; 7453, DE 6 DE JULHO DE 1994; 7497, DE 21 DE SETEMBRO DE 1994; 7595, DE 17 DE..." "Autor
+GOVERNO MUNICIPAL, MESA DIRETORA
+Situação
+ARQUIVADO"
+"202" "PROC. 01990/09 - PLCE 002/09" "ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR N. 7, DE 7 DE DEZEMBRO DE 1973, QUE INSTITUI E DISCIPLINA OS TRIBUTOS DE COMPETENCIA MUNICIPAL (REDUCAO GRADUAL/ALIQUOTAS/ISSQN)." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"203" "PROC. 01408/09 - PLCE 001/09" "ALTERA ALINEAS J, L, M E T DO ART. 2 DA LEI COMPLEMENTAR N. 318, DE 28 DE MARCO DE 1994, QUE CRIA O CONSELHO MUNICIPAL DE TRANSPORTES URBANOS - COMTU." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO ART 108"
+"204" "PROC. 06938/08 - PLCE 022/08" "Concede isencao, por tempo determinado, dos tributos municipais a fifa e as entidades vinculadas a organizacao e realizacao da copa mundial da fifa de 2014, relativamente ao patrimonio, servicos e demais operacoes diretamente relacionadas com esta finalidade (pessoa fisica, juridica ou equiparada/issqn/iptu/itbi/cip - iluminacao publica)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"205" "PROC. 06886/08 - PLCE 021/08" "Autoriza o municipio alterar do uso comum do povo para de uso especial area do trecho da rua francisco vanzelotti e a area da praca, sem denominacao, cadastrada sob o n. 59/6, localizada na rua francisco vanzelotti, para integra-las como areas da escola de ensino fundamental jean piaget." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"206" "PROC. 06853/08 - PLCE 020/08" "Determina adequacoes e observancia para os projetos e os empreendimentos a serem executados na subunidade 3 da unidade de estruturacao urbana (ueu) 4036 e permite, nesta subunidade, sob as condicoes que determina, edificacoes cujas atividades sejam classificadas no codigo 7 do grupamento de atividades (referendo pontal do estaleiro/cais do..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"207" "PROC. 06703/08 - PLCE 019/08" "Altera as leis complementares n. 7, de 7 de dezembro de 1973, que institui e disciplina os tributos de competencia do municipio; 113, de 21 de dezembro de 1984, que institui a taxa de coleta de lixo; 197, de 21 de marco de 1989, que institui e disciplina o imposto sobre a transmissao inter-vivos, por ato oneroso, de bens imoveis e de direitos..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"208" "PROC. 06189/08 - PLCE 018/08" "Define regime urbanistico para a macrozona (mz) 02, unidade de estruturacao urbana (ueu) 008, subunidade 02, suprime area especial de interesse institucional e define o regime urbanistico para a macrozona (mz) 01, unidade de estruturacao urbana (ueu) 080, subunidade 03, para a implantacao do empreendimento esportivo projeto arena, do gremio..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL REJEITADO"
+"209" "PROC. 06188/08 - PLCE 017/08" "Define o regime urbanistico para macrozona (mz) 01, unidade de estruturacao urbana (ueu) 060, subunidade 02, altera os limites da macrozona (mz) 01, unidade de estruturacao urbana (ueu) 062, subunidades 1, 2 e 3, e cria as subunidades 4, 5, 6, estabelece os respectivos regimes urbanisticos, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"210" "PROC. 06187/08 - PLCE 016/08" "Cria a subunidade 04 na macrozona (mz) 07, unidade de estruturacao urbana (ueu) 016, define o seu regime urbanistico, e da outras providencias. (projeto de modernizacao do complexo beira-rio/sport club internacional)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"211" "PROC. 06118/08 - PLCE 015/08" "Altera os limites de macrozonas e subunidades, criam-se subunidades e institui areas especiais de interesse social - aeis ii, para fins de regularizacao de loteamento irregulares e clandestinos, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"212" "PROC. 02698/89 - PLCE 010/89" "Altera dispositivos da lei complementar n. 48, de 28-12-79, lei complementar n. 113, de 21-12-84, e lei complementar n. 194, de 29-12-88, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"213" "PROC. 05660/08 - PLCE 014/08" "Acrescenta paragrafo unico ao art. 1 da lei complementar n. 548, de 24 de abril de 2006, que dispoe sobre a aprovacao e o lincenciamento de projetos arquitetonicos de edificacoes de interesse social inseridas em empreendimentos destinados a demanda habitacional prioritaria (dhp), definida nos termos do paragrafo 3 do art. 22 da lei complementar..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"214" "PROC. 05418/08 - PLCE 013/08" "Dispoe sobre a prorrogacao excepcional do mandato dos conselheiros do conselho municipal da assistencia social - cmas." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"215" "PROC. 04757/08 - PLCE 012/08" "Altera o paragrafo 2 do art. 44, o paragrafo 2 do art. 49 e o art. 50 da lei complementar n. 170, de 31 de dezembro de 1987, e alteracoes posteriores, que revoga a lei complementar n. 32, de 07 de janeiro de 1977, estabelece normas para instalacoes hidrossanitarias e servicos publicos de abastecimento de agua e esgotamento sanitario prestados..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"216" "PROC. 04565/08 - PLCE 011/08" "Insere paragrafo unico do artigo 2 da lei complementar n. 521, de 20 de janeiro de 2005 (posto/abastecimento/gas/veiculo/gnv/combustivel/liquido/gasoso)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"217" "PROC. 04225/08 - PLCE 010/08" "Institui o plano diretor cicloviario no municipio de porto alegre e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"218" "PROC. 04151/08 - PLCE 009/08" "Dispoe sobre o instituto da adocao de pracas, parques urbanos, verdes complementares, monumentos, equipamentos de lazer, cultura, recreacao e esportes, revogam-se a lei complementar n. 136, de 22 de julho de 1986, que cria a adocao, por orgao ou entidade, de equipamentos de lazer e cultura, a lei complementar n. 391, de 11 de dezembro de 1996,..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"219" "PROC. 03912/08 - PLCE 008/08" "Dispoe sobre a organizacao do sistema de controle interno do poder executivo municipal, nos termos do artigo 31 da constituicao federal e dos artigos 61 a 64 da lei organica do municipio; cria a controladoria-geral do municipio de porto alegre, definindo a sua estrutura e atribuicoes e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"220" "PROC. 03809/08 - PLCE 007/08" "Altera a redacao do paragrafo 4 e acrescenta o paragrafo 5 ao art. 3 da lei complementar n. 519, de 29 de dezembro de 2004." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"221" "PROC. 03784/08 - PLCE 006/08" "Institui no municipio de porto alegre a operacao urbana consorciada lomba do pinheiro, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"222" "PROC. 03783/08 - PLCE 005/08" "Institui a operacao urbana corsorciada de acordo com a lei federal n. 10257, de 10 de julho de 2001 - estatuto da cidade -, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"223" "PROC. 03365/08 - PLCE 004/08" "Altera o artigo 153 da lei complementar n. 133, de 31 de dezembro de 1985, e da outras providencias (beneficio assistencial a funcionaria lactante ou nao-lactante, ou aquela que teve parto prematuro / 60 dias, contados do termino da licenca-gestante / licenca-maternidade)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"224" "PROC. 03287/08 - PLCE 003/08" "Cria a agencia municipal de inovacao e desenvolvimento cientifico e tecnologico de porto alegre - inovapoa, no ambito da administracao descentralizada do executivo da prefeitura municipal de porto alegre - pmpa, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"225" "PROC. 01756/08 - PLCE 002/08" "Da nova redacao ao artigo 12 da lei complementar n. 170, de 31 de dezembro de 1987, dispondo sobre ligacoes de agua e individualizacao da medicao." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"226" "PROC. 00429/08 - PLCE 001/08" "Revoga o artigo 19 da lei complementar n. 563, de 30 de janeiro de 2007, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"227" "PROC. 09139/07 - PLCE 013/07" "Altera o caput e inclui paragrafos 1 e 2 ao art. 5-a da lei complementar n. 505, de 28 de maio de 2004, incluido pela lei complementar n. 510, de 16 de dezembro de 2004, que fixa aliquotas de contribuicao previdenciaria para fins de custeio do regime proprio de previdencia dos servidores publicos de porto alegre, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"228" "PROC. 09057/07 - PLCE 012/07" "Altera o paragrafo unico do art. 7 e os arts. 10 e 11 da lei complementar n. 447, de 10 de maio de 2000, que dispoe sobre o sistema municipal de turismo, a estrutura e funcionamento do conselho municipal de turismo - funturismo -, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"229" "PROC. 09056/07 - PLCE 011/07" "Altera a redacao do paragrafo 3 do artigo 68 da lei complementar n. 133, de 31 de dezembro de 1985, introduzido pela lei complementar n. 549, de 09 de maio de 2006, que trata da atribuicao de gratificacoes especiais a servidores detentores de cargo de provimento efetivo do municipio ou de outra esfera governamental, cedidos ao municipio com onus..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"230" "PROC. 06904/07 - PLCE 010/07" "Dispoe sobre o fundo municipal de desenvolvimento - fmd, institui o conselho gestor do fmd na forma da lei complementar n. 11124, de 16 de julho de 2005, revoga a lei complementar n. 337, de 10 de janeiro de 1995, que cria o conselho municipal de acesso a terra e habitacao - comathab, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"231" "PROC. 06819/07 - PLCE 009/07" "Cria a subunidade 02 na unidade de estruturacao urbana (ueu) 048 da macrozona (mz) 1, define regime urbanistico e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"232" "PROC. 06777/07 - PLCE 008/07" "Dispoe sobre o desenvolvimento urbano no municipio de porto alegre, institui o plano diretor de desenvolvimento urbano ambiental de porto alegre - pddua, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+P - PARA CONSULTA
+Veto
+VETO PARCIAL (PARTE MANTIDO\PARTE REJEITADO)"
+"233" "PROC. 04471/07 - PLCE 007/07" "Altera dispositivos da lei complementar n. 478, de 26 de setembro de 2002, que dispoe sobre o departamento municipal de previdencia dos servidores publicos do municipio de porto alegre - previmpa, disciplina o regime proprio de previdencia dos servidores do municipio de porto alegre - rpps, altera o 3 e acrescenta o 5 ao art. 3 da lei..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"234" "PROC. 04417/07 - PLCE 006/07" "Altera as leis complementares n. 07, de 07 de dezembro de 1973, que institui e disciplina os tributos de competencia do municipio, e n. 306, de 23 de dezembro de 1993, que institui hipotese de responsabilidade pelo pagamento de imposto sobre servicos de qualquer natureza - issqn; revoga a lei complementar n. 207, de 28 de dezembro de 1989, que..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"235" "PROC. 04079/07 - PLCE 005/07" "Institui o sistema municipal de unidades de conservacao da natureza de porto alegre (smuc-poa), e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"236" "PROC. 01780/07 - PLCE 004/07" "Dispoe sobre a criacao do sistema municipal de seguranca alimentar e nutricional sustentavel, que sera composto pela conferencia, pelo conselho, pelas micro-redes locais de sans e pela coordenadoria municipal de seguranca alimentar e nutricional sustentavel com vistas assegurar o direito humano fundamental a alimentacao adequada, e da outras..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"237" "PROC. 00958/07 - PLCE 003/07" "Altera a lei complementar n. 530, de 22 de dezembro de 2005, que instituiu o programa municipal de apoio e promocao do esporte - proesporte." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"238" "PROC. 00143/07 - PLCE 001/07" "Cria na mz 08, ueu 062, a subunidade 06 e respectivo regime urbanistico, de acordo com o disposto no inc. iii do art. 162 da lei complementar n. 434, de 01 de dezembro de 1999, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"239" "PROC. 00142/07 - PLCE 002/07" "Altera subunidade 02 da macrozona 03, ueu 016, na forma da lei complementar n. 434/99; cria a subunidade 04; institui area especial de interesse social iii e define o seu regime urbanistico." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"240" "PROC. 05605/06 - PLCE 014/06" "Revoga o art. 24 da lei complementar n. 534, de 28 de dezembro de 2005, e da outras providencias (verba/representacao/presidente/tribunal administrativo de recursos tributarios)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"241" "PROC. 05495/06 - PLCE 013/06" "Estabelece normas para a regularizacao dos predios existentes do complexo hospitalar ernesto dornelles localizado a av. ipiranga n. 1801 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"242" "PROC. 05342/06 - PLCE 012/06" "Estabelece condicoes para o acesso das populacoes moradoras em areas nao regularizadas aos servicos de abastecimento de agua e remocao de esgoto cloacal." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"243" "PROC. 05335/06 - PLCE 011/06" "Dispoe sobre a criacao e organizacao, no ambito da administracao centralizada da prefeitura de porto alegre, do sistema municipal de protecao e defesa dos direitos do consumidor - smdc, do servico de protecao e defesa dos direitos do consumidor - procon/pmpa, do conselho municipal de protecao e defesa dos direitos do consumidor - condecon e do..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"244" "PROC. 05047/06 - PLCE 010/06" "Modifica os limites das subunidades 01 e 02 da mz 1 ueu 066 e altera o regime urbanistico para o terreno localizado a av. praia de belas, n. 1100, criando a subunidade 03, sede do tribunal regional do trabalho da 4 regiao e da outras providencias, de acordo com o disposto no inciso vi do art. 162 da lei complementar n. 434, de 01 de dezembro de..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"245" "PROC. 05018/06 - PLCE 009/06" "Cria o conselho municipal dos direitos das pessoas com deficiencia de porto alegre - comdepa -, dispoe sobre politicas dos direitos das pessoas com deficiencias e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"246" "PROC. 04715/06 - PLCE 008/06" "Altera, inclui e revoga dispositivos da lei complementar n. 07, de 07.12.1973, que institui e disciplina os tributos de competencia do municipio, e da lei complementar n. 113, de 21 de dezembro de 1984, que institui a taxa de coleta de lixo no municipio de porto alegre e da outras providencias. revoga as leis complementares: n. 307, de..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"247" "PROC. 04331/06 - PLCE 007/06" "Institui o conselho municipal da juventude e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"248" "PROC. 04250/06 - PLCE 006/06" "Revoga o paragrafo 1 do artigo 145 da lei complementar n. 395, de 26 de dezembro de 1996 - codigo municipal de saude." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"249" "PROC. 04249/06 - PLCE 005/06" "Altera as leis complementares n. 07, de 07 de dezembro de 1973, e 534, de 28 de dezembro de 2005 (tribunal administrativo de recursos tributarios - tart)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"250" "PROC. 04141/06 - PLCE 004/06" "Altera a redacao do inc. xx e inclui paragrafos 1 e 2 no art. 18 e da nova redacao ao inc. ii do art. 39 da lei complementar n. 12, de 07 de janeiro de 1975, e alteracoes posteriores, proibindo a colocacao de indicacoes publicitarias de qualquer tipo sem licenca do municipio, inclusive as de cunho politico-eleitoral, em logradouros publicos,..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO ART 106"
+"251" "PROC. 03868/06 - PLCE 003/06" "Altera e revoga dispositivos da lei complementar n. 460, de 22 de dezembro de 2000, e da outras providencias (fundo municipal de reaparelhamento do corpo de bombeiros - fumrebom)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"252" "PROC. 03535/06 - PLCE 002/06" "Altera o art. 9 da lei complementar n. 352, de 08 de agosto de 1995, que dispoe sobre os membros do conselho municipal da assistencia social." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"253" "PROC. 02891/06 - PLCE 001/06" "Dispoe sobre a expedicao da autorizacao para funcionamento de atividades economicas no municipio de porto alegre e da outras providencias (alvara provisorio)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"254" "PROC. 07363/05 - PLCE 016/05" "Dispoe sobre a prorrogacao da autorizacao ao poder executivo para conceder reducao da multa de mora para pagar ou parcelar tributo (prorrogacao/prazo/refis)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"255" "PROC. 07232/05 - PLCE 015/05" "Dispoe sobre o parcelamento do solo sob a forma de loteamento para atender ao programa de arrendamento residencial - 'par' da caixa economica federal, ao programa habitacional de acordo com a resolucao 460 do fgts, ambos da caixa economica federal e outros programas oficiais que venham atender a demanda habitacional prioritaria (dhp) em..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"256" "PROC. 07230/05 - PLCE 014/05" "Dispoe sobre a aprovacao e licenciamento de projetos para habitacoes de interesse social referente aos programas que venham a atender a demanda habitacional prioritaria (dhp), conforme dispoe o paragrafo do artigo 22 da lei complementar n.434/99 e a lei complementar n.284/92." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"257" "PROC. 06944/05 - PLCE 013/05" "Dispoe sobre a aprovacao e licenciamento de projetos arquitetonicos, para construcao e/ou reciclagem de predios para escolas de educacao infantil e instituicoes de educacao infantil, (creche/predio)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"258" "PROC. 06935/05 - PLCE 012/05" "Altera, inclui e revoga dispositivos da l.c. n. 07, de 07.12.1973, e alteracoes posteriores; alterae inclui dispositivos na lei complementar n. 306,de 23.12.1993 e da outras providencias (issqn/espe" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"259" "PROC. 06895/05 - PLCE 011/05" "Dispoe sobre a arrecadacao e o recolhimento das contribuicoes devidas ao regime proprio de previdencia social dos servidores publicos do municipio de porto alegre, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"260" "PROC. 06539/05 - PLCE 010/05" "Estabelece a utilizacao do ipca (indice de precosao consumidor amplo) como indexador da unidade financeira municipal (ufm); altera e inclui dispositi(tcl- altera taxa de lixo - iptu)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"261" "PROC. 06154/05 - PLCE 009/05" "Dispoe sobre autorizacao ao poder executivo para conceder reducao da multa de mora para pagar, parcelar ou reparcelar creditos nao-tributarios e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"262" "PROC. 05826/05 - PLCE 008/05" "Cria e institucionaliza o tribunal administrativo de recursos tributarios do municipio de porto alegre - tart- revoga o inc. i do paragrafo primeiro do art. primeiro da lei 3607, de 27 de dezembro de 1971, e alteracoes posteriores; revoga o paragrafo primeiro do art. 67 e inclui inc. iv e paragrafo segundo e terceiro no art. 62 e art. 67-a,..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"263" "PROC. 05615/05 - PLCE 007/05" "Institui o programa municipal de apoio e promocaodo esporte - proesporte, altera e revoga dispositivos da lei comp. n. 07, de 07.12.1973, alterada pela lei comp. n. 501, de 30.12.30(tributos/issqn/ipt" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"264" "PROC. 05586/05 - PLCE 006/05" "Altera dispositivos da lei complementar n. 197, de 21 de marco de 1989 e da outras providencias (parcelamento do itbi)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"265" "PROC. 05455/05 - PLCE 005/05" "Acrescenta o parag. 3 ao art. 68 da lei complementar n. 133, de 31.12.1985, alterado pela lei complementar n. 407, de 05.01.1998, e da outras providencias(funcao gratificada)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"266" "PROC. 05014/05 - PLCE 004/05" "Dispoe sobre autorizacao ao poder executivo para conceder reducao da multa de mora para pagar ou parcelar tributo e da outras providencias(issqn, iptu e tcl/programa/recuperacao/creditos/refis)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"267" "PROC. 04807/05 - PLCE 003/05" "Reabre o prazo para a regularizacao das construcoes clandestinas da vila farrapos, fixado no artigo2 da lei complementar n. 469, de 10 de novembro de 2003." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"268" "PROC. 04737/05 - PLCE 002/05" "Institui area de interesse cultural - aic (mz 08,ueu 052, subunidade 04) em gleba localizada na estrada joao de oliveira remiao n. 9735 (kaingangues/lomba do pinheiro)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"269" "PROC. 02695/89 - PLCE 007/89" "Dispoe sobre a remuneracao dos servicos publicos que menciona e da outras providencias" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"270" "PROC. 01407/05 - PLCE 001/05" "Altera a redacao da alinea a do art. 2 da lei complementar n. 409 de 13.01.1998, altera pela lei complementar n. 465, de 23.08.2001 (inclusao da rua dona teodora na relacao de benefic. da iii perimetr" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"271" "PROC. 02526/87 - PLCE 008/87" "Revoga a lei complementar n 32, de 7.1.77, e estabelece normas para instalacoes hidrossanitarias e servicos publicos de abastecimento de agua e esgotamento sanitario prestados pelo dmae." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"272" "PROC. 06001/04 - PLCE 013/04" "Altera a lei complementar 434/99 e da outras providencias (pddua/plano diretor de desenvolvimento urbano ambiental)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"273" "PROC. 06000/04 - PLCE 012/04" "Altera a lei complementar 434/99, na parte dos projetos especiais e da outras providencias (pddua/projeto especial)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"274" "PROC. 05916/04 - PLCE 011/04" "Autoriza a celebracao de transacao, nos termos do art. 171 combinado com o art. 156, inciso iii do codigo tributario nacional, bem como a dacao em pagamento em bens imoveis para a extincao de creditos" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"275" "PROC. 05914/04 - PLCE 010/04" "Altera os limites do parque natural morro do osso e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"276" "PROC. 05788/04 - PLCE 009/04" "Estabelece normas para regularizacao do complexo hospitalar ernesto dornelles e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"277" "PROC. 05786/04 - PLCE 008/04" "Institui o codigo de edificacoes de porto alegre e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"278" "PROC. 05617/04 - PLCE 007/04" "Autoriza a alienacao de imoveis do municipio de porto alegre situadas no loteamento porto seco e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR
+Veto
+VETO PARCIAL MANTIDO"
+"279" "PROC. 05616/04 - PLCE 006/04" "Altera a redacao da alinea a do art. 2 da lei complementar n. 409 de 13.01.1998, alterada pela lei complement. n. 465 de 23.08.2001 (inclui r. dona teodora nos beneficios previst. da iii perimetral)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"280" "PROC. 05510/04 - PLCE 005/04" "Cria o conselho municipal de comunicacao, oficializa a conferencia municipal de comunicacao e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"281" "PROC. 02574/85 - PLCE 010/85" "Estabelece o estatuto dos funcionarios publicos do municipio de porto alegre." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"282" "PROC. 02337/88 - PLCE 014/88" "Da nova redacao ao artigo 121 da lei complementarn.133, de 31 de dezembro de 1985 ( bimestralidade /reajuste salarial dos servidores publicos municipais )." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"283" "PROC. 04836/04 - PLCE 004/04" "Autoriza o municipio a re-ratificar as doacoes de areas ao sport club internacional, realizada pela lei n. 1651/56, com redacao alterada pela lei n. 3225/68 e pela lei n. 3921/74." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"284" "PROC. 03798/04 - PLCE 003/04" "Inclui art. 5-a parag. unico na l.c. 505 de 25.05.04, que fixa aliquotas de contribuicao previdenciaria para fins de custeio do regime proprio de previdencia social dos servidores publicos do muncipio" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"285" "PROC. 03292/04 - PLCE 002/04" "Modifica e da nova redacao ao caput e ao parag. unico do art. 2 e acrescenta parag. unico do art. 5, todos da l.c. n. 362/95 que cria o passe livre no sistema de transporte coletivo de porto alegre e" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO ART 108"
+"286" "PROC. 02768/87 - PLCE 015/87" "Dispoe sobre a urbanizacao da orla do rio guaiba, entre a usina da volta do gasometro e ponta do melo, cria o fundo de saneamento basico para vilas populares e da outras providencias (projeto praia do" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"287" "PROC. 01061/04 - PLCE 001/04" "Dispoe sobre o regime volumetrico de empreendimento impacto urbano de primeiro nivel situado na ruadr.mario totta, estabelece compensacoes para sua execucao, ...(portais de acesso ao lago guaiba)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"288" "PROC. 07085/03 - PLCE 015/03" "Altera o reg urbanistico [...] na area especial de interesse institucional - porto seco [...] e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"289" "PROC. 06978/03 - PLCE 014/03" "Altera a lei 434/99, compatibilizando-a com o estatuto da cidade, lei federal 10250/01." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"290" "PROC. 06977/03 - PLCE 013/03" "Altera a lei complementar 434/99, acrescentando o mapa da malha viaria basica do municipio e estabelecendo diretrizes para a rede multimodal de transporte publico de porto alegre." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"291" "PROC. 06625/03 - PLCE 012/03" "Da nova redacao ao art 53 da lc 478 [...] nova redacao a alinea c do inc xvii do art 76 e inclui o art 154-a na lc 133 [...] chaves: previmpa, previdencia, estatuto, licenca-maternidade, adocao." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"292" "PROC. 06390/03 - PLCE 011/03" "Altera os arts.3 e 4 e revoga o art.5 da lc 79, de 10.1.1983, alterada pela lc 404, de 14.11.1997, que aprova o plano conjunto para ocupacao do centro administrativo federal, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"293" "PROC. 05348/03 - PLCE 009/03" "Altera a lei complementar 7, de 7.12.1973, a lei complementar 306, de 23.12.1993, e a lei complementar 197, de 21.3.1989, e da outras providencias ( issqn )." "Autor
+GOVERNO MUNICIPAL
+Situação
+P - PARA CONSULTA
+Veto
+VETO PARCIAL REJEITADO"
+"294" "PROC. 05347/03 - PLCE 010/03" "Fixa aliquotas de contribuicao previdenciaria para fins de custeio do regime proprio de previdenciasocial dos servidores publicos do municipio de porto alegre, e da outras providencias(previmpa)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO
+Veto
+VETO PARCIAL MANTIDO"
+"295" "PROC. 05346/03 - PLCE 008/03" "Altera a redacao do paragrafo 3, do artigo 5 da lei complementar 478, de 26 de setembro de 2002 e da outras providencias(fixa taxa de administracao a ser repassada ao previmpa)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"296" "PROC. 03979/03 - PLCE 007/03" "Acrescenta o inciso xxv ao art 197 e o inc iii ao art 206, altera o inc x do art 207 e acrescenta o art 207 -a, da lcm 133/1985, que estabelece o estatuto dos func ..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"297" "PROC. 03134/03 - PLCE 006/03" "Dispoe sobre a reserva de vagas para afrodescendentes em concursos publicos para provimento de cargos efetivos, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"298" "PROC. 02332/03 - PLCE 005/03" "Altera os anexos 1.1, 1.2, 7.1 e 7.2 da lcm 434, de 1 de 12 .1999, ajusta os limites da ueus 134 a 136 da mz 3 e de suas subunidades e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"299" "PROC. 02189/03 - PLCE 004/03" "Altera o inc iv do art 87 da lcm 478, de 26.9.2002, que dispoe sobre o departamento municipal de previdencia dos serv publ do munic de poa , disciplina o regime proprio de previdencia social e...." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"300" "PROC. 01271/03 - PLCE 003/03" "Reabre o prazo para regularizacao das construcoesclandestinas da vila farrapos, fixado no artigo 2da lei complementar 469, de 17 de dezembro de 2001." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"301" "PROC. 00817/03 - PLCE 001/03" "Altera o artigo 3 da lei complementar 444, de 30de marco de 2000 e da outras providencias. (conselho municipal do idoso)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"302" "PROC. 00601/03 - PLCE 002/03" "Suprime o paragrafo 1 do artigo 145 da lei complementar 395, de 24.4.1997. (implica exoneracao do orgao sanitario do municipio de receber animais nao desejados por seus proprietarios)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"303" "PROC. 00824/90 - PLCE 007/90" "Altera o art. 121 da lei compl. n. 133, de 31 de dezembro de 1985, com a redacao dada pela lei compl. n. 186, de 12 de dezembro de 1988, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"304" "PROC. 03003/02 - PLCE 004/02" "Concede incentivo para a manutencao da ativ agropecuaria e preservacao ambiental no munic, e introduz correcoes no cadastro imobiliario do imposto sobre a propr predial e ter urb-iptu (taxa de lixo)." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"305" "PROC. 02123/94 - PLCE 019/94" "Revoga o inciso xii do artigo 71 da lei complemantar nr 7 de7 de dezembro de 1973 com a redacao dada pela lei complementar nr 209 de 28 de dezembro de 1989." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"306" "PROC. 00260/94 - PLCE 001/94" "Altera o limite da area urbana cria unidades territoriais define reg urbanistico da unid territorial seccional intensiva71 e altera limites de unid terr (plano diretor b restinga)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"307" "PROC. 02894/98 - PLCE 007/98" "Altera o inciso i do artigo 253 da lei complementar 133, de 31 de dezembro de 1985." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"308" "PROC. 02512/00 - PLCE 008/00" "Altera a redacao do paragrafo 4 do art 69 da lei complementar n. 7, de 07/12/73 e suas alteracoes, revoga a lei complementar n. 453,de 02 de agosto de 2000 e da outras providencias" "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"309" "PROC. 03277/01 - PLCE 003/01" "Regulamenta o art 162, xv, da lei complementar 434, de 1.12.1999, definindo o tracado da radial anita garibaldi; cria ueu's, modifica limites de ueu's e subunidades e define o regi (perimetral anita)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"310" "PROC. 03505/01 - PLCE 005/01" "Acrescenta o inciso iii ao paragrafo 2 do art 61 de lcm 434, de 1.12.1999. (garagens)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"311" "PROC. 01988/92 - PLCE 010/92" "Acresc o inciso v ao artigo 49 a letra i ao inciso do art 139 da nova redacao ao cap iii da lei complementar nr 43 de 21 de julho de 1979 e da outras prov(plano diretor)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"312" "PROC. 03030/97 - PLCE 006/97" "Altera a alinea b do inciso i do artigo 176 da lei complementar 133, de 31 de dezembro de 1985, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"313" "PROC. 03143/96 - PLCE 011/96" "Altera o inc ii do paragrafo 9 do art 5 da lc 7/73,alterado pela lc 285/92; acresc os paragrafos 1 e 2 ao art 31, revoga o caput do art 64, altera o inc ii do art 71, alterado pela" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"314" "PROC. 01339/92 - PLCE 008/92" "Introd.o grupam.de ativ.02,no anexo 7/2,da lei compl.n43 de21/07/79,inst.regime urban. para area func.de inter.urban.inst.pela lei compl.n128-a,de 28/11/85 e da outras provid." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"315" "PROC. 00811/93 - PLCE 002/93" "Altera dispositivo da lcm 133/85 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"316" "PROC. 01222/96 - PLCE 004/96" "Institui o codigo de protecao contra incendio de porto alegre e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"317" "PROC. 00292/92 - PLCE 001/92" "Inclui o parag.4 no artigo 32 da lc n 133, de 31/12/85, e parag.5 ao art.129 da mesma lei, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"318" "PROC. 01332/95 - PLCE 005/95" "Institui area funcional de interesse publico, autoriza o poder executivo municipal a implantar parque de eventos e cultura e da outras providencias. (n do prot: \"sambodromo\")." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"319" "PROC. 01739/94 - PLCE 018/94" "Acresce paragrafo unico ao art 228 da lc 284 de 27.10.92 dispondo sobre duplicacao e progressividade de multas a proprietarios q. nao exec ou nao mant em bom estado do conserv..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"320" "PROC. 00714/92 - PLCE 006/92" "Altera dispositivos da lei complementar n 269, de 22/01/92,que institui o banco de terras do municipio de porto alegre e da outras providencias." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"321" "PROC. 03303/00 - PLCE 011/00" "Institui o fundo municipal de reaparelhamento do corpo de bombeiros - fumrebom, no municipio de porto alegre, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"322" "PROC. 03375/97 - PLCE 009/97" "Da nova redacao ao artigo 68 da lei complementar n. 133, de 31 de dezembro de 1985, e demais providencias (estatuto funcionario publico)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"323" "PROC. 01976/87 - PLCE 004/87" "Aprova o estudo de viabilidade do projeto praia do guaiba, institui o fundo de saneamento basico para vilas populares, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"324" "PROC. 03246/91 - PLCE 016/91" "Introduz alteracoes na unidade territorial seccional intensiva 07, transforma a unidade territorial residencial 19 em unidade territorial mista 19, institui o regime urbanistico..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"325" "PROC. 02548/91 - PLCE 008/91" "Altera o inciso iii do artigo 1 da lei complementar n 239,de 28 de dezembro de 1990." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"326" "PROC. 00526/94 - PLCE 005/94" "Altera dispositivo da lei complemantar nr 306 de 23 de dezembro de 1993 e da outras providencias(inss)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"327" "PROC. 01980/95 - PLCE 009/95" "Dispoe sobre o conselho municipal de ciencia e tecnologia deporto alegre - comcet." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"328" "PROC. 01710/94 - PLCE 016/94" "Altera dispositivos da lei complementar 133 de 31 de 12 de 1985.(exclui gratificacao por atividade tributaria aos agentes fiscais da receita municipal." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"329" "PROC. 03442/97 - PLCE 010/97" "Dispoe sobre o desenvolvimento urbano no municipio de porto alegre, institui o segundo plano diretor de desenvolvimento urbano ambiental de porto alegre e da outras providencias(pddua)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"330" "PROC. 04119/01 - PLCE 008/01" "Da nova redacao ao paragrafo unico do artigo 10 da lei complementar 320, de 2 de maio de 1994, que dispoe sobre a denominacao de logradouros publicos e da outrs providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"331" "PROC. 03521/02 - PLCE 006/02" "Modifica o art 12 da lc 170, de 31.12.87, com redacao dada pela lc 423, de 18.9.98, e da outras providencias. (intalacao de ramal predial de abastecimento de agua em condominios)" "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"332" "PROC. 03004/02 - PLCE 005/02" "Dispoe sobre a utilizacao do solo urbano no municipio,adequando-o ao cumprimento da funcao social da propriedade,e regulamenta os artigos 203 a 206 da lei organica municipal. (lc 312/93)" "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"333" "PROC. 00670/90 - PLCE 006/90" "Altera valores de multas estipuladas no art. 7, inciso da lei complementar n 65, de 22.12.81 ." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"334" "PROC. 00692/02 - PLCE 001/02" "Dispoe sobre o departamento municipal de previdencia dos serv publicos do mun de porto alegre, disciplina o regime proprio de prev social dos serv do mun de porto alegre e da outr" "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"335" "PROC. 01978/95 - PLCE 008/95" "Altera a redacao do caput do art 1 da lei compl 124, de 22.10.85, com a redacao dada pela lei compl 238, de 26.12.90, e da outras providencias. (n do prot: publicidade em onibus)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"336" "PROC. 02688/95 - PLCE 012/95" "Cria o servico de iluminacao publica (sip) do municipio, institui a taxa de iluminacao publ e autoriza o p executivo a firmar conv com a ceee, para sua cobranca, e da outras provid" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"337" "PROC. 02511/93 - PLCE 011/93" "Dispoe sobre a utilizacao do solo urbano no municipio adequendo ao umprimento de funcao social da propriedade e regulamenta os artigos 204 e 205 da lom." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"338" "PROC. 01145/94 - PLCE 007/94" "Altera dispositivo da lei complementar 133 de 31 de dezembrode 1985.(estatuto dos funcionarios publicos do munic de poa)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"339" "PROC. 01154/94 - PLCE 008/94" "Cria a area funcional de interresse publico e altera os limites das utps 07 09 e utf 11 da utsi 33 as leis comp 43 de 2107.79 de 10.01.83 e 182 de 28.09.88 e da outras providencias" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"340" "PROC. 01287/94 - PLCE 009/94" "Altera a redacao do art 376 da lei complementar 43 de 21 de julho de 19979(plano diretor)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"341" "PROC. 01493/94 - PLCE 012/94" "Identifica as areas de urbanizacao e ocupacao prioritaria dnos termos de art 5 da lei complementar 312 de 29.12.93.(disciplina o uso do solo urbano no munipio)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"342" "PROC. 01709/94 - PLCE 015/94" "Altera dispositivos da lei complementar 133 de 31 de dezembro 1985(altera o regime de dedicacao exclusiva e o retti)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"343" "PROC. 02032/93 - PLCE 004/93" "Modifica a unid territ resid 31 e cria a unidade territorial resid 32 na unidade territ seccional intensiva 15 do prim plano dir de desenvolvimento urbano e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"344" "PROC. 02635/94 - PLCE 027/94" "Altera dispositivo da lei complementar num 207 de 28 de dezembro de 1989.(issqn reducao das multas)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"345" "PROC. 02698/94 - PLCE 028/94" "Institui o codigo municipal de saude de porto alegre." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"346" "PROC. 01941/96 - PLCE 008/96" "Dispoe sobre a alteracao e criacao de unidades territoriais de planejamento na area urbana de ocupacao intensiva." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"347" "PROC. 02996/00 - PLCE 010/00" "Disp sobre regras de transicao e modificacao do reg previdenciario proprio do municipio e cria o fundo mun de previdencia dos func publ de p alegre, na forma da ec 20, de 15.12.98." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"348" "PROC. 03162/01 - PLCE 002/01" "Estabelece alteracoes no codigo de limpeza urbana - lei complementar 234/90, de 16 de dezembro de 1990 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"349" "PROC. 01511/90 - PLCE 009/90" "Altera o paragrafo unico do artigo 24 da lei complementar n. 195 de 30.12.88 ( ...pagamento de jetton)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"350" "PROC. 01537/90 - PLCE 011/90" "Acrescenta o inciso v ao art. 49 da lei compl. n. 43, de 21 de julho de 1979, que dispoe sobre o desenvolvimento urbano no municipio de porto alegre, institui area funcional e da.." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"351" "PROC. 01888/91 - PLCE 006/91" "Acrescenta o inciso v ao art.49 da lei complementar n 43, de 21 de julho de 1979, que dispoe sobre o desenvolvimento urbano do municipio de porto alegre, institui area..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"352" "PROC. 00469/93 - PLCE 001/93" "Altera o art 13 da lc 267 de 16.01.92 e institui a gratificacao sob a forma de jetton aos representantes de conselhos municipais." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"353" "PROC. 02551/91 - PLCE 011/91" "Institui a taxa de transporte coletivo no municipio de portoalegre, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"354" "PROC. 02788/91 - PLCE 013/91" "Altera o 1 do art.7, o art.17, o art.18 e o art.25 da lei complementar n 128, de 27/11/85, e da outras providencias. (protecao contra incendio)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"355" "PROC. 02097/92 - PLCE 011/92" "Estabelece alteracoes na lc 7/73 e da outras providencias.(imposto predial e territorial urbano)" "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"356" "PROC. 01173/91 - PLCE 003/91" "Altera dispositivo do art.36 da lei compl. n 170, de 31 de dezembro de 1987, alterada pela lei compl. n 180, de 18 de agosto de 1988, modificando o 4 e da outras providencias." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"357" "PROC. 03817/99 - PLCE 007/99" "Modifica o art.33 da lc n.170, de 31/12/1987, alterando a redacao do artigo, para caracterizacao de economia predial.(calculo diferenciado de tarifa de agua para os hoteis)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"358" "PROC. 03131/99 - PLCE 003/99" "Altera artigos da lei complementar 7, de 7.12.73, lei complementar 197, de 21.3.89, lei complementar 396, de 27.12.96, e da outras providencias. (nota do protocolo: iptu/issqn)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"359" "PROC. 03610/99 - PLCE 006/99" "Dispoe sobre o gerenciamento integrado dos residuos solidos urbanos, altera a lei complementar n.113/84, acrescenta dispositivos a lc.n.234/90 e da outras prov. (sacos plasticos)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"360" "PROC. 03180/91 - PLCE 015/91" "Autoriza a permuta de imovel do executivo e da outras providncias. (sport club internacional)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"361" "PROC. 03039/97 - PLCE 007/97" "Estabelece a planta generica de valores p/os imoveis territoriais e prediais, altera artigos da lei complementar num 07, de 7 de dezembro de 1973 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"362" "PROC. 03470/98 - PLCE 009/98" "Retroage os efeitos da lei complementar n.425, de 13 de outubro de 1998.(incorporacao aos proventos de gratificacao ref.ao hospital pronto socorro e dos prontos atendimentos-110%)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"363" "PROC. 00161/91 - PLCE 001/91" "Altera dispositivos da lei complem. n 242, de 09/01/91, quediscipl.a concessao de direito real de uso aos ocupantes de areade propried.do poder publ.mun.e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"364" "PROC. 00179/90 - PLCE 002/90" "A o ..... e da outras providencias." "Autor
+COSELHO MUNICIPAL DE COMPRAS
+Situação
+ARQUIVADO"
+"365" "PROC. 00367/90 - PLCE 003/90" "Acrescenta os paragrafos 1 e 2 ao art. 21 da lei compl. 07, de 07 de dezembro de 1973, com a redacao dada pela lei compl. 209, de 28.12.89. (reducao aliquota issqn)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"366" "PROC. 00402/90 - PLCE 004/90" "Altera o 6 do art. 69 da lc 07, de 07.12.73, com a redacaodada pelo inciso xxxi do art. 1 da lc 209, de 28.12.89. (dispensa de juros de mora a contribuintes do iptu,e outras txs)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"367" "PROC. 00904/96 - PLCE 003/96" "Altera os limites da af de interesse publico 37 e ajusta os limites do corredor de comercio e servicos 51 e do polo de comercio e servicos 75 da utr 45 da utsi 35." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"368" "PROC. 01417/96 - PLCE 005/96" "Altera o artigo 1 da lei complementar numero 372, de 22 de janeiro de 1996." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"369" "PROC. 02228/94 - PLCE 021/94" "Institui o codigo municipal de saude no municipio de porto alegre e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"370" "PROC. 02280/94 - PLCE 022/94" "Dispoe sobre a politica de assistencia social no municipio eda outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"371" "PROC. 02634/94 - PLCE 026/94" "Altera valores expressos ou referidos em unidade financeira municipal ufm." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"372" "PROC. 01307/94 - PLCE 010/94" "Altera limites de unidades territoriais funcionais cria areafuncional de parque natural na forma da lei complemantar nr 43 de 21.07.79 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"373" "PROC. 01708/94 - PLCE 014/94" "Altera dispositivos da lei complementar 133 de 31 de 12 de 85 (funcao gratificada)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"374" "PROC. 00150/95 - PLCE 001/95" "Autoriza a venda de areas de propriedade do municipio de porto alegre, situadas no porto seco." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"375" "PROC. 00896/95 - PLCE 004/95" "Altera o limite da area urbana, cria unidades territoriais, define regime urbanistico da unidade territorial seccional intensiva 71 e altera limites de unidades territoriais." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"376" "PROC. 02127/00 - PLCE 004/00" "Dispoe sobre regras de transicao e modificacao do regime previdenciario proprio dos servidores do municipio de porto alegre, na forma da emenda constitucional 20, de 15.12.98." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"377" "PROC. 01323/01 - PLCE 001/01" "Dispoe sobre as regras de transicao e modif do reg prev proprio do municipio e cria o fundo mun deprevidencia dos serv publ de p alegre, na forma da emenda const 20, de 15.12.98. (previmpa)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"378" "PROC. 00525/94 - PLCE 004/94" "Altera dispositivos da lei complementar nr 197 de 21 marco de 1989 e da lei complementar 308 de 28.12.93 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"379" "PROC. 01299/91 - PLCE 004/91" "Acrescenta o inciso v ao art.49 da lei complementar n 43, de 21 de julho de 1979, que dispoe sobre o desenvolvimento urbano do municipio de porto alegre, institui area..." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"380" "PROC. 00455/92 - PLCE 004/92" "Revoga o paragrafo 4do art.36 da lc n170,de 31/12/1987,alterado pela lc n180,de 18/08/1988,a lc n250,de 11/07/1991,cria o indice de custo do dmae e da outras providencias." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"381" "PROC. 00481/92 - PLCE 005/92" "Dispoe sobre o fundo municipal de saude." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"382" "PROC. 02139/93 - PLCE 005/93" "Institui a politica municipal dos direitos da cidadania contra as discriminacoes cria conselho e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"383" "PROC. 02098/92 - PLCE 012/92" "Institui a taxa de transporte coletivo no municipio de poa e da outras providencias." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"384" "PROC. 03035/93 - PLCE 014/93" "Acrescenta a letra i ao inciso ii do artigo 139 da nova redacao ao capitulo iii da lie complementar 43 de 21 de julho de 1979 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"385" "PROC. 02459/96 - PLCE 009/96" "Dispoe sobre o desenvolvimento urbano e ambiental, o processo de planejamento participativo e democratico, institui o segundo plano diretor de desenvolvimento urbano ambiental e da" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"386" "PROC. 02948/96 - PLCE 010/96" "Altera a lei complementar n 267, de 16 de janeiro de 1992, e a lei n 2902, de 30 de dezembro de 1965, que se refere ao conselho deliberativo do demhab e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"387" "PROC. 02440/97 - PLCE 003/97" "Altera o inc ii do parag 9 do art 5, o art 24, o art 31, o art 64, os inc ii e vii do art 71. o item 2 da alinea b, do inc i do art 72, da lcm 7, de 7.12.1973; o art 1 da lc 48, de" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"388" "PROC. 01241/98 - PLCE 002/98" "Altera dispositivos da lei compl 133, de 31.12.1985 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"389" "PROC. 01622/98 - PLCE 003/98" "Altera o art 13 da lei complementar 352, de 08 de agosto de 1995, que dispoe sobre a politica de assistencia social do municipio de porto alegre e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"390" "PROC. 03112/97 - PLCE 008/97" "Altera os artigos 3, 4 e 5 da lei complementar 79, de 10 de janeiro de 1983, e da outras providencias (n. do prot.: volumetria e vagas para estacionamento)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"391" "PROC. 02220/98 - PLCE 004/98" "Altera o art 180 da lei complementar 133, red dada p lc 385, de 18.9.96, que assegura a incorporacao de gratificacoes aos proventos de aposentadoria dos func do mun e da outras pr." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"392" "PROC. 00110/00 - PLCE 001/00" "Dispoe sobre o sistema municipal de turismo, a estrutura e o funcionamento do conselho municipal de turismo, cria o fundo municipal de turismo e da outras providencias ." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"393" "PROC. 01506/95 - PLCE 006/95" "Acrescenta paragrafo unico ao art. 1 da lei complementar n.335, de 29/12/1994. (cinema capitolio)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"394" "PROC. 03642/02 - PLCE 007/02" "Altera o inc v e a alinea \"a\" do inc vi do art 21 da lcm 7, de 7.12.1973, e alteracoes, para adequa-los as dispos contidas na em constit 37/02, relat a aliquota min sobre o issqn." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"395" "PROC. 00139/90 - PLCE 001/90" "Da nova redacao ao inciso ii do art. 121 da lc n. 133 de 31.12.85, alterada pela lc n. 186, de 12.12.88. (padrao i ref. revisado mensalmente)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"396" "PROC. 00304/94 - PLCE 003/94" "Altera a unidade territ funcional 13 cria a unid territ residencial 16 e ajusta limites de unid territ resid na unid territ seccional intensiva 63 do prim plano diretor de desenv.." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"397" "PROC. 02607/94 - PLCE 024/94" "Altera dispositivo da lei complementar num 7 d e7 de dezmbro de 1973 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"398" "PROC. 01961/95 - PLCE 007/95" "Cria o conselho municipal de alimentacao escolar e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"399" "PROC. 01382/94 - PLCE 011/94" "Altera o art 161 da lei complementar nr 43 de 21 de julho de1979 e da outras providencias(veda a construcao em areas de recuso para ajardinamento-muros)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"400" "PROC. 01711/94 - PLCE 017/94" "Altera dispositivos da lcm 133 de 31.12.85(gratificacao individual de produtividade tecnico-juridica procuradores)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"401" "PROC. 00591/95 - PLCE 003/95" "Altera a redacao do inciso i do art 253 da lei complementar 133 de 31 de dez de 85 e da outras providencias.(estagio)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"402" "PROC. 01529/96 - PLCE 007/96" "Altera a lei complementar 43, de 21 de julho de 1979, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"403" "PROC. 03609/99 - PLCE 005/99" "Estabelece limites para lancamento dos valores do imposto sobre a propriedade predial e territorial urbana - iptu do ano de 2000 e seguintes." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"404" "PROC. 02595/99 - PLCE 002/99" "Reabre o prazo para a regularizacao de construcoes clandestinas da vila farrapos, fixado no art.7, paragrafo 1, da lei complementar n.114, de 28 de dezembro de 1984." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"405" "PROC. 03341/99 - PLCE 004/99" "Autoriza a transferencia do potencial construtivo de imovel para fins de restauracao de imovel tombado e da outras providencias. iab - solar conde de porto alegre." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"406" "PROC. 02893/98 - PLCE 006/98" "Revoga o paragrafo terceiro do artigo 126 da lei complementar 133, de 31 de dezembro de 1985.(adicional por tempo de servico)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"407" "PROC. 02895/98 - PLCE 008/98" "Revoga o artigo 10 e seu paragrafo unico da lei complementar 133, de 31 de dezembro de 1985." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"408" "PROC. 03635/01 - PLCE 006/01" "Reabre o prazo para a regularizacao das construcoes clandestinas da vila farrapos, fixado nos artigos 1 e 2 da lcm num 457, de 12 de setembro de 2000." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"409" "PROC. 01896/00 - PLCE 003/00" "Altera a redacao do art. 3 e parag.1, e art 5 da lei compl. 409/98 (plano de incentivos para permutas de indice construtivo nos imoveis atingidos pelo tracado da av.iii perimetral)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"410" "PROC. 01061/92 - PLCE 007/92" "Institui o codigo de obras de porto alegre e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"411" "PROC. 01885/91 - PLCE 005/91" "Dispoe sobre o limite maximo de retribuicao pecuniaria, e daoutras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+VER DESCRICAO"
+"412" "PROC. 02039/91 - PLCE 007/91" "Reabre o prazo para regularizacao de construcoes clandestinas na vila farrapos, fixado no art. 7, 1 da lei complementar n 114 de 28 de dezembro de 1984." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"413" "PROC. 02508/93 - PLCE 008/93" "Altera dispositivo da lei complementar nr 197 de 21.03.89 e da outras providencias.(imposto s/ a transmissao)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"414" "PROC. 02509/93 - PLCE 009/93" "Altera o inciso iii do artigo 1 da lei complementar nr 261 de 19.12.91 (taxa da coleta de lixo)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"415" "PROC. 02510/93 - PLCE 010/93" "Institui hipoteses de respons.pelo pgto do imposto sobre servicos de qualquer natureza-issqn-(bancos/inst.financeiras..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"416" "PROC. 02512/93 - PLCE 012/93" "Institui a unidade financeira municipal(ufm) em substituicao a unidade de referncia municpal(urm) e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"417" "PROC. 02532/93 - PLCE 013/93" "Revoga o 3 do art 36 da lei complementar nr 170 de 31 de dezembro de 1987 com a redacao dada pela lei complementar 180 de 18.8.88(invalida a obrigat do pag da tarifa ...)" "Autor
+GOVERNO MUNICIPAL
+Situação
+P - PARA CONSULTA"
+"418" "PROC. 03022/91 - PLCE 014/91" "Autoriza o municipio de porto alegre a receber cruzados novos na forma prevista no artigo 9 da lei n 8218, de 29 de agosto de 1991." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"419" "PROC. 02550/91 - PLCE 010/91" "Estabelece o reajuste do imposto redial e territorial urbanopara o exercicio de 1992." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"420" "PROC. 02796/97 - PLCE 005/97" "Cria as areas funcionais de interesse publico 5, 7 e 9 da unidade territorial funcional 3 da unidade territorial seccional intensiva 37 (...) regularizacao do campus da puc/rs e da" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"421" "PROC. 00871/98 - PLCE 001/98" "Cria o cons munic de acompanhamento e controle soc do fundo de manut e desenv. do ensino fundamental e valorizacao do magist no munic de p.alegre, na forma prev no art 4, inc iv, e" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"422" "PROC. 01153/97 - PLCE 001/97" "Institui o codigo de protecao contra incendio de porto alegre e da outras providencias. - v o l u m e iv -" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"423" "PROC. 03686/97 - PLCE 011/97" "Institui o plano de incentivos para permutas de indice construtivo nos imoveis atingidos pelo tracado da av. iii perimetral." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"424" "PROC. 02255/93 - PLCE 006/93" "Institui area de interesse publico e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"425" "PROC. 02576/94 - PLCE 025/94" "Dispoe sobre o trabalho em regime de plantao de 12 horas x 36 horas na administracao municipal e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"426" "PROC. 00341/96 - PLCE 001/96" "Cria o conselho municipal de alimentacao escolar e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"427" "PROC. 02738/91 - PLCE 012/91" "Dispoe sobre instalacoes de gas e saidas eventuais nas edificacoes, e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"428" "PROC. 02137/95 - PLCE 010/95" "Altera a legislacao tributaria municipal e da outras providencias. (nota do protocolo: repercute no iptu)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"429" "PROC. 01237/90 - PLCE 008/90" "Dispoe sobre o regime juridico dos funcionarios do municipio de porto alegre e da outras providencias. ( funcionarios regidos pela clt. )" "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"430" "PROC. 03939/01 - PLCE 007/01" "Altera e acrescenta dispositivos as leis complementares 7, de sete de dezembro de 1973, e 48 de 28 de dezembro de 1979. (iptu progressivo)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"431" "PROC. 01536/90 - PLCE 010/90" "Dispoe sobre a fixacao dos precos dos servicos publicos referidos no art. 1 da lei compl.203, de 28 de dezembro de 1989." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"432" "PROC. 02986/02 - PLCE 003/02" "Altera e acrescenta dispositivos as leis complementares 07, de 7 de dez de 1973, 48, de 28 de dezembro de 1979, 197, de 21 de marco de 1989." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"433" "PROC. 01235/02 - PLCE 002/02" "Autoriza a implantacao do complexo pista de eventos no porto seco, modifica a lei complementar 324/94 e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+PARA ARQUIVAR"
+"434" "PROC. 00567/95 - PLCE 002/95" "Regula a prest de garant p/ aplic no disposta no art 200 terceiro da lei compl 43 de 12.07.79 c/ a red dada pela lcm 316de 24.10.94 e da outras prov (lei parcelamento do solo)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"435" "PROC. 00261/94 - PLCE 002/94" "Modifica a redacao do art 2 da lei complementar 294/93 e da outras prov (obrigatoriedade do comercio varejista de porto alegre afixar o preco dos produtos da cesta basica)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"436" "PROC. 00527/94 - PLCE 006/94" "Altera os limites da unidade territ 01 e unidade territ resi07 da unidade seccional intensiva 19 modifica o regime urbanistico a ser observado em area funcional estab pela lei..." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"437" "PROC. 01494/94 - PLCE 013/94" "Cria a area funcio de interesse publ e altera os lim das utps 07,09 e utf 11 da utsi 33 as leis complement 43 de 21.07.79 de 10.01.83 e 182 de 28.09.88 e da outra provid(sambodromo)" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"438" "PROC. 01983/94 - PLCE 020/94" "Cria conselho municipal de acesso a terra e habitacao comathab e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"439" "PROC. 02521/94 - PLCE 023/94" "Altera a lei complem 256 de 06.11.1991 que relac. predio de interesse socio-cult autoriza o poder exect a permutar e transferir indice construtivo concede direito real(capitolio).." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"440" "PROC. 00809/96 - PLCE 002/96" "Acrescenta o inciso v ao artigo 161 da lei complementar numero 43, de 21 de julho de 1979. (guaritas de seguranca)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"441" "PROC. 01267/97 - PLCE 002/97" "Cria a unidade territorial de comercio e servicos 02 da unidade territorial seccional intensiva 45, define o regime e da outras providencias. (hipodromo do cristal)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"442" "PROC. 01528/96 - PLCE 006/96" "Altera a lei complementar 315, de 6 de janeiro de 1994, que dispoe sobre o instituto do solo criado no municipio de porto alegre e regulamenta a sua aplicacao." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"443" "PROC. 02494/00 - PLCE 007/00" "Cria o conselho municipal de alimentacao escolar - cae - e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"444" "PROC. 02741/00 - PLCE 009/00" "Altera e acrescenta dispositivos na lei complementar n. 7, de 7 de dezembro de 1973. (nota do protocolo: issqn sobre pedagios)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"445" "PROC. 04208/01 - PLCE 009/01" "Autoriza a desafetacao do uso especial de imovel do dominio publico municipal e sua alienacao a lodia kalakun pereira e jose augusto medeiros pereira, independentemente de licitac" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"446" "PROC. 00848/00 - PLCE 002/00" "Modifica artigos da lei complementar 420, de 25 de agosto de 1998, que \"institui o codigo de protecao contra incendio de porto alegre e da outras providencias\"." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"447" "PROC. 00698/91 - PLCE 002/91" "Relaciona predio de interesse socio-cultural, p/tombamento, autoriza o poder executivo a premutar e a transferir indice construtivo, concede direito real de uso aos..." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"448" "PROC. 01963/92 - PLCE 009/92" "Inclui parag ao art 37 da lc nr 170 da 31 de dez de 1987 com a red dada pela lc 180 de 18/8/88 e da outras prov." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"449" "PROC. 02549/91 - PLCE 009/91" "Altera a tabela anexa a lei complementar n 213, de 28 de dezembro de 1989." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"450" "PROC. 00444/92 - PLCE 002/92" "Dispoe sobre a participacao da populacao na gestao do sistema unico de saude - sus, no municipio de porto alegre." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"451" "PROC. 00454/92 - PLCE 003/92" "Inclui parag.unico ao art.38 da lc n170,de 31/12/1987,alterada pela lc n180,de 18/08/1988,e da outras prov.(conces.de bolsas de est.as esc.mun.por clubes consid.de util.publica)." "Autor
+PREFEITO/PREFEITURA MUNICIPAL
+Situação
+ARQUIVADO"
+"452" "PROC. 01035/93 - PLCE 003/93" "Trata do realinhamento do preco basico praticado pelo dmae (tarifa-dmae)." "Autor
+GOVERNO MUNICIPAL
+Situação
+P - PARA CONSULTA"
+"453" "PROC. 00734/99 - PLCE 001/99" "Altera as disp da lei comp 242, de 22 de janeiro de 1991, que disciplina a concessao do direito real de uso aos ocupantes de areas de propriedade do poder publico municipal e da ou" "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"454" "PROC. 02886/98 - PLCE 005/98" "Altera dispositivos da lei complementar num 07, de 7 de dezembro de 1973 e da outras providencias. (codigo tributario do mun)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"455" "PROC. 02353/95 - PLCE 011/95" "Cria o \"passe livre\" no sistema de transporte coletivo de porto alegre e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"456" "PROC. 03404/01 - PLCE 004/01" "Cria a subunidade de estruturacao urbana 03 da ueu 4036, referente a area do estaleiro so, define seu regime urbanistico e da outras providencias." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"457" "PROC. 02292/93 - PLCE 007/93" "Revoga o art 4 da lc 295 de 02.06.93 que autoriza a oficializacao do indice de custo do dmae." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"458" "PROC. 00551/90 - PLCE 005/90" "Acrescenta dispositivo ao artigo 36 da lei complementar n 170, de 31 de dezembro de 1987, alterada pela lei complementar 180, de 23 de agosto de 1988, acrescentando o 5." "Autor
+DEP MUNIC DE AGUA E ESGOTOS
+Situação
+ARQUIVADO"
+"459" "PROC. 01113/16 - PLCE 004/16" "altera o inc. IV do caput do art. 12 da Lei Complementar nº 197, de 21 de março de 1989, dispondo sobre a base de cálculo do ITBI nas arrematações." "Autor
+Executivo Municipal
+Situação
+AGUARDANDO SANCAO"

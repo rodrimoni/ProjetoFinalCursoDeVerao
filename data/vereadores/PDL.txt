@@ -1,0 +1,957 @@
+"tit_projeto" "descricao" "autor_situacao"
+"1" "PROC. 01257/18 - PDL 004/18" "Susta, com base no inc. IV do art. 57 da Lei Orgânica do Município de Porto Alegre, o ato de bloqueio preventivo dos imóveis do Bairro Petrópolis, efetivado com base na Lei Complementar nº 601, de 23 de outubro de 2008, revogada pela Lei Complementar nº 829, de 5 de janeiro de 2018." "Autor
+Ver. Felipe Camozzato e Outros
+Situação
+PARA PARECER"
+"2" "PROC. 01072/18 - PDL 003/18" "Susta o Decreto nº 20.017, de 20 de junho de 2018 – que determina providências a serem adotadas, em caso de paralisação de servidores públicos." "Autor
+Ver. Aldacir Oliboni e Outros
+Situação
+ORDEM DO DIA"
+"3" "PROC. 00612/18 - PDL 002/18" "Autoriza o prefeito municipal de Porto Alegre, senhor Nelson Marchezan Júnior, a ausentar-se do Município, do dia 14 de abril ao dia 20 de abril de 2018, para viajar a São Paulo (SP) e a Recife (PE)." "Autor
+Comissão de Constituição e Justiça
+Situação
+ARQUIVADO"
+"4" "PROC. 00226/18 - PDL 001/18" "CONCEDE AO PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR NELSON MARCHEZAN JUNIOR, LICENCA PARA VIAJAR A JERUSALEM, EM ISRAEL, DO DIA 9 AO DIA 19 DE FEVEREIRO DE 2018." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"5" "PROC. 03103/17 - PDL 008/17" "Autoriza o vice-prefeito municipal de Porto Alegre, senhor Gustavo Bohrer Paim, a ausentar-se do país, do dia 10 ao dia 13 de dezembro de 2017, para viajar a Paris, na França." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"6" "PROC. 02902/17 - PDL 007/17" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR NELSON MARCHEZAN JUNIOR, A AUSENTAR-SE DO PAIS, DO DIA 11 AO DIA 22 DE NOVEMBRO DE 2017, PARA VIAJAR A BARCELONA, NA ESPANHA, A PARTIS, NA FRANCA, A FRANKFURT, NA ALEMANHA, E A LISBOA, EM PORTUGUAL, E A AUSENTAR-SE DO MUNICIPIO DE PORTO ALEGRE, DO DIA 23 AO DIA 24 DE NOVEMBRO DE 2017, PARA..." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"7" "PROC. 02863/17 - PDL 006/17" "Autoriza o prefeito municipal de Porto Alegre, senhor Nelson Marchezan Júnior, a ausentar-se do país, do dia 1º ao dia 4 de novembro de 2017, para viajar a Lima, no Peru." "Autor
+Comissão de Constituição e Justiça
+Situação
+ARQUIVADO"
+"8" "PROC. 02840/17 - PDL 005/17" "CONCEDE AO VICE-PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR GUSTAVO BOHRER PAIM, LICENCA PARA VIAJAR A BANGKOK, NA TAILANDIA, DO DIA 3 AO DIA 11 DE NOVEMBRO DE 2017." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"9" "PROC. 02388/17 - PDL 004/17" "aprova as contas do Município de Porto Alegre referentes ao exercício de 2014." "Autor
+Comissão de Economia, Finanças, Orçamento e do Mercosul
+Situação
+ARQUIVADO"
+"10" "PROC. 01999/17 - PDL 003/17" "CONCEDE AO VICE-PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR GUSTAVO BOHRER PAIM, LICENCA PARA VIAJAR A NOVA IORQUE, NO ESTADOS UNIDOS, DO DIA 21 AO DIA 29 DE JULHO DE 2017." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"11" "PROC. 01848/17 - PDL 002/17" "CONCEDE AO PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR NELSON MARCHEZAN JUNIOR, LICENCA PARA VIAJAR A NICE E PARIS, NA FRANCA, DO DIA 02 AO DIA 09 DE JULHO DE 2017." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"12" "PROC. 01727/17 - PDL 001/17" "CONCEDE AO VICE-PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR GUSTAVO BOHRER PAIM, LICENCA PARA VIAJAR A MONTREAL, NO CANADA, DO DIA 15 AO DIA 24 DE JUNHO DE 2017." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"13" "PROC. 02426/16 - PDL 003/16" "CONCEDE AO PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, LICENCA PARA VIAJAR A BARCELONA, NA ESPANHA, DO DIA 11 AO DIA 20 DE NOVEMBRO DE 2016." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"14" "PROC. 01391/16 - PDL 002/16" "aprova as contas do Município de Porto Alegre referentes ao exercício de 2013." "Autor
+Comissão de Economia, Finanças, Orçamento e do Mercosul
+Situação
+ARQUIVADO"
+"15" "PROC. 01366/16 - PDL 001/16" "Autoriza o prefeito municipal de Porto Alegre, senhor José Fortunati, a ausentar-se do País, do dia 3 ao dia 6 de junho de 2016, para viajar a Rosário, na Argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"16" "PROC. 02841/15 - PDL 008/15" "aprova as contas do Município de Porto Alegre referentes ao exercício de 2012." "Autor
+CEFOR
+Situação
+ARQUIVADO"
+"17" "PROC. 01937/15 - PDL 007/15" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A AUSENTAR-SE DO MUNICIPIO O DO PAIS, DO DIA 24 AO DIA 25 DE AGOSTO DE 2015, PARA VIAJAR A BUENOS AIRES - ARGENTINA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"18" "PROC. 01922/15 - PDL 006/15" "AUTORIZA O VICE-PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR SEBASTIAO MELO, A AUSENTAR-SE DO MUNICIPIO O DO PAIS, DO DIA 22 AO DIA 27 DE AGOSTO DE 2015, PARA VIAJAR A CIDADE DO PANAMA - PANAMA - E A CIDADE DO MEXICO - MEXICO." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"19" "PROC. 01605/15 - PDL 005/15" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DO DIA 15 AO DIA 24 DE JULHO DE 2015, PARA VIAJAR A ROMA, NA ITALIA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"20" "PROC. 01417/15 - PDL 004/15" "Susta, com base no inc. IV do art. 57 da Lei Orgânica do Município de Porto Alegre, a Resolução EPTC nº 3, de 9 de junho de 2010 – que delimita as áreas onde será proibido o tráfego de Veículos de Tração Animal e Tração Humana no Município de Porto Alegre e dá outras providências –, alterada pela Resolução EPTC nº 4, de 28 de fevereiro de 2013." "Autor
+Ver. Marcelo Sgarbossa
+Situação
+ORDEM DO DIA"
+"21" "PROC. 01202/15 - PDL 003/15" "autoriza o Prefeito Municipal de Porto Alegre, senhor José Fortunati, a ausentar-se do País, do dia 24 ao dia 28 de maio de 2015, para, integrando comitiva gaúcha com o Governador José Ivo Sartori, viajar a Paris, na França, e a Erlangen, na Alemanha." "Autor
+Comissão de Constituição e Justiça
+Situação
+ARQUIVADO"
+"22" "PROC. 01145/15 - PDL 002/15" "autoriza o prefeito municipal de Porto Alegre, senhor José Fortunati, a ausentar-se do País, do dia 19 de maio ao dia 21 de maio de 2015, para viajar a Buenos Aires, na Argentina." "Autor
+Comissão de Constituição e Justiça
+Situação
+ARQUIVADO"
+"23" "PROC. 00958/15 - PDL 001/15" "autoriza a Câmara Municipal de Porto Alegre (CMPA) a aderir ao Parlamento Metropolitano da Grande Porto Alegre e determina que a Mesa Diretora da CMPA proceda à indicação oficial de 1 (um) vereador como membro titular e de 1 (um) vereador como membro suplente, para integrarem esse espaço institucional." "Autor
+Mesa Diretora
+Situação
+ARQUIVADO"
+"24" "PROC. 02614/14 - PDL 005/14" "que susta, com base no inc. IV do art. 57 da Lei Orgânica do Município de Porto Alegre, o parágrafo único do art. 14 do Decreto nº 18.623, de 24 de abril de 2014 – que dispõe sobre o processo administrativo de aprovação e licenciamento de edificações, obras, vistorias prediais, numeração e manutenção das edificações, uniformizando os..." "Autor
+Ver. Reginaldo Pujol
+Situação
+ARQUIVADO"
+"25" "PROC. 02539/14 - PDL 004/14" "CONCEDE AO VICE-PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR SEBASTIAO MELO, LICENCA PARA VIAJAR A BARCELONA, NA ESPANHA, DO DIA 16 AO DIA 23 DE NOVEMBRO DE 2014." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"26" "PROC. 02538/14 - PDL 003/14" "CONCEDE AO VICE-PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR SEBASTIAO MELO, LICENCA PARA VIAJAR A CIDADE DO MEXICO, NO MEXICO, DO DIA 10 AO DIA 14 DE NOVEMBRO DE 2014." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"27" "PROC. 02267/14 - PDL 002/14" "CONCEDE AO PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, LICENCA PARA VIAJAR A PARIS, NA FRANCA, DO DIA 08 AO DIA 12 DE OUTUBRO DE 2014." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"28" "PROC. 00673/14 - PDL 001/14" "CONCEDE AO PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE DORTUNATI, LICENCA PARA VIAJAR A MONTEVIDEO, NO URUGUAI, DO DIA 19 AO DIA 20 DE MARCO DE 2014." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"29" "PROC. 02751/13 - PDL 003/13" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A AUSENTAR-SE DO PAIS, NO PERIODO DE 25 DE SETEMBRO A 7 DE OUTUBRO DE 2013, PARA VIAJAR AS CIDADES ROMA, NA ITALIA, RABAT, EM MARROCOS, E PARIS, NA FRANCA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"30" "PROC. 01658/13 - PDL 002/13" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A AUSENTAR-SE DO PAIS, NO PERIODO DE 21 A 28 DE MAIO DE 2013, PARA VIAJAR A CIDADE DE SAO FRANCISCO, NOS ESTADOS UNIDOS DA AMERICA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"31" "PROC. 00522/13 - PDL 001/13" "CONCEDE AO VICE-PREFEITO MUNICIPAL DE PORTO ALEGRE,SENHOR SEBASTIAO MELO,LICENCA PARA TRATAR DE ASSUNTO DE INTERESSE PARTICULAR,DO DIA 03 AO DIA 13 DE FEVEREIRO DE 2013." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"32" "PROC. 02381/12 - PDL 002/12" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A SE AUSENTAR DO PAIS, DE 12 DE NOVEMBRO DE 2012 A 16 DE NOVEMBRO DE 2012, PARA VIAJAR AOS ESTADOS UNIDOS DA AMERICA." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"33" "PROC. 00248/12 - PDL 001/12" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DAS 14:02MIN DO DIA 02 DE FEVEREIRO AS 13:44MIN DO DIA 12 DE FEVEREIRO DE 2012, PARA VIAJAR AO ESTADO DA PALESTINA E ISRAEL." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"34" "PROC. 02405/11 - PDL 002/11" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SR. JOSE FORTUNATI, A AUSENTAR-SE DO MUNICIPIO E DO PAIS, PARA VIAJAR A ROSARIO, NA ARGENTINA, NA DATA DE HOJE." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"35" "PROC. 01706/11 - PDL 001/11" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DAS 20H35MIN DO DIA 06.05.11 ATE AS 09H DO DIA 09.05.11, PARA VIAJAR PARA A ARGENTINA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"36" "PROC. 04009/10 - PDL 004/10" "AUTORIZA O PREFEITO MUNICIPAL A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DE 14 DE NOVEMBRO ATE 21 DE NOVEMBRO 2010, PARA VIAJAR AO MEXICO." "Autor
+SETOR DE PROTOCOLO
+Situação
+ARQUIVADO"
+"37" "PROC. 03512/10 - PDL 003/10" "AUTORIZA O PREFEITO MUNICIPAL A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DE 3 DE OUTUBRO ATE 12 DE OUTUBRO DE 2010, PARA VIAJAR A ESPANHA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"38" "PROC. 02551/10 - PDL 002/10" "AUTORIZA O PREFEITO MUNICIPAL DE PORTO ALEGRE, SENHOR JOSE FORTUNATI, A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DAS 20H35MIN DO DIA 23 DE JUNHO AS 17H DO DIA 25 DE JUNHO DE 2010, PARA VIAJAR A ARGENTINA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"39" "PROC. 02042/10 - PDL 001/10" "AUTORIZA O PREFEITO MUNICIPAL A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DE 28 DE MAIO ATE 7 DE JUNHO DE 2010, PARA VIAJAR A XANGAI (CHINA)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"40" "PROC. 03997/09 - PDL 005/09" "AUTORIZA O PREFEITO MUNICIPAL A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DE 18 DE SETEMBRO ATE 27 DE SETEMBRO DE 2009, PARA VIAJAR A PARIS (FRANCA)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"41" "PROC. 03865/09 - PDL 004/09" "AUTORIZA O VICE-PREFEITO MUNICIPAL A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DE 3 DE SETEMBRO ATE 4 DE SETEMBRO DE 2009, PARA VIAJAR A ARGENTINA." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"42" "PROC. 03238/09 - PDL 003/09" "AUTORIZA O VICE-PREFEITO MUNICIPAL A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DE 26 DE JULHO ATE 2 DE AGOSTO DE 2009, PARA VIAJAR A AFRICA DO SUL." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"43" "PROC. 03123/09 - PDL 002/09" "AUTORIZA O PREFEITO MUNICIPAL A AUSENTAR-SE DO MUNICIPIO E DO PAIS, DE 24 DE JULHO ATE 31 DE JULHO DE 2009, PARA VIAJAR A WASHINGTON(EUA)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"44" "PROC. 01234/09 - PDL 001/09" "APROVA AS CONTAS DO MUNICIPIO DE PORTO ALEGRE REFERENTES AO EXERCICIO DE 2006." "Autor
+COMISSAO DE FINANCAS, ORCAMENTO E TOMADA DE CONTAS
+Situação
+ARQUIVADO"
+"45" "PROC. 06116/08 - PDL 010/08" "Autoriza o prefeito municipal de porto alegre, senhor jose fogaca, a ausentar-se do pais, no dia 29-10-08 ate o dia 13-11-08, para viajar a china." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"46" "PROC. 05890/08 - PDL 009/08" "Concede ao prefeito municipal de porto alegre, senhor jose fogaca, licenca para tratar de assunto de interesse particular, do dia 14 de outubro ate o dia 27 de outubro de 2008." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"47" "PROC. 05882/08 - PDL 008/08" "Aprova as contas do municipio de porto alegre referentes ao exercicio de 2005." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"48" "PROC. 05847/08 - PDL 007/08" "Autoriza o prefeito municipal de porto alegre a licenciar-se para tratar de assuntos de interesse particular, do dia 10 de outubro ate o dia 27 de outubro de 2008." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"49" "PROC. 05537/08 - PDL 006/08" "Concede ao prefeito municipal, em exercicio, senhor eliseu santos, licenca para tratar de assunto de interesse particular, das 18h do dia 18 de setembro ate as 19h do dia 21 de setembro de 2008." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"50" "PROC. 05426/08 - PDL 005/08" "Autoriza o prefeito municipal de porto alegre, senhor jose fogaca, a entrar em licenca para tratar de assuntos de interesse particular, conforme dispoe o art. 92, inc. iii, da lei organica do municipio de porto alegre, do dia 8 de setembro ate o dia 5 de outubro de 2008." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"51" "PROC. 03114/08 - PDL 004/08" "Cassa a resolucao n. 1991, de 18 de maio de 2006, que concede o premio nao as drogas a comunidade terapeutica cidade de refugio." "Autor
+MARGARETE MORAES
+Situação
+ARQUIVADO ART 108"
+"52" "PROC. 02592/08 - PDL 003/08" "Autoriza o prefeito municipal a ausentar-se do estado e do pais, de 20 de abril ate 27 de abril de 2008, para viajar a minas gerais e nova iorque." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"53" "PROC. 00325/08 - PDL 002/08" "Concede ao prefeito municipal em exercicio, senhor eliseu santos, licenca para afastamento do cargo, de 17 de janeiro ate 21 de janeiro de 2008, para tratar de assuntos de interesse pessoal." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"54" "PROC. 00106/08 - PDL 001/08" "Autoriza o prefeito municipal a ausentar-se do municipio e do pais, de 12 de janeiro ate 23 de janeiro de 2008, para viajar a nova deli (india)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"55" "PROC. 07373/07 - PDL 010/07" "Autoriza o prefeito municipal a ausentar-se do pais, de 29 de setembro ate 7 de outubro de 2007, para viajar a hamburg e berlin (alemanha)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"56" "PROC. 04086/07 - PDL 009/07" "Aprova as contas do municipio de porto alegre referentes ao exercicio de 2003." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"57" "PROC. 03688/07 - PDL 008/07" "Aprova as contas do municipio de porto alegre referentes ao exercicio de 1997." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"58" "PROC. 03627/07 - PDL 007/07" "Aprova as contas do municipio de porto alegre referentes ao exercicio de 2004." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"59" "PROC. 03626/07 - PDL 006/07" "Aprova as contas do municipio de porto alegre referentes ao exercicio de 2001." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"60" "PROC. 02845/07 - PDL 005/07" "Aprova a prestacao de contas do municipio de porto alegre referente ao exercicio de 2000." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"61" "PROC. 02839/07 - PDL 004/07" "Aprova a prestacao de contas do municipio de porto alegre referente ao exercicio de 2002." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"62" "PROC. 01858/07 - PDL 003/07" "Autoriza o prefeito municipal a ausentar-se do pais de 17 de abril ate 23 de abril de 2007, para viajar a miami (estados unidos)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"63" "PROC. 01334/07 - PDL 002/07" "Autoriza o prefeito municipal a ausentar-se do pais de 17 de marco ate 18 de marco de 2007, para viajar a montevideo (uruguai)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"64" "PROC. 00865/07 - PDL 001/07" "Autoriza o prefeito municipal a ausentar-se do pais de 24 de fevereiro ate 6 de marco de 2007, para viajar a montreal (canada) e washington (estados unidos)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"65" "PROC. 05066/06 - PDL 009/06" "Altera o art. 1 do decreto legislativo n. 366, de 13 de outubro de 2006." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"66" "PROC. 04899/06 - PDL 008/06" "Autoriza o prefeito municipal a ausentar-se do pais de 22 a 25 de outubro de 2006, para viajar a londres (inglaterra)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"67" "PROC. 04666/06 - PDL 007/06" "Autoriza o prefeito municipal a ausentar-se do municipio e do pais, de 02 a 07 de outubro de 2006, para viajar a washington estados unidos da america." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"68" "PROC. 04639/06 - PDL 006/06" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 18 a 29 de setembro de 2006, para viajar a suzhou (china)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"69" "PROC. 03384/06 - PDL 005/06" "Autoriza o prefeito municipal a ausentar-se do pais, de 18 a 27 de junho de 2006, para viajar a vancouver (canada)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"70" "PROC. 02082/06 - PDL 004/06" "Autoriza o prefeito municipal a ausentar-se do pais, de 18 de abril a 27 de abril de 2006, para viajar a sagrate (italia), bruxelas (belgica) e bremen (alemanha)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"71" "PROC. 01248/06 - PDL 003/06" "Autoriza o vice-prefeito municipal a ausetar-se do municipio, de 15 a 21 de marco de 2006, para viajar a maceio." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"72" "PROC. 00915/06 - PDL 002/06" "A informar" "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+EM TRAMITACAO"
+"73" "PROC. 00704/06 - PDL 001/06" "Autoriza o prefeito municipal a ausentar-se do pais, de 7 a 21 de fevereiro de 2006, para viajar a alemanha e a espanha." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"74" "PROC. 06664/05 - PDL 006/05" "Autoriza o prefeito municipal a ausentar-se do pais, de 13 a 20 de novembro de 2005, para viajar a washington." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"75" "PROC. 05594/05 - PDL 005/05" "Autoriza o vice-prefeito municipal a ausentar-se do pais, 22 a 28 de setembro de 2005, para viajar aos estados unidos." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"76" "PROC. 05569/05 - PDL 004/05" "Autoriza o prefeito municipal a ausentar-se do pais, de 15 a 18 de setembro de 2005, para viajar a nova york." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"77" "PROC. 05402/05 - PDL 003/05" "Autoriza o prefeito municipal a ausentar-se do pais, de 6 a 9 de setembro de 2005, para viajar a argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"78" "PROC. 02964/05 - PDL 002/05" "Autoriza o prefeito municipal a ausentar-se do pais, de 10 a 16 de maio de 2005, para viajar a alemanha." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"79" "PROC. 01681/05 - PDL 001/05" "Aprova as contas da prefeitura municipal de porto alegre referentes ao exercicio de 1999." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"80" "PROC. 04381/04 - PDL 007/04" "Autoriza o prefeito municipal a ausentar-se do pais, de 11 a 16 de setembro de 2004, para viajar a espanha." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"81" "PROC. 04076/04 - PDL 006/04" "Susta o decreto n. 14475, de 13 de fevereiro de 2004, que permite o uso de proprio municipal a sociedade recreativa, beneficente e cultural banda itinerante, de acordo com o proc. adm. n. 001.003982.0" "Autor
+BETO MOESCH
+Situação
+ARQUIVADO"
+"82" "PROC. 03047/04 - PDL 005/04" "Susta o decreto n. 14530, de 14 de abril de 2004,que dispoe sobre as areas de interesse cultural previstas no artigo 92 do pddua, explicita parametrospara aprovacao de projetos nas respectivas areas," "Autor
+WILTON ARAUJO
+Situação
+ARQUIVADO"
+"83" "PROC. 02257/04 - PDL 004/04" "Autoriza o prefeito municipal a ausentar-se do pais, de 29 de abril a 9 de maio de 2004, para viajar a franca e a espanha." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"84" "PROC. 01921/04 - PDL 003/04" "Ficam aprovadas as contas da prefeitura municipalde porto alegre, referentes ao exercicio de 1996(tarso genro)" "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"85" "PROC. 01865/04 - PDL 002/04" "Aprova as contas da prefeitura municipal de portoalegre referentes ao exercicio de 1998(raul pont)." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"86" "PROC. 00175/04 - PDL 001/04" "Autoriza o prefeito municipal a ausentar-se do pais, de 14 a 23 de janeiro de 2004, para viajar a india." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"87" "PROC. 04871/03 - PDL 002/03" "Autoriza o prefeito municipal a ausentar-se do pais, de 18 a 20 de setembro de 2003, para viajar ao uruguai." "Autor
+COMISSAO DE JUSTICA E REDACAO
+Situação
+ARQUIVADO"
+"88" "PROC. 04343/03 - PDL 001/03" "Susta o paragrafo 1 do art 2 do decreto num 12243de 8.2.99, com a redacao dada pelo decreto 12345,de 24.5.99, e seus efeitos (carteira para acompanhante de deficiente fisico) ." "Autor
+WILTON ARAUJO
+Situação
+ARQUIVADO ART 107"
+"89" "PROC. 00078/90 - PDL 001/90" "Autoriza o senhor prefeito municipal de porto alegre a afastar-se do municipio. (12 a 30.01.90)" "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"90" "PROC. 01952/95 - PDL 004/95" "Aprova as contas da prefeitura municipal de portoalegre, referentes ao exercicio de 1991." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"91" "PROC. 02080/01 - PDL 005/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 15 de maio a primeiro de junho de 2001." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"92" "PROC. 02640/91 - PDL 016/91" "Autoriza o sr.prefeito municipal a ausentar-se do municipio,das 15:30 do dia 12 ate as 24h do dia 13 de outubro, para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"93" "PROC. 01281/93 - PDL 004/93" "Autoriza o prefeito a ausentar-se do municipio c/onus para a prefeitura das 11h do dia 06 ate as 23h do dia 07.05.93 para viajar a brasilia/df." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"94" "PROC. 02126/93 - PDL 009/93" "Autoriza o prefeito a afastar-se do municipio sem onus para o executivo das 15 h do dia 20 com retorno as 21h do dia 22.08.93 para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"95" "PROC. 01164/92 - PDL 006/92" "Autoriza o prefeito a afastar-se do municipio das 12h do dia22 as 12h do dia 26/05/92, para viajar a sao paulo, espiritosanto e minas gerais." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"96" "PROC. 01334/97 - PDL 006/97" "Aprova as contas da prefeitura municipal de porto alegre, referentes ao exercicio de 1992." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"97" "PROC. 00358/98 - PDL 001/98" "Autoriza o prefeito municipal a ausentar-se do municipio, de 1 a a5 de fevereiro de 1998." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"98" "PROC. 01963/97 - PDL 009/97" "Autoriza o vice-prefeito a afastar-se do pais, de 18 a 19.6.97, para viajar a assuncao, paraguai." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"99" "PROC. 01157/91 - PDL 005/91" "Autoriza o sr.prefeito municipal de porto alegre, a afastar--se do estado, no periodo das 15hs do dia 26 as 12hs do dia 29 de abril do corrente ano." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"100" "PROC. 02757/93 - PDL 013/93" "Autoriza o prefeito a afastar-se do municipio com onus para o executivo das 18h do dia 03 as 10h do dia 05.11.93." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"101" "PROC. 00158/91 - PDL 001/91" "Autoriza o sr. prefeito municipal de porto alegre a afastar--se do municipio no periodo de 16/01/91 a 28/01/91." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"102" "PROC. 04037/01 - PDL 011/01" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 25 a 27 de outubro de 2001, para viajar ao uruguai." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"103" "PROC. 01713/95 - PDL 003/95" "Aprova as contas da prefeitura municipal de portoalegre (poder executivo, dmlu, demhab e dmae) referentes ao exercicio de 1990." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"104" "PROC. 01979/96 - PDL 005/96" "Autoriza o sr prefeito municipal a viajar a b aires, no proximo dia 5 de agosto, as 11h50, permanecendo na capital argentina ate as 18h15 do dia 5 de agosto, para participar..." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"105" "PROC. 00603/98 - PDL 002/98" "Autoriza o prefeito municipal a afastar-se do pais, de 2 a 3 de marco de 1998." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"106" "PROC. 02327/98 - PDL 010/98" "Autoriza o prefeito municipal a ausentar-se do pais, de 27 a 30 de julho de 1998." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"107" "PROC. 03819/99 - PDL 018/99" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 8 a 9 de dezembro de 1999." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"108" "PROC. 02691/93 - PDL 012/93" "Autoriza o prefeito a afastar-se do municipio das 07 as 23 horas do dia 26 de outubro de 1993 para viajar a brasilia." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"109" "PROC. 02891/01 - PDL 007/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 15 a 23 de julho de 2001, para viajar a italia." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"110" "PROC. 02323/91 - PDL 012/91" "Autoriza o prefeito a afastar-se do municipio, sem onus, nosdias 04 e 05/09/91, para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"111" "PROC. 03019/97 - PDL 016/97" "Autoriza o prefeito municipal a ausentar-se do pais, de 4 a 7 de outubro de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"112" "PROC. 00744/97 - PDL 003/97" "Autoriza o prefeito municipal a afastar-se do pais, das 11 horas e 50 minutos do dia 04 de marco as 17 horas do dia 06 de marco de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"113" "PROC. 03081/91 - PDL 021/91" "Autoriza o prefeito em exercicio a ausentar-se do unicipio das 7 horas do dia 30 do mes em curso ate as 12 horas do dia 02 de dezembro vindouro, para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"114" "PROC. 01561/97 - PDL 007/97" "Autoriza o vice-prefeito municipal a afastar-se do pais, de 24 de maio a primeiro de junho de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"115" "PROC. 01365/92 - PDL 008/92" "Susta o decreto n10.171 de 27/12/91 e seu efeitos." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"116" "PROC. 02361/93 - PDL 010/93" "Autoriza o prefeito a ausentar-se do municipio com onus para o executivo das 18h30min do dia 13 as 24h do dia 15.09.93 para viajar ao rio de janeiro e a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"117" "PROC. 01592/93 - PDL 008/93" "Autoriza o vice-prefeito a afastar-se do mun sem onus para o exec das 21h do dia 09 as 18h do dia 12.06.93 para viajar a brasilia/df." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"118" "PROC. 02192/94 - PDL 003/94" "Autoriza o prefeito a ausentar0se do municipio co onus para a prefeitura das23h do dia 16 as 11h do dia 22 de outubro de 1994 para viajar aos estados unidos da amenrica." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"119" "PROC. 02415/94 - PDL 005/94" "Autoriza o prefeito a aussentar-se do mnunicipio de 1 a 15 de dezembro de 1994 para viajar ao japao." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"120" "PROC. 02208/97 - PDL 011/97" "Autoriza o prefeito municipal a ausentar-se do pais a partir das 8 horas do dia 21 de julho de 1997, retornando no final do dia 27 de julho de 1997." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"121" "PROC. 02228/97 - PDL 012/97" "Autoriza o vice-prefeito municipal a afastar-se do pais, no periodo das 20h15min do dia 25 de julho de 1997, as 11h15min do dia 31 de julho de 1997." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"122" "PROC. 00428/96 - PDL 001/96" "Autoriza o sr. prefeito a afastar-se do municipio, de 14 de fevereiro a 1 de marco de 1966." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"123" "PROC. 00494/97 - PDL 001/97" "Autoriza o prefeito a afastar-se do municipio das 8h do dia 03-02-97 as 11h do dia 11-02-97, para tratar de assuntos particulares." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"124" "PROC. 02664/96 - PDL 008/96" "Autoriza o prefeito a afastar-se do municipio, de 23 a 31 de outubro de 1996, para viajar aos estados unidos, espanha e portugal." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"125" "PROC. 02989/96 - PDL 010/96" "Autoriza o prefeito a afastar-se do pais, das 14h do dia 03 de dezembro as 20h do dia 05 de dezembro de 1996 do corrente ano, para viajar a montevideu." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"126" "PROC. 02023/01 - PDL 004/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 10 a 12 de maio de 2001, para viajar a argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"127" "PROC. 02546/00 - PDL 004/00" "Autoriza o prefeito municipal a ausentar-se do pais de 4 a 6 de setembro de 2000, para viajar a argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"128" "PROC. 03068/00 - PDL 007/00" "Ficam aprovadas as contas da prefeitura municipal de porto alegre (poder executivo, dmlu, demhab, dmae e fesc), referentes ao exercicio de 1994." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"129" "PROC. 03150/00 - PDL 008/00" "Autoriza o prefeito municipal a ausentar-se do pais, de 20 a 28 de novembro de 2000." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"130" "PROC. 01041/01 - PDL 002/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 7 a 8/3/2001, para viajar a montevideo/uruguai." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"131" "PROC. 03191/91 - PDL 022/91" "Autoriza o prefeito a ausentar-se do municipio, das 19 horasdo dia 13/12/91 as 12 horas do dia 14/12/91, para viajar a sao bernardo do campo-sp." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"132" "PROC. 00167/92 - PDL 001/92" "Autoriza o sr.prefeito municipal a ausentar-se do municipio,sem onus para a prefeitura, no periodo de 15 a 25/01/92." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"133" "PROC. 01443/90 - PDL 010/90" "Autoriza o senhor prefeito municipal de porto alegre a afastar-se do estado, no periodo de 13 a 16.07.90." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"134" "PROC. 00850/92 - PDL 003/92" "Rejeita as contas da prefeitura municipal de porto alegre(poder executivo, dmlu, demhab e dmae), referentes ao exerciciode 1987(processo 221/1992)." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+EM TRAMITACAO"
+"135" "PROC. 00561/91 - PDL 002/91" "Autoriza o sr. prefeito municipal de porto alegre, a ausentar-se do estado, das 18h 30min do dia 21 as 12h do dia 23 de fevereiro de 1991." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"136" "PROC. 01358/91 - PDL 006/91" "Autoriza o sr. prefeito municipal de pporto alegre a afastar-se do estado, no periodo das 18 horas do dia 17 as 12 horasdo dia 20 de maio do corrente ano." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"137" "PROC. 01767/91 - PDL 009/91" "Autoriza o sr.prefeito municipal de porto alegre a ausentar--se do estado, das 18h30min do dia 08 de julho e retorno as 24h do dia 10 de julho." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"138" "PROC. 01282/93 - PDL 005/93" "Autoriza o prefeito a ausentar-se do municpio s/ onus para a prefeitura das 15h45min do dia 09 ate as 23h30min do dia 10.05.93 para viajar a s paulo/sp." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"139" "PROC. 02721/91 - PDL 017/91" "Autoriza o prefeito a ausentar-se do municipio, c/onus, das 07 as 24 horas do dia 22/10/91, para viajar a brasilia." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"140" "PROC. 02875/91 - PDL 018/91" "Autoriza o prefeito a ausentar-se do municipio, das 18h30mindo dia 1o ate as 24 horas do dia 12/11/91, com onus, para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"141" "PROC. 02228/97 - PDL 012/97" "Autoriza o vice-prefeito municipal a afastar-se do pais, no periodo das 20h15min do dia 25 de julho de 1997, as 11h15min do dia 31 de julho de 1997." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"142" "PROC. 00428/96 - PDL 001/96" "Autoriza o sr. prefeito a afastar-se do municipio, de 14 de fevereiro a 1 de marco de 1966." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"143" "PROC. 00494/97 - PDL 001/97" "Autoriza o prefeito a afastar-se do municipio das 8h do dia 03-02-97 as 11h do dia 11-02-97, para tratar de assuntos particulares." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"144" "PROC. 02664/96 - PDL 008/96" "Autoriza o prefeito a afastar-se do municipio, de 23 a 31 de outubro de 1996, para viajar aos estados unidos, espanha e portugal." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"145" "PROC. 02989/96 - PDL 010/96" "Autoriza o prefeito a afastar-se do pais, das 14h do dia 03 de dezembro as 20h do dia 05 de dezembro de 1996 do corrente ano, para viajar a montevideu." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"146" "PROC. 02023/01 - PDL 004/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 10 a 12 de maio de 2001, para viajar a argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"147" "PROC. 02546/00 - PDL 004/00" "Autoriza o prefeito municipal a ausentar-se do pais de 4 a 6 de setembro de 2000, para viajar a argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"148" "PROC. 03068/00 - PDL 007/00" "Ficam aprovadas as contas da prefeitura municipal de porto alegre (poder executivo, dmlu, demhab, dmae e fesc), referentes ao exercicio de 1994." "Autor
+COMISS ECONOM FINANCAS ORCAM E MERCOSUL
+Situação
+ARQUIVADO"
+"149" "PROC. 03150/00 - PDL 008/00" "Autoriza o prefeito municipal a ausentar-se do pais, de 20 a 28 de novembro de 2000." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"150" "PROC. 01041/01 - PDL 002/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 7 a 8/3/2001, para viajar a montevideo/uruguai." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"151" "PROC. 03191/91 - PDL 022/91" "Autoriza o prefeito a ausentar-se do municipio, das 19 horasdo dia 13/12/91 as 12 horas do dia 14/12/91, para viajar a sao bernardo do campo-sp." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"152" "PROC. 00167/92 - PDL 001/92" "Autoriza o sr.prefeito municipal a ausentar-se do municipio,sem onus para a prefeitura, no periodo de 15 a 25/01/92." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"153" "PROC. 01443/90 - PDL 010/90" "Autoriza o senhor prefeito municipal de porto alegre a afastar-se do estado, no periodo de 13 a 16.07.90." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"154" "PROC. 00850/92 - PDL 003/92" "Rejeita as contas da prefeitura municipal de porto alegre(poder executivo, dmlu, demhab e dmae), referentes ao exerciciode 1987(processo 221/1992)." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+EM TRAMITACAO"
+"155" "PROC. 00561/91 - PDL 002/91" "Autoriza o sr. prefeito municipal de porto alegre, a ausentar-se do estado, das 18h 30min do dia 21 as 12h do dia 23 de fevereiro de 1991." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"156" "PROC. 01358/91 - PDL 006/91" "Autoriza o sr. prefeito municipal de pporto alegre a afastar-se do estado, no periodo das 18 horas do dia 17 as 12 horasdo dia 20 de maio do corrente ano." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"157" "PROC. 01767/91 - PDL 009/91" "Autoriza o sr.prefeito municipal de porto alegre a ausentar--se do estado, das 18h30min do dia 08 de julho e retorno as 24h do dia 10 de julho." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"158" "PROC. 01282/93 - PDL 005/93" "Autoriza o prefeito a ausentar-se do municpio s/ onus para a prefeitura das 15h45min do dia 09 ate as 23h30min do dia 10.05.93 para viajar a s paulo/sp." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"159" "PROC. 02721/91 - PDL 017/91" "Autoriza o prefeito a ausentar-se do municipio, c/onus, das 07 as 24 horas do dia 22/10/91, para viajar a brasilia." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"160" "PROC. 02875/91 - PDL 018/91" "Autoriza o prefeito a ausentar-se do municipio, das 18h30mindo dia 1o ate as 24 horas do dia 12/11/91, com onus, para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"161" "PROC. 03116/99 - PDL 016/99" "Autoriza o prefeito municipal a ausentar-se do pais, de 01 a 04 de outubro de 1999." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"162" "PROC. 03177/99 - PDL 017/99" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 08 a 11 de outubro de 1999." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"163" "PROC. 01990/99 - PDL 013/99" "Autoriza o prefeito municipal a afastar-se do pais, de 19 a 22 de junho de 1999." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"164" "PROC. 02095/00 - PDL 002/00" "Autoriza o prefeito municipal a ausentar-se do municipio, de 11 a 13 de julho de 2000." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"165" "PROC. 02313/00 - PDL 003/00" "Autoriza o prefeito municipal a ausentar-se do pais nos dias 5 e 6 de agosto de 2000, para viajar a buenos aires." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"166" "PROC. 01750/01 - PDL 003/01" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 21 a 26 de abril de 2001, para viajar a republica dominicana." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"167" "PROC. 03419/01 - PDL 009/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 3 a 5 de setembro de 2001, para viajar ao chile." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"168" "PROC. 03884/01 - PDL 010/01" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 14 a 17 de outubro de 2001, para viajar ao equador." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"169" "PROC. 00970/92 - PDL 004/92" "Autoriza o prefeito a ausentar-se do municipio, de 23 a 25 de abril de 1992, para viajar a campo grande, ms." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"170" "PROC. 01066/92 - PDL 005/92" "Autoriza o prefeito a ausentar-se do municipio,sem onus,das 12h do dia 07 as 12h do dia 10 de maio de 1992,para viajar asao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"171" "PROC. 01441/92 - PDL 010/92" "Autoriza o prefeito a ausentar-se do municipio das 19:30h dodia 24 as 12h do dia 27/06/92, para viajar a provincia de cordoba na argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"172" "PROC. 01825/92 - PDL 013/92" "Autoriza o prefeito a afastar-se do municipio das 7 horas dodia 14 as 24h do dia 16.08.92, em viagem a assuncion/paraguai." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"173" "PROC. 02462/91 - PDL 014/91" "Autoriza o sr.prefeito municipal a ausentar-se do municipio,sem onus para esta prefeitura, das 12h do dia 25 ate as 18h do dia 29 de setembro em curso." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"174" "PROC. 02567/91 - PDL 015/91" "Autoriza o prefeito a ausentar-se do municipio nos dias 04 e05 de outubro de 1991, para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"175" "PROC. 00362/93 - PDL 001/93" "Autoriza o prefeito municipal a ausentar-se do estado sem onus para a prefeitura das 15h45min do dia 05.2.93 as 22h30min do dia 07.2.93 para viajar sa sao paulo." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"176" "PROC. 00599/93 - PDL 002/93" "Autoriza o prefeito a ausentar-se do municipio com onus para a prefeitura das 8 horas do dia 04.3.93 ate as 24 horas do dia 07.3.93 para viajar a salvador ba." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"177" "PROC. 01405/91 - PDL 007/91" "Autoriza o sr. prefeito municipal de poro alegre, a afastar--se do estado, no periodo das 07 horas do dia 24 as 12 horasdo dia 26 de maio do corrente ano." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"178" "PROC. 01677/91 - PDL 008/91" "Autoriza o sr.prefeito municipal de porto alegre a afastar-se do estado, das 15 horas do dia 27 as 12 horas do dia 30 dejunho de 1991." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"179" "PROC. 01949/91 - PDL 010/91" "Autoriza o prefeito municipal a afastar-se do estado, das 18h30min do dia 31 de julho e retorno previsto para as 12 horas do dia 03 de agosto." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"180" "PROC. 02103/91 - PDL 011/91" "Autoriza o sr.prefeito municipal a afastar-se do estado dia 15 de agosto de 1991, para viajar a sao paulo; dia 17 de agosto de 1991, para viajar ao rio de janeiro..." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"181" "PROC. 00632/92 - PDL 002/92" "Autoriza o prefeito a afastar-se do municipio, sem onus, das7h do dia 14 ate as 12h do dia 17 de marco de 1992, para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"182" "PROC. 02055/92 - PDL 015/92" "Dispoe sobre a remuneracao do veci-prefeito no municipio de poa no periodo de 93 a 96 e da outras providencias." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"183" "PROC. 02042/98 - PDL 009/98" "Aprova as contas da prefeitura de porto alegre referentes ao exercicio de 1995." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"184" "PROC. 00791/97 - PDL 004/97" "Autoriza o vice-prefeito municipal a afastar-se do pais, de 07 a 1o/3/1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"185" "PROC. 00829/97 - PDL 005/97" "Autoriza o prefeito municipal a afastar-se do pais, de 12 a 17 de marco de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"186" "PROC. 01936/97 - PDL 008/97" "Autoriza o prefeito municipal a afastar-se do pais, de 18 a 19 de junho de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"187" "PROC. 01704/98 - PDL 007/98" "Solicita autorizacao para o vice-prefeito municipal ausentar-se do pais, de 02 a 08 de junho de 1998." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"188" "PROC. 00255/90 - PDL 002/90" "Autoriza o sr. prefeito municipal de porto alegre a afastar-se do estado, no periodo de 11 a 12.02.1990." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"189" "PROC. 00520/90 - PDL 003/90" "Autoriza o sr. prefeito a afastar-se do estado no periodo das 18h do dia 23 as 12h do dia 26 de mar? de 1990." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+VER DESCRICAO"
+"190" "PROC. 00696/90 - PDL 004/90" "Aprova as contas da prefeitura municipal de porto alegre9 dmlu,demhab e dmae), exercicio de 1984." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"191" "PROC. 00376/94 - PDL 001/94" "Autoriza o pref a ausentar-se do est s/ onus p/ a pref do dia 16.02.94 a 07.03.94 p/ tratar de assun de seu interesseparticular cfe dispoe o art 92 inciso iii da lei organica munic" "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"192" "PROC. 01451/96 - PDL 003/96" "Autoriza o prefeito a afastar-se do municipio, das 19h do dia 28 de maio a as 8h do dia 7 de junho, para viajar a istambul, turquia." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"193" "PROC. 00704/99 - PDL 006/99" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 8 a 11 de marco de 1999." "Autor
+DL - DIRETORIA LEGISLATIVA
+Situação
+ARQUIVADO"
+"194" "PROC. 02682/98 - PDL 012/98" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 4 a 14 de setembro de 1998." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"195" "PROC. 02725/00 - PDL 005/00" "Autoriza o prefeito municipal a ausentar-se do pais nos dias 29 e 30 de setembro de 2000, para viajar a argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"196" "PROC. 03029/00 - PDL 006/00" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 7 a 13 de novembro de 2000, para viajar a portugal." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"197" "PROC. 01431/92 - PDL 009/92" "Autoriza o prefeito a ausentar-se do municipio das 18h do dia 03 as 12h do dia 06/07/92 p/viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"198" "PROC. 01602/92 - PDL 011/92" "Autoriza o prefeito a afastar-se do municipio, com onus paraa prefeitura, das 12h do dia 09 as 24h do dia 10/07/92, paraviajar a belo horizonte." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"199" "PROC. 01707/92 - PDL 012/92" "Autoriza o prefeito a ausentar-se do municipio, sem onus, das 18h do dia 31/07 a 2/08/92, em viagem a recife, goiania e santa catarina." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"200" "PROC. 02961/93 - PDL 014/93" "Autoriza o prefeito a ausentar-se de porto alegre das 12 horas do dia 3.12.93 as 12 horas do dia 4.12.93 para viajar ao rj sem onus para a prefeitura." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"201" "PROC. 03052/93 - PDL 015/93" "Autoriza o prefeito a afastar-se do municipio com onus p/ o executivo nos dias 08 e 09.12.93 p/ viajar a brasilia/df." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"202" "PROC. 02314/92 - PDL 018/92" "Autoriza o prefeito a afastar-se do municipio sem onus para a prefeitura das 7h do dia 21 ate as 24h do dia 24.11.92 para viajar a belo horizonte." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"203" "PROC. 02446/92 - PDL 019/92" "Autoriza o prefeito a ausentar-se do municipio das 06h50m do dia 18 as 11h do dia 20 de dezembro de 1992 para viajar a natal - rn." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"204" "PROC. 02991/91 - PDL 020/91" "Autoriza o prefeito a ausentar-se do municipio, no periodo de 26 de novembro a 1 de dezembro de 1991, para viajar a saopaulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"205" "PROC. 02370/91 - PDL 013/91" "Autoriza o prefeito a ausentar-se do municipio, com onus, nos dias 09 e 10/09/91, para viajar a brasilia; dias 12 e 13/09/91, para viajar a florianopolis e, sem onus, dias 13 e..." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"206" "PROC. 02679/97 - PDL 013/97" "Autoriza o vice-prefeito municipal a afastar-se do pais, de 07 a 10 de setembro de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"207" "PROC. 02733/97 - PDL 015/97" "Autoriza o prefeito municipal a ausentar-se do pais, de 11 a 13 de setembro de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"208" "PROC. 03079/97 - PDL 017/97" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 07 a 08 de outubro de 1997." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"209" "PROC. 00951/98 - PDL 004/98" "Aprova as contas da prefeitura municipal de porto alegre, referentes ao exercicio de 1993." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"210" "PROC. 02899/96 - PDL 009/96" "Autoriza o prefeito municipal a afastar-se do pais, das 21h30min do dia 20 de novembro de 1996 com retorno as 08h50min do dia 22 de novembro de 1996, para viajar a argentina." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"211" "PROC. 01801/98 - PDL 008/98" "Autoriza o prefeito municipal a ausentar-se do pais, de 9 a 17 de junho de 1998." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"212" "PROC. 01014/90 - PDL 007/90" "Autoriza o senhor prefeito municipal de porto alegre a afastar-se do estado, no periodo de 18.05.90 a 20.05.90 ." "Autor
+COMISSAO DE JUSTICA E REDACAO
+Situação
+ANEXADO A OUTRO PROCESSO"
+"213" "PROC. 01114/90 - PDL 008/90" "Autoriza o sr.prefeito municipal de porto alegre a afastar-se do estado, no periodo de 01.06.90 a 04.06.90. d" "Autor
+COMISSAO DE JUSTICA E REDACAO
+Situação
+ANEXADO A OUTRO PROCESSO"
+"214" "PROC. 00472/95 - PDL 001/95" "Autoriza o pref munic a afastar-se do cargo sem onus p/ a pref no periodo compreendido entre os dias 20 a 27 de fev do ano em curso p/ tratar de assunto de interesse particular." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"215" "PROC. 02061/95 - PDL 005/95" "Susta a portaria numero 49/92 da secretaria municipal dos transportes e o decreto numero 11.201, de 26 de janeiro de 1995, e seus efeitos." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"216" "PROC. 02151/95 - PDL 006/95" "Aprova as contas da prefeitura municipal de porto alegre (poder executivo, dmlu, demhab e dmae), referentes ao exercicio de 1988." "Autor
+COMISSAO DE ECONOM, FINANCAS E ORCAMENTO
+Situação
+ARQUIVADO"
+"217" "PROC. 02330/95 - PDL 007/95" "Autoriza o prefeito a afastar-se do municipio, de 5 a 14 de novembro de 1995, para viajar a florianopolis, buenos aires, rosario, assuncion e montevideo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"218" "PROC. 02515/93 - PDL 011/93" "Autoriza o pref a fastar-se do municipio com uons para o executivo das 7h do dia 05 as 23h do dia 07.10.93 para viajar a sao paulo/sp e cuiaba/mt." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"219" "PROC. 00646/98 - PDL 003/98" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 04 a 09 de marco de 1998." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"220" "PROC. 00923/96 - PDL 002/96" "Autoriza o prefeito a afastar-se do municipio de 16 a 23 de abril de 1996, para viajar aos estados unidos." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"221" "PROC. 03719/97 - PDL 018/97" "Autoriza o prefeito municipal a ausentar-se do pais, a partir do inicio da noite do dia 14.12.97 ate o final do dia 15.12.97." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"222" "PROC. 02124/97 - PDL 010/97" "Autoriza o prefeito a afastar-se do pais, no periodo de 6 a 13.7.97, para participar como conferencista, a convite, em curso da univ complutense de madrid, em madrid, espanha." "Autor
+COMISSAO REPRESENTATIVA
+Situação
+ARQUIVADO"
+"223" "PROC. 02302/96 - PDL 006/96" "Fixa as remuneracoes mensais do prefeito municipal de porto alegre e do vice-prefeito, para a xii legislatura, periodo de 1.1.1997 a 31.12.2000, e da outras providencias." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"224" "PROC. 02484/01 - PDL 006/01" "Autoriza o prefeito municipal a ausentar-se do pais, de 13 a 15 de junho de 2001, para viajar ao paraguai." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"225" "PROC. 03185/01 - PDL 008/01" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 11 a 19 de agosto de 2001(viagem a franca e a espanha)." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"226" "PROC. 01513/00 - PDL 001/00" "Autoriza o prefeito municipal a ausentar-se do pais, de 16 a 22 de maio de 2000, para viajar a franca." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"227" "PROC. 01019/91 - PDL 004/91" "Autoriza o prefeito municipal de porto alegre a afastar-se do estado, no periodo de 12 a 15 de abril do corrente ano." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"228" "PROC. 01295/92 - PDL 007/92" "Autoriza o prefeito a ausentar-se do municipio das 18h do dia 02 as 24h do dia 03/06/92, para viajar ao rio de janeiro." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"229" "PROC. 01463/93 - PDL 006/93" "Autoriza o prefeito a afstar-se do municipio com onus para o exec das 11h45min do dia 27 as 23h do dia de maio de 1993 para viajar a brasilia/df." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"230" "PROC. 01591/93 - PDL 007/93" "Autoriza o prefeito a afastar-se do mun com onus para o executivo das 21h do dia 09 as 18h do dia 12.06.93 para viajar a brasilia/df." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"231" "PROC. 01997/92 - PDL 014/92" "Solicita autorizacao para ausentar-se do municipio sem onus para a prefeitura das 18h30min do dia 11 as 24h dia 13.09.92 para viajar ao parana." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"232" "PROC. 02056/92 - PDL 016/92" "Fixa a remuneracao do prefeito municipal de poa para o periodo de 93 a 96 e da outras providencias." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"233" "PROC. 02182/92 - PDL 017/92" "Autoriza o prefeito a ausentar-se do municipio sem onus para a prefeitura das 15h do dia 23 as 24h do dia 25.10.92 para viajar a sao paulo." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"234" "PROC. 02447/92 - PDL 020/92" "Declara horta capital do faial portugal cidade-irma de porto alegre." "Autor
+LUIZ VICENTE VIEIRA DUTRA
+Situação
+ARQUIVADO"
+"235" "PROC. 02980/91 - PDL 019/91" "Declara rosario, na republica argentina, cidade irma de porto alegre." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"236" "PROC. 00947/93 - PDL 003/93" "Autoriza o prefeito a ausentar-se do mun com onus para a pmpa das 11h do dia 30/3 ate as 24h do dia 31.3.93 para viajar a brasilia df." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"237" "PROC. 00847/99 - PDL 007/99" "Autoriza o prefeito municipal a ausentar-se do pais de 16 a 24 de marco de 1999." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"238" "PROC. 01172/99 - PDL 008/99" "Autoriza o vice-prefeito municipal a ausentar-se do pais, de 12 a 14 de abril de 1999." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"
+"239" "PROC. 02565/98 - PDL 011/98" "Autoriza o prefeito municipal a ausentar-se do pais de 2 a 4 de setembro de 1998." "Autor
+COMISSAO DE CONSTITUICAO E JUSTICA
+Situação
+ARQUIVADO"

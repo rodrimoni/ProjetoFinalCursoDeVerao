@@ -1,0 +1,593 @@
+"tit_projeto" "descricao" "autor_situacao"
+"1" "PROC. 00504/19 - PELO 007/19" "Inclui incs. XX e XXI no caput do art. 57 da Lei Orgânica do Município de Porto Alegre, acrescentando às competências privativas da Câmara Municipal a fixação do subsídio dos Vereadores, do Prefeito, do Vice Prefeito e dos Secretários Municipais." "Autor
+Ver. Mauro Zacher
+Situação
+PARA COMPOSICAO E REVISAO DA PROPOSICAO"
+"2" "PROC. 00377/19 - PELO 006/19" "INCLUI O PARAGRAFO UNICO AO ART. 19-A DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE." "Autor
+MENDES RIBEIRO
+Situação
+EM TRAMITACAO"
+"3" "PROC. 00314/19 - PELO 005/19" "Altera o caput e inclui parágrafo único no art. 156 e inclui art. 156-A na Lei Orgânica do Município de Porto Alegre, dispondo sobre a segurança no Município e sobre as competências da Guarda Municipal." "Autor
+Ver. Mônica Leal
+Situação
+PARA PARECER"
+"4" "PROC. 00300/19 - PELO 004/19" "Altera o caput do art. 103 e o caput do art. 104 e revoga os §§ 1º e 2º do art. 103 e o parágrafo único do art. 104 da Lei Orgânica do Município de Porto Alegre, dispondo sobre o direito de informação." "Autor
+Ver. Mauro Pinheiro
+Situação
+PARA CIENCIA"
+"5" "PROC. 00288/19 - PELO 003/19" "Inclui art. 116-A na Lei Orgânica do Município de Porto Alegre, dispondo sobre a execução orçamentária e financeira da programação incluída por emendas individuais do Legislativo Municipal em Lei Orçamentária Anual (LOA)." "Autor
+Ver. Cássio Trogildo
+Situação
+PARA CONFERENCIA DA LEI / RESOLUCAO"
+"6" "PROC. 00272/19 - PELO 002/19" "Altera o inc. I do § 1º e inclui inc. VII no § 2º do art. 82 da Lei Orgânica do Município de Porto Alegre, instituindo necessidade de quórum de maioria qualificada para majoração de alíquota ou base de cálculo de impostos municipais." "Autor
+Ver. Ricardo Gomes
+Situação
+PARA PARECER"
+"7" "PROC. 00021/19 - PELO 001/19" "Inclui art. 178-A na Lei Orgânica do Município de Porto Alegre, tornando a Língua Espanhola disciplina de oferta obrigatória nos níveis fundamental e médio da rede municipal de ensino." "Autor
+Verª. Sofia Cavedon
+Situação
+PARA PARECER"
+"8" "PROC. 01295/18 - PELO 006/18" "Altera o art. 150 da Lei Orgânica do Município de Porto Alegre, ampliando o rol de atos de discriminação passíveis de penalidade de multa até cassação de alvará de instalação e funcionamento dos estabelecimentos que pratiquem atos de discriminação." "Autor
+Ver. Luciano Victorino
+Situação
+PARA PARECER"
+"9" "PROC. 01242/18 - PELO 005/18" "Altera o inc. I do § 5º do art. 116 da Lei Orgânica do Município de Porto Alegre, estabelecendo o limite máximo de 5% (cinco por cento) do total da despesa autorizada para abertura de créditos suplementares na lei orçamentária anual." "Autor
+Ver. Mendes Ribeiro
+Situação
+ORDEM DO DIA"
+"10" "PROC. 00759/18 - PELO 004/18" "Revoga o parágrafo único do art. 78 da Lei Orgânica do Município de Porto Alegre, excluindo a exceção conferida aos projetos do Executivo Municipal quanto ao cumprimento de requisitos para reapresentar matéria constante de Projeto de Lei rejeitado na mesma Sessão Legislativa." "Autor
+Ver. Aldacir Oliboni e Outros.
+Situação
+POR SOLICITACAO"
+"11" "PROC. 00757/18 - PELO 003/18" "Inclui inc. VI no § 2º do art. 82 da Lei Orgânica do Município de Porto Alegre, incluindo a alteração dos limites ou a alteração de regime urbanístico que compreenda a Zona Rural do Município de Porto Alegre no rol de matérias que dependem de voto favorável de dois terços dos membros da Câmara Municipal para aprovação." "Autor
+Ver. Cassio Trogildo
+Situação
+ARQUIVADO"
+"12" "PROC. 00732/18 - PELO 002/18" "REVOGA O ART. 45 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, QUE TRATA DA CONCESSAO DE LICENCA ESPECIAL AGUARDANDO APOSENTADORIA, COMPUTANDO-SE O TEMPO COMO DE EFETIVO EXERCICIO PARA TODOS OS EFEITOS LEGAIS." "Autor
+GOVERNO MUNICIPAL
+Situação
+ORDEM DO DIA"
+"13" "PROC. 00726/18 - PELO 001/18" "ALTERA O INC. XIII DO ART. 31 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"14" "PROC. 02860/17 - PELO 015/17" "ALTERA O INC. XIII DO ART. 31 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"15" "PROC. 02450/17 - PELO 014/17" "Altera o caput do art. 19-A e inclui incs. I a XVI no caput e §§ 1º e 2º no art. 19-A e art. 19-B na Lei Orgânica do Município de Porto Alegre, dispondo sobre a proibição de nomear para cargo efetivo ou emprego público, designar para cargo em comissão ou função de direção, chefia ou assessoramento, nomear para membro de conselho municipal de..." "Autor
+Ver. Mauro Pinheiro
+Situação
+PARA PARECER"
+"16" "PROC. 02433/17 - PELO 013/17" "Altera o inc. III do caput do art. 57 da Lei Orgânica do Município de Porto Alegre, dispondo sobre competências privativas da Câmara Municipal de Porto Alegre." "Autor
+Ver. Cláudio Janta
+Situação
+COM PARECER"
+"17" "PROC. 02355/17 - PELO 012/17" "Inclui parágrafo único no art. 29 da Lei Orgânica do Município de Porto Alegre, dispondo sobre a disponibilização, pelas empresas públicas e pelas sociedades de economia mista, de suas demonstrações financeiras anuais na internet, até o final do primeiro quadrimestre do ano subsequente, com acesso irrestrito à população." "Autor
+Ver. Felipe Camozzato e Outros
+Situação
+ARQUIVADO"
+"18" "PROC. 02261/17 - PELO 011/17" "revoga o § 4º do art. 113 da Lei Orgânica do Município de Porto Alegre, que estende às entidades de cultura, recreativas, de lazer e esportivas, sem fins lucrativos, as imunidades consagradas no art. 150, VI, c, da Constituição Federal." "Autor
+Governo Municipal
+Situação
+ORDEM DO DIA"
+"19" "PROC. 02065/17 - PELO 010/17" "altera o § 2º do art. 225 da Lei Orgânica do Município de Porto Alegre." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"20" "PROC. 02064/17 - PELO 009/17" "altera o caput do art. 101 da Lei Orgânica do Município de Porto Alegre." "Autor
+Governo Municipal
+Situação
+EM TRAMITACAO"
+"21" "PROC. 02063/17 - PELO 008/17" "que altera os arts. 39, 40 e 41 da Lei Orgânica do Município de Porto Alegre." "Autor
+Governo Municipal
+Situação
+ORDEM DO DIA"
+"22" "PROC. 02062/17 - PELO 007/17" "inclui o art. 37-A e revoga o parágrafo único do art. 37, ambos da Lei Orgânica do Município de Porto Alegre." "Autor
+Governo Municipal
+Situação
+PARA PARECER"
+"23" "PROC. 01624/17 - PELO 006/17" "Altera o inc. XX do caput do art. 94 da Lei Orgânica do Município de Porto Alegre, dispondo sobre competências privativas do prefeito." "Autor
+Ver. José Freitas
+Situação
+ORDEM DO DIA"
+"24" "PROC. 01508/17 - PELO 005/17" "altera o inc. XXII do art. 94 e aos incs. I, II e III do § 6º e aos incs. I e II do § 7º do art. 121 da Lei Orgânica do Município de Porto Alegre. (alteração/prazos/encaminhamento/devolução do Prometa, PPA, LDO e LOA à CMPA/PMPA)" "Autor
+Governo Municipal
+Situação
+ORDEM DO DIA"
+"25" "PROC. 01101/17 - PELO 004/17" "Altera o art. 156 e inclui o art. 156-A na Lei Orgânica do Município de Porto Alegre, dispondo sobre a participação da sociedade, por intermédio do Conselho Municipal de Justiça e Segurança, no encaminhamento e na solução dos problemas atinentes à segurança pública e sobre as competências da Guarda Municipal na segurança pública." "Autor
+Verª Mônica Leal
+Situação
+ARQUIVADO"
+"26" "PROC. 00869/17 - PELO 003/17" "Altera o inc. VI do § 2º do art. 58 e revoga o § 3º do art. 58 da Lei Orgânica do Município de Porto Alegre, dispondo sobre a apreciação terminativa de proposições no âmbito das Comissões Permanentes." "Autor
+Mesa Diretora
+Situação
+ARQUIVADO"
+"27" "PROC. 00459/17 - PELO 002/17" "Inclui parágrafo único no art. 21 da Lei Orgânica do Município de Porto Alegre, condicionando a extinção, a venda e a alienação do controle acionário de empresa pública, sociedade de economia mista, autarquia ou fundação pública à concordância da população manifestada por meio de consulta plebiscitária." "Autor
+Ver. Aldacir Oliboni
+Situação
+ORDEM DO DIA"
+"28" "PROC. 00275/17 - PELO 001/17" "Renomeia o parágrafo único para § 4º, alterando-se seu caput e mantendo-se a redação atual de seus incisos, e inclui §§ 1º, 2º e 3º no art. 19 da Lei Orgânica do Município de Porto Alegre, estabelecendo isonomia entre a remuneração dos cargos em comissão da Administração Direta e da Administração Indireta e limitando o valor da remuneração dos..." "Autor
+Ver. Idenir Cecchim
+Situação
+PARA CIENCIA"
+"29" "PROC. 02690/16 - PELO 005/16" "altera o art. 40 da Lei Orgânica do Município de Porto Alegre, que dispõe sobre o décimo-terceiro salário dos servidores municipais." "Autor
+Governo Municipal
+Situação
+ARQUIVADO"
+"30" "PROC. 02671/16 - PELO 004/16" "Inclui art. 21-A na Lei Orgânica do Município de Porto Alegre, estabelecendo que a alienação ou a transferência de controle acionário, a cisão, a incorporação, a fusão ou a extinção de empresa, companhia ou fundação pública municipal somente poderão ser realizadas se houver manifestação favorável da população expressa mediante plebiscito." "Autor
+Ver. Marcelo Sgarbossa
+Situação
+EM TRAMITACAO"
+"31" "PROC. 01671/16 - PELO 003/16" "Altera o art. 54 da Lei Orgânica do Município de Porto Alegre, admitindo a reeleição da Mesa da Câmara Municipal de Porto Alegre." "Autor
+Ver. João Carlos Nedel
+Situação
+ARQUIVADO"
+"32" "PROC. 00472/16 - PELO 001/16" "DISPOE SOBRE ALTERACOES NA REDACAO DO CAPUT DO ARTIGO 17 E INCLUI INCISO IV NESTE MESMO ARTIGO DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE." "Autor
+ALBERTO KOPITTKE
+Situação
+ARQUIVADO"
+"33" "PROC. 00179/16 - PELO 002/16" "Inclui §§ 4º e 5º no art. 187 da Lei Orgânica do Município de Porto Alegre, obrigando as creches municipais e as creches conveniadas com o Município de Porto alegre a funcionar de segunda-feira a sexta-feira, até as 23h (vinte e três horas), e em sábado e domingo." "Autor
+CLAUDIO JANTA
+Situação
+ORDEM DO DIA"
+"34" "PROC. 02961/15 - PELO 005/15" "ALTERA O TEOR DO ART. 54 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, AMPLIANDO PARA DOIS ANOS A DURACAO DO MANDATO DA MESA." "Autor
+JOAO CARLOS NEDEL
+Situação
+ARQUIVADO"
+"35" "PROC. 00580/15 - PELO 004/15" "inclui art. 151-A na Lei Orgânica do Município de Porto Alegre, determinando que o Executivo Municipal preste contas à Câmara Municipal acerca das ações e dos programas desenvolvidos no exercício anterior relacionados à proteção de mulheres e de crianças vítimas de violência, à prevenção e ao combate à violência contra a mulher e à promoção dos..." "Autor
+Verª Sofia Cavedon
+Situação
+ARQUIVADO"
+"36" "PROC. 00409/15 - PELO 003/15" "INCLUI PARAGRAFO UNICO NO ART. 68 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, ESTENDENDO PRERROGATIVA DE NAO PERDA DE MANDATO AO VEREADOR EM CASO DE ASSUNCAO COMO ADJUNTO OU TITULAR DOS CARGOS QUE DETERMINA." "Autor
+AIRTO FERRONATO E OUTROS
+Situação
+ARQUIVADO"
+"37" "PROC. 00090/15 - PELO 002/15" "que inclui parágrafo único no art. 68 da Lei Orgânica do Município de Porto Alegre, estendendo prerrogativa de não perda de mandato ao vereador em caso de assunção como adjunto ou titular dos cargos que determina." "Autor
+Ver. Márcio Bins Ely
+Situação
+ARQUIVADO"
+"38" "PROC. 00058/15 - PELO 001/15" "inclui art. 127-A na Lei Orgânica do Município de Porto Alegre, determinando o incentivo à economia criativa." "Autor
+Ver. Guilherme Socias Villela
+Situação
+ARQUIVADO"
+"39" "PROC. 02462/14 - PELO 001/14" "Altera o art. 23 da Lei Orgânica do Município de Porto Alegre, determinando que o Município de Porto Alegre realize avaliação periódica de seus planos, programas e projetos." "Autor
+Ver. Marcelo Sgarbossa
+Situação
+ORDEM DO DIA"
+"40" "PROC. 03403/13 - PELO 011/13" "ALTERA O ART. 19, NO CAPITULO III ''DA ADMINISTRACAO PUBLICA'' DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, QUE TRATA DA INVESTIDURA EM CARGO OU EMPREGO PUBLICO.." "Autor
+CLAUDIO JANTA
+Situação
+PARA APREGOAR"
+"41" "PROC. 02838/13 - PELO 010/13" "INCLUI PARAGRAFO UNICO NO ART. 99 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, PERMITINDO A REALIZACAO DE CONSULTAS REFERENDARIAS E PLEBISCITARIAS POR MEIO DIGITAL." "Autor
+ALBERTO KOPITTKE
+Situação
+ARQUIVADO ART 108"
+"42" "PROC. 02830/13 - PELO 009/13" "ALTERA REDACAO DO PARAGRAFO 1., DO ART 73, DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, PELO QUAL DETERMINA QUE TODO O PROJETO DE EMENDA A LEI ORGANICA DEVERA SER SUBMETIDO A CONSULTA PUBLICA E DA OUTRAS PROVIDENCIAS." "Autor
+ALBERTO KOPITTKE
+Situação
+ARQUIVADO"
+"43" "PROC. 02514/13 - PELO 008/13" "ALTERA E RENOMEIA PARA PARAGRAFO 4. O PARAGRAFO UNICO E INCLUI PARAGRAFOS 1., 2. E 3. NO ART. 19 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, ESTABELECENDO ISONOMIA ENTRE A REMUNERACAO DOS CARGOS EM COMISSAO DA ADMINISTRACAO DIRETA E DA ADMINISTRACAO INDIRETA." "Autor
+IDENIR CECCHIM
+Situação
+ARQUIVADO"
+"44" "PROC. 02324/13 - PELO 007/13" "ALTERA O CAPUT DO ART. 51, DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE - LOMPA -, ALTERANDO O PERIODO ANUAL DE REUNIOES DA CAMARA MUNICIPAL." "Autor
+ALBERTO KOPITTKE
+Situação
+ARQUIVADO"
+"45" "PROC. 02284/13 - PELO 006/13" "altera o § 2º do art. 179 da Lei Orgânica do Município de Porto Alegre, dispondo sobre o provimento de meios para que as escolas municipais, progressivamente, funcionem em turno integral." "Autor
+do Ver. Clàudio Janta
+Situação
+ARQUIVADO"
+"46" "PROC. 02014/13 - PELO 005/13" "altera o caput do art. 117 e inclui §§ 10 e 11 no art. 119 da Lei Orgânica do Município de Porto Alegre, dispondo sobre a obrigatoriedade de execução dos orçamentos anuais e sobre a impossibilidade de não execução desses." "Autor
+Ver. João Carlos Nedel
+Situação
+ARQUIVADO"
+"47" "PROC. 01822/13 - PELO 003/13" "INCLUI O ART. 29-A NO CAPITULO III ''DA ADMINISTRACAO PUBLICA'' DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DEFINIDO AS REGRAS PARA ABERTURA DE CAPITAL, PARTICIPACOES E VENDA DAS INSTITUICOES QUE FORMAM A ADMINISTRACAO INDIRETA ." "Autor
+CLAUDIO JANTA
+Situação
+ORDEM DO DIA"
+"48" "PROC. 01082/13 - PELO 002/13" "inclui art. 183-A na Lei Orgânica do Município de Porto Alegre, determinando que sejam aplicados integralmente em educação os recursos provenientes da União a título de distribuição da participação especial e dos royalties decorrentes da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos." "Autor
+Verª Sofia Cavedon e outros
+Situação
+ARQUIVADO"
+"49" "PROC. 00471/13 - PELO 001/13" "que altera o § 1º do art. 157 da Lei Orgânica do Município de Porto Alegre, garantindo que os serviços de saúde sejam prestados 24 (vinte e quatro) horas por dia, todos os dias." "Autor
+Ver. Clàudio Janta
+Situação
+ARQUIVADO"
+"50" "PROC. 00676/12 - PELO 005/12" "ALTERA O CAPUT DO ART. 61 E O ART. 64 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, INCLUINDO O PODER LEGISLATIVO NO SISTEMA DE CONTROLE INTERNO DE FORMA UNIFICADA COM O PODER EXECUTIVO." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"51" "PROC. 00666/12 - PELO 004/12" "ALTERA O CAPUT DO ART. 61 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, EXCLUINDO A ATRIBUICAO DE O SISTEMA DE CONTROLE INTERNO DA CAMARA MUNICIPAL EXERCER FISCALIZACAO CONTABIL, FINANCEIRA, ORCAMENTARIA, OPERACIONAL E PATRIMONIAL DO MUNICIPIO." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"52" "PROC. 00462/12 - PELO 003/12" "INCLUI ART. 57-A NA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE O COMPARECIMENTO DO PREFEITO, DOS SECRETARIOS E DOS DIRETORES DE AUTARQUIAS, FUNDACAO E EMPRESAS PUBLICAS EM SESSOES PLENARIAS DA CAMARA MUNICIPAL, COM O FIM DE PRESTAREM INFORMACOES SOBRE MATERIA DE SUA COMPETENCIA." "Autor
+MAURO ZACHER E OUTROS
+Situação
+ARQUIVADO ART 108"
+"53" "PROC. 00307/12 - PELO 002/12" "inclui inc. XXII no art. 94 e § 6º no art. 116 da Lei Orgânica do Município de Porto Alegre, incluindo o Programa de Metas (Prometa) no rol de competências privativas do prefeito e determinando que as leis orçamentárias incorporem as prioridades, os indicadores de desempenho e as metas quantitativas e qualitativas desse Programa. Com Emenda nº..." "Autor
+Sebastião Melo e outros
+Situação
+ARQUIVADO"
+"54" "PROC. 00112/12 - PELO 001/12" "altera o inc. II do parágrafo único do art. 109 da Lei Orgânica do Município de Porto Alegre, permitindo à Caixa Econômica Federal e ao Fundo de Arrendamento Residencial por ela gerido o recebimento de benefício fiscal relativo ao Imposto sobre Propriedade Predial e Territorial Urbana, nos casos de imóveis relativos a programas habitacionais de..." "Autor
+Ver. Nelcir Tessaro e outros
+Situação
+ARQUIVADO"
+"55" "PROC. 03123/11 - PELO 005/11" "ALTERA O PARAGRAFO 1 DO ART. 50 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE - LOMPA - , FIXANDO A COMPOSICAO DA CAMARA MUNICIPAL DE PORTO ALEGRE EM 36 (TRINTA E SEIS) VEREADORES." "Autor
+SOFIA CAVEDON, ADELI SELL, DJ CASSIA , MARIO MANFRO , TONI PROENCA , WALDIR CANAL
+Situação
+ARQUIVADO"
+"56" "PROC. 02448/11 - PELO 004/11" "ALTERA O INC. III DO ART. 57 E OS PARAGRAFOS 1 E 2 DO ART. 92 E INCLUI PARAGRAFO 4 NESTE ARTIGO, TODOS DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE COMPETENCIA DA CAMARA MUNICIPAL E LICENCA DO PREFEITO E DO VICE-PREFEITO." "Autor
+ELOI GUIMARAES E OUTROS
+Situação
+ARQUIVADO ART 108"
+"57" "PROC. 01958/11 - PELO 003/11" "INCLUI ART. 19-A NA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, PROIBINDO A NOMEACAO OU A DESIGNACAO PARA CARGO EM COMISSAO OU FUNCAO DE DIRECAO, CHEFIA OU ASSESSORAMENTO, NA ADMINISTRACAO DIRETA E NA ADMINISTRACAO INDIRETA, DE PESSOA QUE SEJA INELEGIVEL EM RAZAO DE ATOS ILICITOS." "Autor
+ALDACIR JOSE OLIBONI
+Situação
+ARQUIVADO"
+"58" "PROC. 00992/11 - PELO 002/11" "INCLUI PARAGRAFO 1 E RENOMEIA O PARAGRAFO UNICO PARA PARAGRAFO 2 NO ART. 59 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE -LOMPA-, IMPONDO CONDICAO PARA A CRIACAO DE COMISSOES PARLAMENTARES DE INQUERITO." "Autor
+BERNARDINO VENDRUSCOLO, E OUTROS
+Situação
+ARQUIVADO"
+"59" "PROC. 00334/11 - PELO 001/11" "ALTERA O CAPUT DO ART. 51 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE - LOMPA -, ALTERANDO O PERIODO ANUAL DE REUNIOES DA CAMARA MUNICIPAL." "Autor
+JOAO ANTONIO DIB, ADELI SELL, CARLOS TODESCHINI, FERNANDA MELCHIONNA , MARIA CELESTE, PAULO MARQUES , REGINALDO PUJOL
+Situação
+ARQUIVADO"
+"60" "PROC. 02728/10 - PELO 003/10" "ALTERA O PARAGRAFO UNICO DO ART. 109 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, EXCEPCIONANDO DE IMPEDIMENTO PARA O RECEBIMENTO DE BENEFICIO FISCAL A CAIXA ECONOMICA FEDERAL E O FUNDO DE ARRENDAMENTO RESIDENCIAL POR ELA GERIDO." "Autor
+NELCIR TESSARO
+Situação
+ARQUIVADO"
+"61" "PROC. 01387/10 - PELO 002/10" "ALTERA O INC. IV DO ART. 68 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE A LICENCA-GESTANTE DE VEREADORAS." "Autor
+NELCIR TESSARO , BERNARDINO VENDRUSCOLO, JOAO CARLOS NEDEL, MARIO MANFRO , MAURO PINHEIRO, TARCISO FLECHA NEGRA
+Situação
+ARQUIVADO"
+"62" "PROC. 00662/10 - PELO 001/10" "ALTERA OS PARAGRAFOS 1 E 2 DO ART. 91 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE A SUBSTITUICAO DO PREFEITO NO CASO DE IMPEDIMENTO." "Autor
+JOAO ANTONIO DIB
+Situação
+ARQUIVADO"
+"63" "PROC. 05420/09 - PELO 005/09" "ALTERA O CAPUT E O PARAGRAFO 1 DO ART. 101 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE A REPRESENTACAO NA COMPOSICAO DOS CONSELHOS MUNICIPAIS." "Autor
+MESA DIRETORA, ADELI SELL, JOAO CARLOS NEDEL, NELCIR TESSARO , TARCISO FLECHA NEGRA , TONI PROENCA
+Situação
+PARA ARQUIVAR"
+"64" "PROC. 04116/09 - PELO 004/09" "ALTERA O INC. I DO ART. 17 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE A DECLARACAO DE BENS E RENDAS DE OCUPANTES DE CARGO, EMPREGO OU FUNCAO DA ADMINISTRACAO DIRETA E INDIRETA DO MUNICIPIO." "Autor
+JULIANA BRIZOLA
+Situação
+ARQUIVADO ART 108"
+"65" "PROC. 04115/09 - PELO 003/09" "ALTERA O ART.18 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, DISPONDO SOBRE A DECLARACAO DE BENS E RENDAS DE OCUPANTES DE CARGO, EMPREGO OU FUNCAO DA ADMINISTRACAO PUBLICA DO MUNICIPIO." "Autor
+JULIANA BRIZOLA
+Situação
+ARQUIVADO ART 108"
+"66" "PROC. 01520/09 - PELO 002/09" "INCLUI PARAGRAFO 5 NO ART. 98 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, PERMITINDO A SUBSCRICAO ELETRONICA DE PROJETOS DE INCIATIVA POPULAR POR MEIO DA INTERNET." "Autor
+CARLOS TODESCHINI
+Situação
+ARQUIVADO"
+"67" "PROC. 01385/09 - PELO 001/09" "INCLUI PARAGRAFO 3 NO ART. 242 DA LEI ORGANICA DO MUNICIPIO DE PORTO ALEGRE, VEDANDO O PLANTIO DE ESPECIES EXOTICAS DOS GENEROS PINUS E EUCALYPTUS COM OU SEM FIM COMERCIAL." "Autor
+PEDRO RUAS
+Situação
+ARQUIVADO"
+"68" "PROC. 04437/08 - PELO 004/08" "Inclui paragrafo unico no art. 72 da lei organica do municipio de porto alegre, estabelecendo previsao de lei complementar para dispor sobre a elaboracao, a redacao, a alteracao e a consolidacao de leis." "Autor
+SEBASTIAO MELO, ALDACIR OLIBONI, CARLOS TODESCHINI, CLAUDIO SEBENELO, ERVINO BESSON, MARISTELA MENEGHETTI
+Situação
+ARQUIVADO"
+"69" "PROC. 03751/08 - PELO 003/08" "Altera o paragrafo unico do art. 19 da lei organica do municipio de porto alegre, definindo regras para a ocupacao de cargos em comissao nos poderes executivo e legislativo." "Autor
+ALDACIR OLIBONI
+Situação
+ARQUIVADO"
+"70" "PROC. 02731/08 - PELO 002/08" "Altera o paragrafo 2 do art. 225 da lei organica do municipio de porto alegre, possibilitando ao municipio exigir o tratamento de esgoto domestico por parte do proprietario." "Autor
+BETO MOESCH, JOAO ANTONIO DIB, LUIZ BRAZ, NEUZA CANABARRO
+Situação
+ARQUIVADO"
+"71" "PROC. 02085/08 - PELO 001/08" "Acrescenta paragrafo unico ao artigo 33 da lei organica do municipio." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"72" "PROC. 09163/07 - PELO 005/07" "Altera dispositivos da lei organica do municipio de porto alegre." "Autor
+MARIA CELESTE, MARISTELA MENEGHETTI
+Situação
+ARQUIVADO"
+"73" "PROC. 06972/07 - PELO 004/07" "Inclui 1 e 2 no art. 49 da lei organica do municipio de porto alegre e revoga o art. 23 do ato das disposicoes organicas gerais e transitorias da lei organica do municipio de porto alegre, determinando a garantia, pelo municipio, da manutencao da entidade de assistencia a saude, mediante a participacao de seus servidores, e definindo a forma de..." "Autor
+MESA DIRETORA, ALCEU BRASINHA, ALDACIR OLIBONI, JOAO CARLOS NEDEL, MARISTELA MENEGHETTI, NEUZA CANABARRO
+Situação
+ARQUIVADO ART 108"
+"74" "PROC. 06215/07 - PELO 003/07" "Inclui na lei organica do municipio, no capitulo v a secao x, servicos de vigilantes na camara municipal." "Autor
+MARIA LUIZA
+Situação
+ARQUIVADO"
+"75" "PROC. 00408/81 - PELO 049/81" "Da nova redacao ao art. 14 da lei organica do municipio de porto alegre (dispoe sobre o recesso parlamentar)." "Autor
+JUSARA GAUTO
+Situação
+ARQUIVADO"
+"76" "PROC. 03836/07 - PELO 002/07" "Inclui inc. xxi no art. 94 da lei organica do municipio de porto alegre, estabelecendo prazo para que o prefeito municipal encaminhe a camara municipal de porto alegre documento firmado contendo a relacao de todos os programas e projetos aprovados e ainda nao-implementados e dos programas e projetos que estiverem em andamento no municipio de..." "Autor
+CARLOS COMASSETTO
+Situação
+ARQUIVADO"
+"77" "PROC. 00826/07 - PELO 001/07" "Altera a redacao do art.51 da lei organica do municipio de porto alegre, estabelecendo o periodo de reunioes da camara municipal de porto alegre, bem como a convocacao das comissoes permanentes no periodo de recesso." "Autor
+MARIA CELESTE
+Situação
+ARQUIVADO"
+"78" "PROC. 00982/06 - PELO 002/06" "Altera a redacao do caput do art.51 da lei organica do municipio de porto alegre, estabelecendo que o periodo de reunioes da camara municipal de porto alegre, independente de convocacao, passa a ser de 15 de fevereiro a 15 de julho e de 1 de agosto a 3 de janeiro do ano subsequente." "Autor
+DR. GOULART, ADELI SELL, ALCEU BRASINHA, ALDACIR OLIBONI, ALMERINDO FILHO, BERNARDINO VENDRUSCOLO, CARLOS COMASSETTO, CARLOS TODESCHINI, CLAUDIO SEBENELO, CLENIA MARANHAO, ELIAS VIDAL, ELOI GUIMARAES, ERVINO BESSON, HAROLDO DE SOUZA, IBSEN PINHEIRO, JOAO ANTONIO DIB, JOAO CARLOS NEDEL, JOSE ISMAEL HEINEN, LUIZ BRAZ, MANUELA D'AVILA, MARCIO BINS ELY, MARGARETE MORAES, MARIA CELESTE, MARIO FRAGA, MARISTELA MAFFEI, MARISTELA MENEGHETTI, MAURICIO DZIEDRICKI, MONICA LEAL., NEREU D'AVILA, NEUZA CANABA
+Situação
+ARQUIVADO"
+"79" "PROC. 00967/06 - PELO 001/06" "Altera a redacao do caput do paragrafo 6, inclui paragrafos 8 e 9 e renumera o atual paragrafo 8 para pargrafo 10, todos do art. 121 da lei organica do municipio de porto alegre, modificando os prazos para encaminhamento dos projetos relativos a lei de diretrizes orcamentarias e ao orcamento anual, a partir do segundo ano de cada legislatura." "Autor
+MARIA CELESTE
+Situação
+ARQUIVADO ART 108"
+"80" "PROC. 03031/05 - PELO 009/05" "Altera a redacao do caput art. 81 da lei organica do municipio de porto alegre, passando para sessenta dias o prazo para a inclusao de proposicoes na ordem do dia." "Autor
+JOAO ANTONIO DIB
+Situação
+ARQUIVADO ART 106"
+"81" "PROC. 02287/05 - PELO 008/05" "Altera a redacao do 2 e inclui 3 no art. 91 da lei organica do municipio de porto alegre, que trata da substituicao do prefeito no caso de impedimento do presidente da camara de porto alegre." "Autor
+JOAO ANTONIO DIB
+Situação
+ARQUIVADO"
+"82" "PROC. 02166/05 - PELO 007/05" "Altera a redacao do parag. unico do art. 19 da lei organica do municipio de porto alegre, que veda a pratica de nepotismo em todos os niveis da administraca publica municipal." "Autor
+ALDACIR OLIBONI
+Situação
+ARQUIVADO"
+"83" "PROC. 01550/05 - PELO 006/05" "Altera a redacao do inciso viii do art. 94 da lei organica do municipio de porto alegre, reduzindo o prazo para o prefeito municipal prestar as informacoes solicitadas pela camara municipal.(resposta de pedido de informacoes/15 dias, prorrogaveis por mais 5)" "Autor
+SEBASTIAO MELO
+Situação
+ARQUIVADO"
+"84" "PROC. 01438/05 - PELO 005/05" "Altera o inc.ix do art.56 e inclui inc. vi no paragrafo 2 e paragrafo 3 no art.58 da lei organica do municipio de porto alegre - lompa -, atribuindo competencia as comissoes permanentes da camara municipal de porto alegre para discutir e votar projetos de lei de denominacao de proprios municipais, vias, logradouros e equipamentos publicos." "Autor
+JOAO ANTONIO DIB
+Situação
+ARQUIVADO"
+"85" "PROC. 01408/05 - PELO 004/05" "Altera e da nova redacao ao inciso i do parag. 6,e ao inciso i do parag. 7, todos do art. 121 da lei organica do municipio de porto alegre (altera os prazos do plano plurianual - ppa)." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"86" "PROC. 02376/89 - PELO 071/89" "Modifica a redacao do art. 64 e do art. 52 da lei organica do municipio e da outras providencias. (orcamento)" "Autor
+AIRTO FERRONATO
+Situação
+ARQUIVADO"
+"87" "PROC. 01369/05 - PELO 003/05" "Altera redacao do caput do art. 51 da lei organica do municipio, reduzindo o periodo de recesso legislativo." "Autor
+ADELI SELL
+Situação
+ARQUIVADO"
+"88" "PROC. 01243/05 - PELO 002/05" "Inclui o art. 65-a na lei organica do municipio de porto alegre, estabelecendo criterios para o estabelecimento e reajustes dos subsidios dos vereadores." "Autor
+MARIA CELESTE
+Situação
+ARQUIVADO ART 108"
+"89" "PROC. 00632/05 - PELO 001/05" "Altera a lei organica." "Autor
+GOVERNO MUNICIPAL
+Situação
+EM TRAMITACAO"
+"90" "PROC. 04225/04 - PELO 002/04" "Altera e da nova redacao aos incisos i e iii do parag. 6, e aos inc. i e iii do parag. 7, todos da lei organica do municipio de porto alegre." "Autor
+GOVERNO MUNICIPAL
+Situação
+ARQUIVADO"
+"91" "PROC. 00856/04 - PELO 001/04" "Da nova redacao ao 'caput' do artigo 51 da lei organica do municipio de porto alegre (funcionamento da camara municipal no recesso). processo reconstituido" "Autor
+NEREU D'AVILA
+Situação
+P - PARA CONSULTA"
+"92" "PROC. 05393/03 - PELO 003/03" "Altera a redacao do paragrafo primeiro do art.23 do ato das disposicoes organicas gerais e transitorias da lei organica do municipio de porto alegre." "Autor
+DR. GOULART
+Situação
+ARQUIVADO"
+"93" "PROC. 04506/03 - PELO 002/03" "Da nova redacao ao inciso v do artigo 57 da lei organica do municipio de porto alegre. competencia para o julgamento de contas das mesas diretoras)." "Autor
+MESA E LIDERANCAS
+Situação
+ARQUIVADO"
+"94" "PROC. 01426/03 - PELO 001/03" "Da nova redacao ao 'caput' do artigo 51 da lei organica do municipio de porto alegre. [periodo de funcionamento da camara; recesso parlamentar]" "Autor
+NEREU D'AVILA
+Situação
+ARQUIVADO"
+"95" "PROC. 00329/02 - PELO 001/02" "Altera o paragrafo primeiro do art 77 da lei organica do municipio." "Autor
+SEBASTIAO MELO
+Situação
+PARA ARQUIVAR"
+"96" "PROC. 02583/95 - PELO 005/95" "Altera a redacao do artigo 19 da lei organica do municipio de porto alegre. (processo reconstituido) - nota do protocolo: vedacao ao nepotismo." "Autor
+JOAO VERLE
+Situação
+ARQUIVADO"
+"97" "PROC. 02925/99 - PELO 005/99" "Altera a redacao do paragrafo unico, inciso ii, do artigos 230 e 231 do ato das disposicoes organicas gerais e transitorias da lei organica do municipio. (direito real de uso)." "Autor
+CLENIA MARANHAO
+Situação
+ARQUIVADO"
+"98" "PROC. 01846/00 - PELO 005/00" "Acrescenta paragrafo 2 ao artigo 90 da lei organica do municipio de porto alegre, alterando o atual paragrafo unico para paragrafo primeiro." "Autor
+LUIZ BRAZ
+Situação
+ARQUIVADO"
+"99" "PROC. 02061/01 - PELO 006/01" "Altera a lei organica do municipio de porto alegre. (participacao da comunidade; publicidade das contas)" "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"100" "PROC. 01033/92 - PELO 075/92" "Altera o paragrafo unico do artigo 91 da lei organica muncipal. (art.91: substituira o prefeito, no caso de impedimento,e suceder-lhe-a, no de vaga, o vice-prefeito)." "Autor
+ELOI GUIMARAES
+Situação
+EM TRAMITACAO"
+"101" "PROC. 02369/95 - PELO 004/95" "Altera dispositivos da lei organica do municipio de porto alegre." "Autor
+NEREU D'AVILA
+Situação
+ARQUIVADO"
+"102" "PROC. 01269/94 - PELO 004/94" "Acresceta artigo a lei organica do municipio e da outras providencias." "Autor
+JOCELIN AZAMBUJA
+Situação
+ARQUIVADO"
+"103" "PROC. 01170/98 - PELO 002/98" "Altera a redacao do art. 54 da lei organica do muncipio de porto alegre(eleicao da mesa diretora)." "Autor
+NEREU D'AVILA
+Situação
+ARQUIVADO"
+"104" "PROC. 00587/98 - PELO 001/98" "Da nova redacao ao \"caput\" dos artigos 17 e 61 da lei organica do municipio de porto alegre (nota do spa: refere-se a legalid, moralid, publicid, impessoalid e economicid municip)." "Autor
+CLENIA MARANHAO
+Situação
+ARQUIVADO"
+"105" "PROC. 02770/93 - PELO 081/93" "Altera disposicoes da lei organica do municipio." "Autor
+JAIR DE OLIVEIRA SOARES
+Situação
+ARQUIVADO"
+"106" "PROC. 02155/02 - PELO 004/02" "Acrescenta o inciso viii ao paragrafo primeiro do artigo 236 da lei organica do municipio (proibicao das queimadas)." "Autor
+BETO MOESCH
+Situação
+PARA ARQUIVAR"
+"107" "PROC. 01610/02 - PELO 003/02" "Da nova redacao ao artigo 54 da lei organica municipal." "Autor
+NEREU D'AVILA
+Situação
+PARA ARQUIVAR"
+"108" "PROC. 00959/94 - PELO 002/94" "Explicita o ditreito das servidoras municipais a licenca-maternidade." "Autor
+HELENA BONUMA
+Situação
+ARQUIVADO"
+"109" "PROC. 01962/00 - PELO 006/00" "Acrescenta paragrafo unico ao artigo 75 da lei organica de porto alegre. (parecer do conselho mun. dos direitos da crianca e do adolescente - cmdca - nos projetos sobre o eca)." "Autor
+HELENA BONUMA
+Situação
+ARQUIVADO"
+"110" "PROC. 00604/00 - PELO 002/00" "Altera dispositivo da lei organica do municipio de porto alegre, de 17 de maio de 1990, e da outras providencias." "Autor
+CARLOS ALBERTO GARCIA
+Situação
+PARA ASSINATURA(S)"
+"111" "PROC. 00952/00 - PELO 003/00" "Altera a redacao do paragrafo 2 do artigo 164 da lei organica de porto alegre." "Autor
+GUILHERME BARBOSA
+Situação
+ARQUIVADO"
+"112" "PROC. 00596/93 - PELO 077/93" "Altera o caput do art 51 da lei organica municipal (recesso mes julho)." "Autor
+ISAAC AINHORN
+Situação
+ARQUIVADO ART 107"
+"113" "PROC. 01030/02 - PELO 002/02" "Trata da obrigatoriedade de execucao dos orcamentos publicos elaborados com a participacao popular." "Autor
+JOAO CARLOS NEDEL
+Situação
+PARA ARQUIVAR"
+"114" "PROC. 04666/01 - PELO 009/01" "Da nova redacao ao \"caput\" do art 81 da lei organica do municipio de porto alegre." "Autor
+ESTILAC XAVIER
+Situação
+ARQUIVADO"
+"115" "PROC. 00936/96 - PELO 002/96" "Altera o \"caput\" e o paragrafo 1. do artigo 98 da lei organica do municipio de porto alegre." "Autor
+RAUL CARRION
+Situação
+ARQUIVADO"
+"116" "PROC. 02080/94 - PELO 005/94" "Acrescenta o inciso iv ao paragrafo unico do artigo 229 da lei organica do municipio de porto alegre.*estab de censos quinquenais da populacao de baixa renda)." "Autor
+FERNANDO ZACHIA
+Situação
+ARQUIVADO"
+"117" "PROC. 01948/99 - PELO 003/99" "Altera o artigo 91 da lei organica do municipio de porto alegre. (n do prot: impedimento do presidente da camara municipal, assumira o procurador-geral do municipio)." "Autor
+ELOI GUIMARAES
+Situação
+P - PARA CONSULTA"
+"118" "PROC. 01319/01 - PELO 004/01" "Altera a redacao do inciso vi do art 94 da lei organica do municipio de porto alegre." "Autor
+SEBASTIAO MELO
+Situação
+ARQUIVADO"
+"119" "PROC. 00964/94 - PELO 003/94" "Modifica a redacao do caput do art da lom (discriminacao)." "Autor
+ANTONIO HOHLFELDT
+Situação
+ARQUIVADO"
+"120" "PROC. 02009/93 - PELO 079/93" "Acrescenta a expressao regularizacao fundiaria no inciso iii art 203 lei organica." "Autor
+DECIO SCHAUREN
+Situação
+ARQUIVADO"
+"121" "PROC. 02185/93 - PELO 080/93" "Acrecenta paragrafo unico ao artigo 152 da lei organica do municipio de porto alegre.(discriminacao)." "Autor
+HELENA BONUMA
+Situação
+ARQUIVADO"
+"122" "PROC. 03154/97 - PELO 003/97" "Altera o art. 82 da lei organica do municipio de porto alegre (\"quorum\" de maioria qualificada para alteracao de denominacao de logradouros)." "Autor
+DECIO SCHAUREN
+Situação
+ARQUIVADO"
+"123" "PROC. 02575/96 - PELO 004/96" "Acrescenta o inciso xx ao artigo 94 da lei organica do municipio de porto alegre e da outras providencias(resposta aos pedidos de providencias-30+15)." "Autor
+FERNANDO ZACHIA
+Situação
+ARQUIVADO"
+"124" "PROC. 01753/92 - PELO 076/92" "Acrescente-se ao art 109 da lei organica municipal de porto alegre paragrafo unico e da outras providencias." "Autor
+AIRTO FERRONATO
+Situação
+ARQUIVADO"
+"125" "PROC. 01673/99 - PELO 001/99" "Acrescenta paragrafo 6 ao artigo 116 da lei organica do municipio de porto alegre e da outras providencias. (contempla anualmente a uampa com recursos orcamentarios)." "Autor
+JOAO BOSCO VAZ
+Situação
+ARQUIVADO"
+"126" "PROC. 00949/01 - PELO 002/01" "Da nova redacao ao \" caput\" do art 51 da lei organica do municipio de porto alegre. (recesso parlamentar)." "Autor
+BANCADA DO PARTIDO PROGRESSISTA, 1 JUIZADO DE DIREITO DA 17 VARA CIVEL DE PORTO ALE, JOAO ANTONIO DIB
+Situação
+ARQUIVADO"
+"127" "PROC. 00457/94 - PELO 001/94" "Altera o art 51 da lei organica municipal." "Autor
+JOAO MOTTA
+Situação
+ARQUIVADO"
+"128" "PROC. 01189/95 - PELO 001/95" "Inclui paragrafo no art. 75 da lom." "Autor
+HELENA BONUMA
+Situação
+ARQUIVADO"
+"129" "PROC. 01612/96 - PELO 003/96" "Altera dispositivos da lei organica do municipio de porto alegre. (n do prot: substituicao do prefeito)." "Autor
+ELOI GUIMARAES
+Situação
+ARQUIVADO"
+"130" "PROC. 00169/00 - PELO 001/00" "Revoga o paragrafo unico do art. 78 da lei organica do municipio de porto alegre. (exclui tratamento diferente para a reapresentacao, pelo execut, de materia de projeto rejeitado)." "Autor
+JOAO ANTONIO DIB
+Situação
+ARQUIVADO"
+"131" "PROC. 01279/01 - PELO 003/01" "Altera a redacao do artigo 225 da lei organica do municipio de porto alegre. (servicos publicos de agua e esgoto deverao ser prestados exclusivamente pelo municipio)." "Autor
+ESTILAC XAVIER
+Situação
+ARQUIVADO"
+"132" "PROC. 01504/01 - PELO 005/01" "Altera a redacao do artigo 240 da lei organica do municipio de porto alegre e o artigo 6 do ato das disposicoes organicas gerais e transitorias. (implantacao de areas verdes)." "Autor
+BETO MOESCH
+Situação
+ARQUIVADO"
+"133" "PROC. 02691/91 - PELO 073/91" "Modifica o art. 121, 6, inciso iii, da lei organica do municipio (prazo para apresentacao do projeto de lei de diretrizes orcamentarias)." "Autor
+ADROALDO CORREA
+Situação
+ARQUIVADO"
+"134" "PROC. 03273/97 - PELO 004/97" "Acrescenta um novo artigo a secao v do capitulo i do titulo iv - da ordem social e cidadania - da lei organica do municipio de porto alegre (eleicao de conselheiros tutelares)." "Autor
+HELIO CORBELLINI
+Situação
+ARQUIVADO"
+"135" "PROC. 03838/01 - PELO 008/01" "Altera a redacao do art 19 da lei organica do municipio de porto alegre para incluir paragrafo . (carta-contrato)." "Autor
+SEBASTIAO MELO
+Situação
+ARQUIVADO"
+"136" "PROC. 03000/91 - PELO 074/91" "Altera o art.50 da lei organica do municipio de porto alegre(n de vereadores no municipio de porto alegre)." "Autor
+MESA DIRETORA
+Situação
+ARQUIVADO"
+"137" "PROC. 03431/01 - PELO 007/01" "Altera o art 57,incisos ii e iii e os paragrafos 1 e 2 do artigo 92, da lei organica do municipio dando-lhes nova redacao e outros providencias. (afastam dos prefeitos e vices-pref" "Autor
+MARCELO DANERIS
+Situação
+ARQUIVADO"
+"138" "PROC. 00799/01 - PELO 001/01" "Acrescenta dispositivo a lei organica municipal(20% de vagas dos programas habitacionais para mulheres)" "Autor
+RAUL CARRION
+Situação
+ARQUIVADO"
+"139" "PROC. 02734/02 - PELO 005/02" "Acresc.paragrafo 2.ao art.12 da l.o.m(alienacao, transf.acionaria, cisao ou extincao de entidades da administracao publica indireta dependera de previa aprovacao por blebiscito." "Autor
+MARCELO DANERIS
+Situação
+PARA ARQUIVAR"
+"140" "PROC. 01647/95 - PELO 002/95" "Da nova redacao ao caput do artigo 17 da lei organica municipal que dispoe sobre administracao publica." "Autor
+DECIO SCHAUREN
+Situação
+ARQUIVADO"
+"141" "PROC. 00603/96 - PELO 001/96" "Altera o paragrafo unico do artigo 50 da lei organica municipal.(n. do prot.: participacao popular orcamento camara)." "Autor
+ZE VALDIR
+Situação
+ARQUIVADO"
+"142" "PROC. 02594/97 - PELO 002/97" "Acrescenta a secao ix ao capitulo i do titulo iv - da ordem social e cidadania - da lei organica municipal. (n. do prot.: cultura indigena)." "Autor
+JOAO MOTTA
+Situação
+ARQUIVADO"
+"143" "PROC. 01178/00 - PELO 004/00" "Altera a redacao do inc ii do parag unico do art 230; modifica o art 231 do titulo v, bem como o art 1 do ato das disposicoes organicas gerais e transit da lei organ do mun de p al" "Autor
+CLENIA MARANHAO
+Situação
+ARQUIVADO"
+"144" "PROC. 01863/99 - PELO 002/99" "Acrescenta paragrafo segundo ao artigo 90 da lei organica do municipio. (n. do prot.: promessas de campanha eleitoral)." "Autor
+LUIZ BRAZ
+Situação
+ARQUIVADO"
+"145" "PROC. 02708/99 - PELO 004/99" "Altera a redacao do paragrafo 2 do artigo 164 da lei organica do municipio de porto alegre. (exclui do montante minimo das despesas com saude as transferencias referentes ao sus)." "Autor
+GUILHERME BARBOSA
+Situação
+ARQUIVADO"
+"146" "PROC. 01782/93 - PELO 078/93" "Sera cassado o alvara de inst e funionamento de estabelecimento de pessoa fisica ou juridica que no territ do mun pratique ato de discriminacao racial de genero por orientacao ..." "Autor
+JOAO MOTTA
+Situação
+ARQUIVADO"
+"147" "PROC. 02249/95 - PELO 003/95" "Altera o artigo 150 da lei organica do municipio de porto alegre." "Autor
+PEDRO AMERICO LEAL
+Situação
+ARQUIVADO"
+"148" "PROC. 00687/97 - PELO 001/97" "Acrescenta paragrafos ao artigo 119 da lei organica do municipio de porto alegre e da outras providencias." "Autor
+REGINALDO PUJOL
+Situação
+ARQUIVADO"
