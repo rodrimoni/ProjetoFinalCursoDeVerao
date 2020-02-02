@@ -19,7 +19,6 @@ for x in years:
 	with open('temas/TemasAno' + str(x) + '.json', encoding = "utf8") as data_file:
 		temas = json.load(data_file)
 	
-	i = 0
 	temasDict = {}
 	for element in temas['dados']:
 		tipo = element.get('siglaTipo')
