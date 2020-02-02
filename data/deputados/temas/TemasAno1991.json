@@ -1,0 +1,2830 @@
+{
+  "dados": [
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23449",
+      "siglaTipo": "EMS",
+      "numero": 1701,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23458",
+      "siglaTipo": "EMS",
+      "numero": 2303,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23460",
+      "siglaTipo": "EMS",
+      "numero": 2331,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23443",
+      "siglaTipo": "EMS",
+      "numero": 1306,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/159733",
+      "siglaTipo": "INC",
+      "numero": 3,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13496",
+      "siglaTipo": "PDC",
+      "numero": 39,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14351",
+      "siglaTipo": "PEC",
+      "numero": 82,
+      "ano": 1991,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14354",
+      "siglaTipo": "PEC",
+      "numero": 84,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14354",
+      "siglaTipo": "PEC",
+      "numero": 84,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14257",
+      "siglaTipo": "PEC",
+      "numero": 14,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14257",
+      "siglaTipo": "PEC",
+      "numero": 14,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14262",
+      "siglaTipo": "PEC",
+      "numero": 17,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17267",
+      "siglaTipo": "PL",
+      "numero": 1825,
+      "ano": 1991,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17267",
+      "siglaTipo": "PL",
+      "numero": 1825,
+      "ano": 1991,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/169975",
+      "siglaTipo": "PL",
+      "numero": 4,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14938",
+      "siglaTipo": "PL",
+      "numero": 15,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14943",
+      "siglaTipo": "PL",
+      "numero": 20,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14945",
+      "siglaTipo": "PL",
+      "numero": 21,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14954",
+      "siglaTipo": "PL",
+      "numero": 29,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14970",
+      "siglaTipo": "PL",
+      "numero": 43,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14975",
+      "siglaTipo": "PL",
+      "numero": 49,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14985",
+      "siglaTipo": "PL",
+      "numero": 57,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14987",
+      "siglaTipo": "PL",
+      "numero": 58,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15004",
+      "siglaTipo": "PL",
+      "numero": 68,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15015",
+      "siglaTipo": "PL",
+      "numero": 75,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17499",
+      "siglaTipo": "PL",
+      "numero": 2003,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17581",
+      "siglaTipo": "PL",
+      "numero": 2065,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17595",
+      "siglaTipo": "PL",
+      "numero": 2076,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17597",
+      "siglaTipo": "PL",
+      "numero": 2077,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17620",
+      "siglaTipo": "PL",
+      "numero": 2090,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17627",
+      "siglaTipo": "PL",
+      "numero": 2094,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17644",
+      "siglaTipo": "PL",
+      "numero": 2105,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/200063",
+      "siglaTipo": "PL",
+      "numero": 2127,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15026",
+      "siglaTipo": "PL",
+      "numero": 82,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15031",
+      "siglaTipo": "PL",
+      "numero": 90,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17685",
+      "siglaTipo": "PL",
+      "numero": 2134,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17698",
+      "siglaTipo": "PL",
+      "numero": 2143,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17698",
+      "siglaTipo": "PL",
+      "numero": 2143,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17698",
+      "siglaTipo": "PL",
+      "numero": 2143,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17711",
+      "siglaTipo": "PL",
+      "numero": 2152,
+      "ano": 1991,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17711",
+      "siglaTipo": "PL",
+      "numero": 2152,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17724",
+      "siglaTipo": "PL",
+      "numero": 2161,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17724",
+      "siglaTipo": "PL",
+      "numero": 2161,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17740",
+      "siglaTipo": "PL",
+      "numero": 2175,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17740",
+      "siglaTipo": "PL",
+      "numero": 2175,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17781",
+      "siglaTipo": "PL",
+      "numero": 2202,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17781",
+      "siglaTipo": "PL",
+      "numero": 2202,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17806",
+      "siglaTipo": "PL",
+      "numero": 2219,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15097",
+      "siglaTipo": "PL",
+      "numero": 146,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15100",
+      "siglaTipo": "PL",
+      "numero": 149,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15108",
+      "siglaTipo": "PL",
+      "numero": 157,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17858",
+      "siglaTipo": "PL",
+      "numero": 2257,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17966",
+      "siglaTipo": "PL",
+      "numero": 2331,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17974",
+      "siglaTipo": "PL",
+      "numero": 2336,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17997",
+      "siglaTipo": "PL",
+      "numero": 2350,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18028",
+      "siglaTipo": "PL",
+      "numero": 2371,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18050",
+      "siglaTipo": "PL",
+      "numero": 2387,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/202607",
+      "siglaTipo": "PL",
+      "numero": 2352,
+      "ano": 1991,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15111",
+      "siglaTipo": "PL",
+      "numero": 162,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18067",
+      "siglaTipo": "PL",
+      "numero": 2401,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18094",
+      "siglaTipo": "PL",
+      "numero": 2417,
+      "ano": 1991,
+      "codTema": 60,
+      "tema": "Turismo",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18144",
+      "siglaTipo": "PL",
+      "numero": 2453,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18156",
+      "siglaTipo": "PL",
+      "numero": 2462,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15165",
+      "siglaTipo": "PL",
+      "numero": 208,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15171",
+      "siglaTipo": "PL",
+      "numero": 217,
+      "ano": 1991,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15171",
+      "siglaTipo": "PL",
+      "numero": 217,
+      "ano": 1991,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15179",
+      "siglaTipo": "PL",
+      "numero": 222,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15179",
+      "siglaTipo": "PL",
+      "numero": 222,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15573",
+      "siglaTipo": "PL",
+      "numero": 543,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18162",
+      "siglaTipo": "PL",
+      "numero": 2464,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15222",
+      "siglaTipo": "PL",
+      "numero": 256,
+      "ano": 1991,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15222",
+      "siglaTipo": "PL",
+      "numero": 256,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15245",
+      "siglaTipo": "PL",
+      "numero": 276,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15245",
+      "siglaTipo": "PL",
+      "numero": 276,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15257",
+      "siglaTipo": "PL",
+      "numero": 287,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15279",
+      "siglaTipo": "PL",
+      "numero": 305,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15309",
+      "siglaTipo": "PL",
+      "numero": 325,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15312",
+      "siglaTipo": "PL",
+      "numero": 326,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15312",
+      "siglaTipo": "PL",
+      "numero": 326,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15327",
+      "siglaTipo": "PL",
+      "numero": 339,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15329",
+      "siglaTipo": "PL",
+      "numero": 340,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15334",
+      "siglaTipo": "PL",
+      "numero": 343,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15341",
+      "siglaTipo": "PL",
+      "numero": 350,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15345",
+      "siglaTipo": "PL",
+      "numero": 354,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15352",
+      "siglaTipo": "PL",
+      "numero": 360,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/172459",
+      "siglaTipo": "PL",
+      "numero": 163,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15137",
+      "siglaTipo": "PL",
+      "numero": 188,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15137",
+      "siglaTipo": "PL",
+      "numero": 188,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15143",
+      "siglaTipo": "PL",
+      "numero": 192,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15153",
+      "siglaTipo": "PL",
+      "numero": 200,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15386",
+      "siglaTipo": "PL",
+      "numero": 386,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15395",
+      "siglaTipo": "PL",
+      "numero": 391,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15406",
+      "siglaTipo": "PL",
+      "numero": 401,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15406",
+      "siglaTipo": "PL",
+      "numero": 401,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15411",
+      "siglaTipo": "PL",
+      "numero": 404,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15411",
+      "siglaTipo": "PL",
+      "numero": 404,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15430",
+      "siglaTipo": "PL",
+      "numero": 417,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15434",
+      "siglaTipo": "PL",
+      "numero": 419,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15436",
+      "siglaTipo": "PL",
+      "numero": 420,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16080",
+      "siglaTipo": "PL",
+      "numero": 966,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25089",
+      "siglaTipo": "PL",
+      "numero": 392,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15460",
+      "siglaTipo": "PL",
+      "numero": 442,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15464",
+      "siglaTipo": "PL",
+      "numero": 447,
+      "ano": 1991,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15464",
+      "siglaTipo": "PL",
+      "numero": 447,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15480",
+      "siglaTipo": "PL",
+      "numero": 461,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15522",
+      "siglaTipo": "PL",
+      "numero": 494,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15522",
+      "siglaTipo": "PL",
+      "numero": 494,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15158",
+      "siglaTipo": "PL",
+      "numero": 203,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15158",
+      "siglaTipo": "PL",
+      "numero": 203,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16583",
+      "siglaTipo": "PL",
+      "numero": 1334,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15534",
+      "siglaTipo": "PL",
+      "numero": 506,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15534",
+      "siglaTipo": "PL",
+      "numero": 506,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15582",
+      "siglaTipo": "PL",
+      "numero": 552,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15621",
+      "siglaTipo": "PL",
+      "numero": 583,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/175428",
+      "siglaTipo": "PL",
+      "numero": 348,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18159",
+      "siglaTipo": "PL",
+      "numero": 2463,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18159",
+      "siglaTipo": "PL",
+      "numero": 2463,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15784",
+      "siglaTipo": "PL",
+      "numero": 728,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15725",
+      "siglaTipo": "PL",
+      "numero": 675,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15694",
+      "siglaTipo": "PL",
+      "numero": 649,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15747",
+      "siglaTipo": "PL",
+      "numero": 692,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15747",
+      "siglaTipo": "PL",
+      "numero": 692,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15771",
+      "siglaTipo": "PL",
+      "numero": 718,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15787",
+      "siglaTipo": "PL",
+      "numero": 730,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15787",
+      "siglaTipo": "PL",
+      "numero": 730,
+      "ano": 1991,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15798",
+      "siglaTipo": "PL",
+      "numero": 737,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15801",
+      "siglaTipo": "PL",
+      "numero": 738,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15801",
+      "siglaTipo": "PL",
+      "numero": 738,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15809",
+      "siglaTipo": "PL",
+      "numero": 742,
+      "ano": 1991,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15818",
+      "siglaTipo": "PL",
+      "numero": 749,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15820",
+      "siglaTipo": "PL",
+      "numero": 750,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15820",
+      "siglaTipo": "PL",
+      "numero": 750,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15826",
+      "siglaTipo": "PL",
+      "numero": 754,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15870",
+      "siglaTipo": "PL",
+      "numero": 790,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15874",
+      "siglaTipo": "PL",
+      "numero": 794,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15881",
+      "siglaTipo": "PL",
+      "numero": 800,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15884",
+      "siglaTipo": "PL",
+      "numero": 803,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15921",
+      "siglaTipo": "PL",
+      "numero": 831,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15930",
+      "siglaTipo": "PL",
+      "numero": 837,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15940",
+      "siglaTipo": "PL",
+      "numero": 846,
+      "ano": 1991,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/178977",
+      "siglaTipo": "PL",
+      "numero": 567,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/178977",
+      "siglaTipo": "PL",
+      "numero": 567,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/178977",
+      "siglaTipo": "PL",
+      "numero": 567,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15997",
+      "siglaTipo": "PL",
+      "numero": 892,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16001",
+      "siglaTipo": "PL",
+      "numero": 895,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/179462",
+      "siglaTipo": "PL",
+      "numero": 598,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15532",
+      "siglaTipo": "PL",
+      "numero": 505,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15532",
+      "siglaTipo": "PL",
+      "numero": 505,
+      "ano": 1991,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16030",
+      "siglaTipo": "PL",
+      "numero": 920,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16039",
+      "siglaTipo": "PL",
+      "numero": 927,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16058",
+      "siglaTipo": "PL",
+      "numero": 942,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/184346",
+      "siglaTipo": "PL",
+      "numero": 910,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16257",
+      "siglaTipo": "PL",
+      "numero": 1102,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16113",
+      "siglaTipo": "PL",
+      "numero": 994,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/182801",
+      "siglaTipo": "PL",
+      "numero": 811,
+      "ano": 1991,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15912",
+      "siglaTipo": "PL",
+      "numero": 823,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16164",
+      "siglaTipo": "PL",
+      "numero": 1029,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16164",
+      "siglaTipo": "PL",
+      "numero": 1029,
+      "ano": 1991,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16171",
+      "siglaTipo": "PL",
+      "numero": 1035,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16180",
+      "siglaTipo": "PL",
+      "numero": 1040,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15990",
+      "siglaTipo": "PL",
+      "numero": 887,
+      "ano": 1991,
+      "codTema": 62,
+      "tema": "Ciência, Tecnologia e Inovação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15990",
+      "siglaTipo": "PL",
+      "numero": 887,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16023",
+      "siglaTipo": "PL",
+      "numero": 913,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/181462",
+      "siglaTipo": "PL",
+      "numero": 725,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/187086",
+      "siglaTipo": "PL",
+      "numero": 1084,
+      "ano": 1991,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16073",
+      "siglaTipo": "PL",
+      "numero": 957,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/184532",
+      "siglaTipo": "PL",
+      "numero": 922,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16255",
+      "siglaTipo": "PL",
+      "numero": 1101,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16287",
+      "siglaTipo": "PL",
+      "numero": 1126,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16299",
+      "siglaTipo": "PL",
+      "numero": 1135,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16301",
+      "siglaTipo": "PL",
+      "numero": 1137,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16190",
+      "siglaTipo": "PL",
+      "numero": 1048,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16315",
+      "siglaTipo": "PL",
+      "numero": 1145,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16336",
+      "siglaTipo": "PL",
+      "numero": 1154,
+      "ano": 1991,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16336",
+      "siglaTipo": "PL",
+      "numero": 1154,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16102",
+      "siglaTipo": "PL",
+      "numero": 984,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16343",
+      "siglaTipo": "PL",
+      "numero": 1156,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16410",
+      "siglaTipo": "PL",
+      "numero": 1212,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17248",
+      "siglaTipo": "PL",
+      "numero": 1814,
+      "ano": 1991,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17248",
+      "siglaTipo": "PL",
+      "numero": 1814,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16446",
+      "siglaTipo": "PL",
+      "numero": 1234,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16446",
+      "siglaTipo": "PL",
+      "numero": 1234,
+      "ano": 1991,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16448",
+      "siglaTipo": "PL",
+      "numero": 1235,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16509",
+      "siglaTipo": "PL",
+      "numero": 1281,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16512",
+      "siglaTipo": "PL",
+      "numero": 1282,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16517",
+      "siglaTipo": "PL",
+      "numero": 1286,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16520",
+      "siglaTipo": "PL",
+      "numero": 1288,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16348",
+      "siglaTipo": "PL",
+      "numero": 1159,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17722",
+      "siglaTipo": "PL",
+      "numero": 2160,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16534",
+      "siglaTipo": "PL",
+      "numero": 1299,
+      "ano": 1991,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16543",
+      "siglaTipo": "PL",
+      "numero": 1306,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16547",
+      "siglaTipo": "PL",
+      "numero": 1309,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/186398",
+      "siglaTipo": "PL",
+      "numero": 1041,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/186413",
+      "siglaTipo": "PL",
+      "numero": 1042,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16317",
+      "siglaTipo": "PL",
+      "numero": 1146,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16369",
+      "siglaTipo": "PL",
+      "numero": 1176,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16637",
+      "siglaTipo": "PL",
+      "numero": 1375,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16641",
+      "siglaTipo": "PL",
+      "numero": 1378,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16675",
+      "siglaTipo": "PL",
+      "numero": 1402,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16685",
+      "siglaTipo": "PL",
+      "numero": 1409,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16714",
+      "siglaTipo": "PL",
+      "numero": 1429,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16714",
+      "siglaTipo": "PL",
+      "numero": 1429,
+      "ano": 1991,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16730",
+      "siglaTipo": "PL",
+      "numero": 1439,
+      "ano": 1991,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/188707",
+      "siglaTipo": "PL",
+      "numero": 1187,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/189690",
+      "siglaTipo": "PL",
+      "numero": 1253,
+      "ano": 1991,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/189690",
+      "siglaTipo": "PL",
+      "numero": 1253,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16372",
+      "siglaTipo": "PL",
+      "numero": 1177,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/191518",
+      "siglaTipo": "PL",
+      "numero": 1390,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16568",
+      "siglaTipo": "PL",
+      "numero": 1323,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16568",
+      "siglaTipo": "PL",
+      "numero": 1323,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16764",
+      "siglaTipo": "PL",
+      "numero": 1464,
+      "ano": 1991,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16787",
+      "siglaTipo": "PL",
+      "numero": 1478,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16787",
+      "siglaTipo": "PL",
+      "numero": 1478,
+      "ano": 1991,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/189633",
+      "siglaTipo": "PL",
+      "numero": 1249,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/189633",
+      "siglaTipo": "PL",
+      "numero": 1249,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16813",
+      "siglaTipo": "PL",
+      "numero": 1497,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16851",
+      "siglaTipo": "PL",
+      "numero": 1524,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/191413",
+      "siglaTipo": "PL",
+      "numero": 1382,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16888",
+      "siglaTipo": "PL",
+      "numero": 1547,
+      "ano": 1991,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/189906",
+      "siglaTipo": "PL",
+      "numero": 1269,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/190664",
+      "siglaTipo": "PL",
+      "numero": 1326,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16915",
+      "siglaTipo": "PL",
+      "numero": 1565,
+      "ano": 1991,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16917",
+      "siglaTipo": "PL",
+      "numero": 1568,
+      "ano": 1991,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16917",
+      "siglaTipo": "PL",
+      "numero": 1568,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16971",
+      "siglaTipo": "PL",
+      "numero": 1611,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16971",
+      "siglaTipo": "PL",
+      "numero": 1611,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16973",
+      "siglaTipo": "PL",
+      "numero": 1613,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17003",
+      "siglaTipo": "PL",
+      "numero": 1633,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17005",
+      "siglaTipo": "PL",
+      "numero": 1634,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17005",
+      "siglaTipo": "PL",
+      "numero": 1634,
+      "ano": 1991,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17051",
+      "siglaTipo": "PL",
+      "numero": 1662,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17071",
+      "siglaTipo": "PL",
+      "numero": 1678,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17181",
+      "siglaTipo": "PL",
+      "numero": 1761,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/192734",
+      "siglaTipo": "PL",
+      "numero": 1486,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17279",
+      "siglaTipo": "PL",
+      "numero": 1831,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17302",
+      "siglaTipo": "PL",
+      "numero": 1851,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17309",
+      "siglaTipo": "PL",
+      "numero": 1858,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16939",
+      "siglaTipo": "PL",
+      "numero": 1587,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17334",
+      "siglaTipo": "PL",
+      "numero": 1875,
+      "ano": 1991,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17340",
+      "siglaTipo": "PL",
+      "numero": 1878,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/193934",
+      "siglaTipo": "PL",
+      "numero": 1589,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16883",
+      "siglaTipo": "PL",
+      "numero": 1544,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16817",
+      "siglaTipo": "PL",
+      "numero": 1498,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17398",
+      "siglaTipo": "PL",
+      "numero": 1919,
+      "ano": 1991,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17398",
+      "siglaTipo": "PL",
+      "numero": 1919,
+      "ano": 1991,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17408",
+      "siglaTipo": "PL",
+      "numero": 1924,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16873",
+      "siglaTipo": "PL",
+      "numero": 1539,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16875",
+      "siglaTipo": "PL",
+      "numero": 1540,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16875",
+      "siglaTipo": "PL",
+      "numero": 1540,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16903",
+      "siglaTipo": "PL",
+      "numero": 1559,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17413",
+      "siglaTipo": "PL",
+      "numero": 1929,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17415",
+      "siglaTipo": "PL",
+      "numero": 1932,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17428",
+      "siglaTipo": "PL",
+      "numero": 1941,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/194082",
+      "siglaTipo": "PL",
+      "numero": 1602,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17436",
+      "siglaTipo": "PL",
+      "numero": 1946,
+      "ano": 1991,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17436",
+      "siglaTipo": "PL",
+      "numero": 1946,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17443",
+      "siglaTipo": "PL",
+      "numero": 1952,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17274",
+      "siglaTipo": "PL",
+      "numero": 1828,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17274",
+      "siglaTipo": "PL",
+      "numero": 1828,
+      "ano": 1991,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17319",
+      "siglaTipo": "PL",
+      "numero": 1864,
+      "ano": 1991,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17569",
+      "siglaTipo": "PL",
+      "numero": 2057,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17569",
+      "siglaTipo": "PL",
+      "numero": 2057,
+      "ano": 1991,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17578",
+      "siglaTipo": "PL",
+      "numero": 2063,
+      "ano": 1991,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17578",
+      "siglaTipo": "PL",
+      "numero": 2063,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17543",
+      "siglaTipo": "PL",
+      "numero": 2036,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/198826",
+      "siglaTipo": "PL",
+      "numero": 2018,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17102",
+      "siglaTipo": "PL",
+      "numero": 1701,
+      "ano": 1991,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/195091",
+      "siglaTipo": "PL",
+      "numero": 1691,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/195091",
+      "siglaTipo": "PL",
+      "numero": 1691,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25285",
+      "siglaTipo": "PL",
+      "numero": 1843,
+      "ano": 1991,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25285",
+      "siglaTipo": "PL",
+      "numero": 1843,
+      "ano": 1991,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17821",
+      "siglaTipo": "PL",
+      "numero": 2230,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25352",
+      "siglaTipo": "PL",
+      "numero": 2236,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17869",
+      "siglaTipo": "PL",
+      "numero": 2263,
+      "ano": 1991,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17869",
+      "siglaTipo": "PL",
+      "numero": 2263,
+      "ano": 1991,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17876",
+      "siglaTipo": "PL",
+      "numero": 2267,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17882",
+      "siglaTipo": "PL",
+      "numero": 2271,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/201711",
+      "siglaTipo": "PL",
+      "numero": 2273,
+      "ano": 1991,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/201711",
+      "siglaTipo": "PL",
+      "numero": 2273,
+      "ano": 1991,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17926",
+      "siglaTipo": "PL",
+      "numero": 2303,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17939",
+      "siglaTipo": "PL",
+      "numero": 2313,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17642",
+      "siglaTipo": "PL",
+      "numero": 2104,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17969",
+      "siglaTipo": "PL",
+      "numero": 2333,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/17969",
+      "siglaTipo": "PL",
+      "numero": 2333,
+      "ano": 1991,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/202792",
+      "siglaTipo": "PL",
+      "numero": 2368,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/203620",
+      "siglaTipo": "PL",
+      "numero": 2452,
+      "ano": 1991,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21416",
+      "siglaTipo": "PLP",
+      "numero": 68,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21310",
+      "siglaTipo": "PLP",
+      "numero": 4,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21445",
+      "siglaTipo": "PLP",
+      "numero": 92,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21308",
+      "siglaTipo": "PLP",
+      "numero": 3,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21313",
+      "siglaTipo": "PLP",
+      "numero": 5,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21316",
+      "siglaTipo": "PLP",
+      "numero": 7,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21330",
+      "siglaTipo": "PLP",
+      "numero": 16,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/233243",
+      "siglaTipo": "PLP",
+      "numero": 13,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21340",
+      "siglaTipo": "PLP",
+      "numero": 22,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21362",
+      "siglaTipo": "PLP",
+      "numero": 36,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21370",
+      "siglaTipo": "PLP",
+      "numero": 40,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21366",
+      "siglaTipo": "PLP",
+      "numero": 38,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21373",
+      "siglaTipo": "PLP",
+      "numero": 41,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21389",
+      "siglaTipo": "PLP",
+      "numero": 52,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21380",
+      "siglaTipo": "PLP",
+      "numero": 47,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21408",
+      "siglaTipo": "PLP",
+      "numero": 63,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21401",
+      "siglaTipo": "PLP",
+      "numero": 60,
+      "ano": 1991,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21403",
+      "siglaTipo": "PLP",
+      "numero": 61,
+      "ano": 1991,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21717",
+      "siglaTipo": "PRC",
+      "numero": 75,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21733",
+      "siglaTipo": "PRC",
+      "numero": 87,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21637",
+      "siglaTipo": "PRC",
+      "numero": 11,
+      "ano": 1991,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/238053",
+      "siglaTipo": "RCP",
+      "numero": 6,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/238053",
+      "siglaTipo": "RCP",
+      "numero": 6,
+      "ano": 1991,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21669",
+      "siglaTipo": "PRC",
+      "numero": 30,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21701",
+      "siglaTipo": "PRC",
+      "numero": 61,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21704",
+      "siglaTipo": "PRC",
+      "numero": 62,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21704",
+      "siglaTipo": "PRC",
+      "numero": 62,
+      "ano": 1991,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21725",
+      "siglaTipo": "PRC",
+      "numero": 80,
+      "ano": 1991,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    }
+  ]
+}

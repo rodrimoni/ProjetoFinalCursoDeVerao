@@ -1,0 +1,1147 @@
+{
+  "dados": [
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23513",
+      "siglaTipo": "EMS",
+      "numero": 5071,
+      "ano": 1990,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23513",
+      "siglaTipo": "EMS",
+      "numero": 5071,
+      "ano": 1990,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23509",
+      "siglaTipo": "EMS",
+      "numero": 4596,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/106767",
+      "siglaTipo": "EMS",
+      "numero": 5920,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/454154",
+      "siglaTipo": "PDC",
+      "numero": 233,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21281",
+      "siglaTipo": "PL",
+      "numero": 6125,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21281",
+      "siglaTipo": "PL",
+      "numero": 6125,
+      "ano": 1990,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21283",
+      "siglaTipo": "PL",
+      "numero": 6132,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21282",
+      "siglaTipo": "PL",
+      "numero": 6129,
+      "ano": 1990,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20971",
+      "siglaTipo": "PL",
+      "numero": 4574,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20990",
+      "siglaTipo": "PL",
+      "numero": 4596,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25730",
+      "siglaTipo": "PL",
+      "numero": 6131,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21014",
+      "siglaTipo": "PL",
+      "numero": 4636,
+      "ano": 1990,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21040",
+      "siglaTipo": "PL",
+      "numero": 4664,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21052",
+      "siglaTipo": "PL",
+      "numero": 4679,
+      "ano": 1990,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21052",
+      "siglaTipo": "PL",
+      "numero": 4679,
+      "ano": 1990,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21058",
+      "siglaTipo": "PL",
+      "numero": 4690,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21060",
+      "siglaTipo": "PL",
+      "numero": 4692,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20973",
+      "siglaTipo": "PL",
+      "numero": 4578,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20978",
+      "siglaTipo": "PL",
+      "numero": 4583,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21138",
+      "siglaTipo": "PL",
+      "numero": 4796,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21140",
+      "siglaTipo": "PL",
+      "numero": 4799,
+      "ano": 1990,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21161",
+      "siglaTipo": "PL",
+      "numero": 4831,
+      "ano": 1990,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/223216",
+      "siglaTipo": "PL",
+      "numero": 4645,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/223357",
+      "siglaTipo": "PL",
+      "numero": 4663,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/223499",
+      "siglaTipo": "PL",
+      "numero": 4681,
+      "ano": 1990,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/224340",
+      "siglaTipo": "PL",
+      "numero": 4786,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/224085",
+      "siglaTipo": "PL",
+      "numero": 4755,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/224429",
+      "siglaTipo": "PL",
+      "numero": 4797,
+      "ano": 1990,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/224820",
+      "siglaTipo": "PL",
+      "numero": 4845,
+      "ano": 1990,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21183",
+      "siglaTipo": "PL",
+      "numero": 4876,
+      "ano": 1990,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21186",
+      "siglaTipo": "PL",
+      "numero": 4881,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21186",
+      "siglaTipo": "PL",
+      "numero": 4881,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21186",
+      "siglaTipo": "PL",
+      "numero": 4881,
+      "ano": 1990,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21212",
+      "siglaTipo": "PL",
+      "numero": 4953,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21209",
+      "siglaTipo": "PL",
+      "numero": 4916,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21209",
+      "siglaTipo": "PL",
+      "numero": 4916,
+      "ano": 1990,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225176",
+      "siglaTipo": "PL",
+      "numero": 4894,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21220",
+      "siglaTipo": "PL",
+      "numero": 5074,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21217",
+      "siglaTipo": "PL",
+      "numero": 4999,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225419",
+      "siglaTipo": "PL",
+      "numero": 4929,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21211",
+      "siglaTipo": "PL",
+      "numero": 4952,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21216",
+      "siglaTipo": "PL",
+      "numero": 4992,
+      "ano": 1990,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21216",
+      "siglaTipo": "PL",
+      "numero": 4992,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225471",
+      "siglaTipo": "PL",
+      "numero": 4939,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225733",
+      "siglaTipo": "PL",
+      "numero": 4993,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21218",
+      "siglaTipo": "PL",
+      "numero": 5054,
+      "ano": 1990,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21219",
+      "siglaTipo": "PL",
+      "numero": 5071,
+      "ano": 1990,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21221",
+      "siglaTipo": "PL",
+      "numero": 5089,
+      "ano": 1990,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21225",
+      "siglaTipo": "PL",
+      "numero": 5237,
+      "ano": 1990,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21225",
+      "siglaTipo": "PL",
+      "numero": 5237,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225991",
+      "siglaTipo": "PL",
+      "numero": 5045,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225991",
+      "siglaTipo": "PL",
+      "numero": 5045,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/226118",
+      "siglaTipo": "PL",
+      "numero": 5072,
+      "ano": 1990,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21228",
+      "siglaTipo": "PL",
+      "numero": 5315,
+      "ano": 1990,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/226177",
+      "siglaTipo": "PL",
+      "numero": 5087,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/226605",
+      "siglaTipo": "PL",
+      "numero": 5195,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21235",
+      "siglaTipo": "PL",
+      "numero": 5401,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/227520",
+      "siglaTipo": "PL",
+      "numero": 5427,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21237",
+      "siglaTipo": "PL",
+      "numero": 5458,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/227220",
+      "siglaTipo": "PL",
+      "numero": 5350,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21238",
+      "siglaTipo": "PL",
+      "numero": 5542,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/40589",
+      "siglaTipo": "PL",
+      "numero": 5491,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21239",
+      "siglaTipo": "PL",
+      "numero": 5605,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21231",
+      "siglaTipo": "PL",
+      "numero": 5367,
+      "ano": 1990,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21231",
+      "siglaTipo": "PL",
+      "numero": 5367,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/227646",
+      "siglaTipo": "PL",
+      "numero": 5459,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/228075",
+      "siglaTipo": "PL",
+      "numero": 5567,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/228143",
+      "siglaTipo": "PL",
+      "numero": 5584,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21243",
+      "siglaTipo": "PL",
+      "numero": 5665,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21245",
+      "siglaTipo": "PL",
+      "numero": 5676,
+      "ano": 1990,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21245",
+      "siglaTipo": "PL",
+      "numero": 5676,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21246",
+      "siglaTipo": "PL",
+      "numero": 5678,
+      "ano": 1990,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21246",
+      "siglaTipo": "PL",
+      "numero": 5678,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/227825",
+      "siglaTipo": "PL",
+      "numero": 5504,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/227825",
+      "siglaTipo": "PL",
+      "numero": 5504,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/228627",
+      "siglaTipo": "PL",
+      "numero": 5708,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21250",
+      "siglaTipo": "PL",
+      "numero": 5742,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21250",
+      "siglaTipo": "PL",
+      "numero": 5742,
+      "ano": 1990,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21250",
+      "siglaTipo": "PL",
+      "numero": 5742,
+      "ano": 1990,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21251",
+      "siglaTipo": "PL",
+      "numero": 5764,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21251",
+      "siglaTipo": "PL",
+      "numero": 5764,
+      "ano": 1990,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21254",
+      "siglaTipo": "PL",
+      "numero": 5790,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21247",
+      "siglaTipo": "PL",
+      "numero": 5709,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21247",
+      "siglaTipo": "PL",
+      "numero": 5709,
+      "ano": 1990,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21249",
+      "siglaTipo": "PL",
+      "numero": 5730,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/228767",
+      "siglaTipo": "PL",
+      "numero": 5744,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/228914",
+      "siglaTipo": "PL",
+      "numero": 5781,
+      "ano": 1990,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/229039",
+      "siglaTipo": "PL",
+      "numero": 5813,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21256",
+      "siglaTipo": "PL",
+      "numero": 5865,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/229082",
+      "siglaTipo": "PL",
+      "numero": 5824,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21259",
+      "siglaTipo": "PL",
+      "numero": 5920,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21264",
+      "siglaTipo": "PL",
+      "numero": 5955,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21264",
+      "siglaTipo": "PL",
+      "numero": 5955,
+      "ano": 1990,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21261",
+      "siglaTipo": "PL",
+      "numero": 5942,
+      "ano": 1990,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21265",
+      "siglaTipo": "PL",
+      "numero": 5977,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/229498",
+      "siglaTipo": "PL",
+      "numero": 5951,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/229498",
+      "siglaTipo": "PL",
+      "numero": 5951,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21268",
+      "siglaTipo": "PL",
+      "numero": 6002,
+      "ano": 1990,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21268",
+      "siglaTipo": "PL",
+      "numero": 6002,
+      "ano": 1990,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21269",
+      "siglaTipo": "PL",
+      "numero": 6003,
+      "ano": 1990,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21271",
+      "siglaTipo": "PL",
+      "numero": 6038,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21272",
+      "siglaTipo": "PL",
+      "numero": 6045,
+      "ano": 1990,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21272",
+      "siglaTipo": "PL",
+      "numero": 6045,
+      "ano": 1990,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21273",
+      "siglaTipo": "PL",
+      "numero": 6049,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21276",
+      "siglaTipo": "PL",
+      "numero": 6055,
+      "ano": 1990,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21276",
+      "siglaTipo": "PL",
+      "numero": 6055,
+      "ano": 1990,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21277",
+      "siglaTipo": "PL",
+      "numero": 6063,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21277",
+      "siglaTipo": "PL",
+      "numero": 6063,
+      "ano": 1990,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/229940",
+      "siglaTipo": "PL",
+      "numero": 6106,
+      "ano": 1990,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21278",
+      "siglaTipo": "PL",
+      "numero": 6078,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/229871",
+      "siglaTipo": "PL",
+      "numero": 6083,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25728",
+      "siglaTipo": "PL",
+      "numero": 6127,
+      "ano": 1990,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234582",
+      "siglaTipo": "PLP",
+      "numero": 274,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21599",
+      "siglaTipo": "PLP",
+      "numero": 218,
+      "ano": 1990,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234413",
+      "siglaTipo": "PLP",
+      "numero": 219,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234459",
+      "siglaTipo": "PLP",
+      "numero": 233,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234504",
+      "siglaTipo": "PLP",
+      "numero": 247,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21623",
+      "siglaTipo": "PLP",
+      "numero": 260,
+      "ano": 1990,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21623",
+      "siglaTipo": "PLP",
+      "numero": 260,
+      "ano": 1990,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21624",
+      "siglaTipo": "PLP",
+      "numero": 268,
+      "ano": 1990,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21625",
+      "siglaTipo": "PLP",
+      "numero": 273,
+      "ano": 1990,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234568",
+      "siglaTipo": "PLP",
+      "numero": 269,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234574",
+      "siglaTipo": "PLP",
+      "numero": 271,
+      "ano": 1990,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/143441",
+      "siglaTipo": "PLP",
+      "numero": 276,
+      "ano": 1990,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21816",
+      "siglaTipo": "PRC",
+      "numero": 218,
+      "ano": 1990,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21820",
+      "siglaTipo": "PRC",
+      "numero": 231,
+      "ano": 1990,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    }
+  ]
+}

@@ -1,0 +1,3333 @@
+{
+  "dados": [
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/118020",
+      "siglaTipo": "EMS",
+      "numero": 360,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/411997",
+      "siglaTipo": "EMS",
+      "numero": 885,
+      "ano": 1995,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/411997",
+      "siglaTipo": "EMS",
+      "numero": 885,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/422639",
+      "siglaTipo": "EMS",
+      "numero": 1176,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/429849",
+      "siglaTipo": "EMS",
+      "numero": 335,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/429849",
+      "siglaTipo": "EMS",
+      "numero": 335,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13512",
+      "siglaTipo": "PDC",
+      "numero": 66,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13525",
+      "siglaTipo": "PDC",
+      "numero": 94,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13525",
+      "siglaTipo": "PDC",
+      "numero": 94,
+      "ano": 1995,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/168206",
+      "siglaTipo": "PDC",
+      "numero": 184,
+      "ano": 1995,
+      "codTema": 68,
+      "tema": "Direito Constitucional",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/168206",
+      "siglaTipo": "PDC",
+      "numero": 184,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13590",
+      "siglaTipo": "PDC",
+      "numero": 201,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13590",
+      "siglaTipo": "PDC",
+      "numero": 201,
+      "ano": 1995,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13592",
+      "siglaTipo": "PDC",
+      "numero": 205,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14529",
+      "siglaTipo": "PEC",
+      "numero": 195,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14250",
+      "siglaTipo": "PEC",
+      "numero": 9,
+      "ano": 1995,
+      "codTema": 60,
+      "tema": "Turismo",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14252",
+      "siglaTipo": "PEC",
+      "numero": 10,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14263",
+      "siglaTipo": "PEC",
+      "numero": 17,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14267",
+      "siglaTipo": "PEC",
+      "numero": 20,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14270",
+      "siglaTipo": "PEC",
+      "numero": 22,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14277",
+      "siglaTipo": "PEC",
+      "numero": 28,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14286",
+      "siglaTipo": "PEC",
+      "numero": 37,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14286",
+      "siglaTipo": "PEC",
+      "numero": 37,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14288",
+      "siglaTipo": "PEC",
+      "numero": 38,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14288",
+      "siglaTipo": "PEC",
+      "numero": 38,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14293",
+      "siglaTipo": "PEC",
+      "numero": 42,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14295",
+      "siglaTipo": "PEC",
+      "numero": 43,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14300",
+      "siglaTipo": "PEC",
+      "numero": 46,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14300",
+      "siglaTipo": "PEC",
+      "numero": 46,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14302",
+      "siglaTipo": "PEC",
+      "numero": 47,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14306",
+      "siglaTipo": "PEC",
+      "numero": 50,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14308",
+      "siglaTipo": "PEC",
+      "numero": 51,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14318",
+      "siglaTipo": "PEC",
+      "numero": 59,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14320",
+      "siglaTipo": "PEC",
+      "numero": 60,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14334",
+      "siglaTipo": "PEC",
+      "numero": 71,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14344",
+      "siglaTipo": "PEC",
+      "numero": 78,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14347",
+      "siglaTipo": "PEC",
+      "numero": 80,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14349",
+      "siglaTipo": "PEC",
+      "numero": 81,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14356",
+      "siglaTipo": "PEC",
+      "numero": 85,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14359",
+      "siglaTipo": "PEC",
+      "numero": 88,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14363",
+      "siglaTipo": "PEC",
+      "numero": 90,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14365",
+      "siglaTipo": "PEC",
+      "numero": 91,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14365",
+      "siglaTipo": "PEC",
+      "numero": 91,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14371",
+      "siglaTipo": "PEC",
+      "numero": 95,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14377",
+      "siglaTipo": "PEC",
+      "numero": 98,
+      "ano": 1995,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14384",
+      "siglaTipo": "PEC",
+      "numero": 102,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14392",
+      "siglaTipo": "PEC",
+      "numero": 108,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14403",
+      "siglaTipo": "PEC",
+      "numero": 115,
+      "ano": 1995,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14418",
+      "siglaTipo": "PEC",
+      "numero": 123,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14420",
+      "siglaTipo": "PEC",
+      "numero": 124,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14441",
+      "siglaTipo": "PEC",
+      "numero": 137,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14448",
+      "siglaTipo": "PEC",
+      "numero": 142,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14455",
+      "siglaTipo": "PEC",
+      "numero": 145,
+      "ano": 1995,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14455",
+      "siglaTipo": "PEC",
+      "numero": 145,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14462",
+      "siglaTipo": "PEC",
+      "numero": 150,
+      "ano": 1995,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14464",
+      "siglaTipo": "PEC",
+      "numero": 151,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14464",
+      "siglaTipo": "PEC",
+      "numero": 151,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14473",
+      "siglaTipo": "PEC",
+      "numero": 156,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14481",
+      "siglaTipo": "PEC",
+      "numero": 162,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14481",
+      "siglaTipo": "PEC",
+      "numero": 162,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14489",
+      "siglaTipo": "PEC",
+      "numero": 168,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14497",
+      "siglaTipo": "PEC",
+      "numero": 174,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14501",
+      "siglaTipo": "PEC",
+      "numero": 176,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14507",
+      "siglaTipo": "PEC",
+      "numero": 179,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14510",
+      "siglaTipo": "PEC",
+      "numero": 181,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14547",
+      "siglaTipo": "PEC",
+      "numero": 206,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14552",
+      "siglaTipo": "PEC",
+      "numero": 209,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14556",
+      "siglaTipo": "PEC",
+      "numero": 211,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14575",
+      "siglaTipo": "PEC",
+      "numero": 226,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14582",
+      "siglaTipo": "PEC",
+      "numero": 231,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14587",
+      "siglaTipo": "PEC",
+      "numero": 234,
+      "ano": 1995,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14587",
+      "siglaTipo": "PEC",
+      "numero": 234,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14592",
+      "siglaTipo": "PEC",
+      "numero": 238,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14603",
+      "siglaTipo": "PEC",
+      "numero": 247,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14609",
+      "siglaTipo": "PEC",
+      "numero": 251,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14617",
+      "siglaTipo": "PEC",
+      "numero": 257,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14638",
+      "siglaTipo": "PEC",
+      "numero": 271,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14653",
+      "siglaTipo": "PEC",
+      "numero": 281,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14658",
+      "siglaTipo": "PEC",
+      "numero": 284,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14664",
+      "siglaTipo": "PEC",
+      "numero": 289,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14667",
+      "siglaTipo": "PEC",
+      "numero": 291,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14875",
+      "siglaTipo": "PFC",
+      "numero": 8,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225135",
+      "siglaTipo": "PL",
+      "numero": 4888,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/225135",
+      "siglaTipo": "PL",
+      "numero": 4888,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16481",
+      "siglaTipo": "PL",
+      "numero": 1258,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16481",
+      "siglaTipo": "PL",
+      "numero": 1258,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21208",
+      "siglaTipo": "PL",
+      "numero": 4915,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14965",
+      "siglaTipo": "PL",
+      "numero": 38,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14919",
+      "siglaTipo": "PL",
+      "numero": 1,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14927",
+      "siglaTipo": "PL",
+      "numero": 6,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14957",
+      "siglaTipo": "PL",
+      "numero": 32,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14992",
+      "siglaTipo": "PL",
+      "numero": 60,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14998",
+      "siglaTipo": "PL",
+      "numero": 64,
+      "ano": 1995,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15009",
+      "siglaTipo": "PL",
+      "numero": 70,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15009",
+      "siglaTipo": "PL",
+      "numero": 70,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15071",
+      "siglaTipo": "PL",
+      "numero": 124,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15073",
+      "siglaTipo": "PL",
+      "numero": 125,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15073",
+      "siglaTipo": "PL",
+      "numero": 125,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15087",
+      "siglaTipo": "PL",
+      "numero": 139,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15091",
+      "siglaTipo": "PL",
+      "numero": 141,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/172052",
+      "siglaTipo": "PL",
+      "numero": 137,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15113",
+      "siglaTipo": "PL",
+      "numero": 165,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15120",
+      "siglaTipo": "PL",
+      "numero": 170,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15125",
+      "siglaTipo": "PL",
+      "numero": 176,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/172537",
+      "siglaTipo": "PL",
+      "numero": 168,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15126",
+      "siglaTipo": "PL",
+      "numero": 177,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15126",
+      "siglaTipo": "PL",
+      "numero": 177,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15132",
+      "siglaTipo": "PL",
+      "numero": 182,
+      "ano": 1995,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15132",
+      "siglaTipo": "PL",
+      "numero": 182,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15144",
+      "siglaTipo": "PL",
+      "numero": 192,
+      "ano": 1995,
+      "codTema": 64,
+      "tema": "Agricultura, Pecuária, Pesca e Extrativismo",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15144",
+      "siglaTipo": "PL",
+      "numero": 192,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15175",
+      "siglaTipo": "PL",
+      "numero": 220,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15180",
+      "siglaTipo": "PL",
+      "numero": 223,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15184",
+      "siglaTipo": "PL",
+      "numero": 227,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15194",
+      "siglaTipo": "PL",
+      "numero": 238,
+      "ano": 1995,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15204",
+      "siglaTipo": "PL",
+      "numero": 246,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15209",
+      "siglaTipo": "PL",
+      "numero": 249,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15211",
+      "siglaTipo": "PL",
+      "numero": 250,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15213",
+      "siglaTipo": "PL",
+      "numero": 251,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15213",
+      "siglaTipo": "PL",
+      "numero": 251,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15238",
+      "siglaTipo": "PL",
+      "numero": 271,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15265",
+      "siglaTipo": "PL",
+      "numero": 294,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15267",
+      "siglaTipo": "PL",
+      "numero": 295,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15271",
+      "siglaTipo": "PL",
+      "numero": 298,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15271",
+      "siglaTipo": "PL",
+      "numero": 298,
+      "ano": 1995,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15280",
+      "siglaTipo": "PL",
+      "numero": 305,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15286",
+      "siglaTipo": "PL",
+      "numero": 308,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15299",
+      "siglaTipo": "PL",
+      "numero": 318,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15307",
+      "siglaTipo": "PL",
+      "numero": 324,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15310",
+      "siglaTipo": "PL",
+      "numero": 325,
+      "ano": 1995,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15310",
+      "siglaTipo": "PL",
+      "numero": 325,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15320",
+      "siglaTipo": "PL",
+      "numero": 335,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15328",
+      "siglaTipo": "PL",
+      "numero": 339,
+      "ano": 1995,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15328",
+      "siglaTipo": "PL",
+      "numero": 339,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15339",
+      "siglaTipo": "PL",
+      "numero": 349,
+      "ano": 1995,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15339",
+      "siglaTipo": "PL",
+      "numero": 349,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15353",
+      "siglaTipo": "PL",
+      "numero": 360,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15353",
+      "siglaTipo": "PL",
+      "numero": 360,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15885",
+      "siglaTipo": "PL",
+      "numero": 803,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15885",
+      "siglaTipo": "PL",
+      "numero": 803,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15382",
+      "siglaTipo": "PL",
+      "numero": 384,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15391",
+      "siglaTipo": "PL",
+      "numero": 388,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15402",
+      "siglaTipo": "PL",
+      "numero": 398,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15409",
+      "siglaTipo": "PL",
+      "numero": 403,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15421",
+      "siglaTipo": "PL",
+      "numero": 409,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15421",
+      "siglaTipo": "PL",
+      "numero": 409,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15432",
+      "siglaTipo": "PL",
+      "numero": 418,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15437",
+      "siglaTipo": "PL",
+      "numero": 420,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15437",
+      "siglaTipo": "PL",
+      "numero": 420,
+      "ano": 1995,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15449",
+      "siglaTipo": "PL",
+      "numero": 434,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15455",
+      "siglaTipo": "PL",
+      "numero": 438,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15455",
+      "siglaTipo": "PL",
+      "numero": 438,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15471",
+      "siglaTipo": "PL",
+      "numero": 451,
+      "ano": 1995,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15471",
+      "siglaTipo": "PL",
+      "numero": 451,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16160",
+      "siglaTipo": "PL",
+      "numero": 1026,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16160",
+      "siglaTipo": "PL",
+      "numero": 1026,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15484",
+      "siglaTipo": "PL",
+      "numero": 463,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15487",
+      "siglaTipo": "PL",
+      "numero": 465,
+      "ano": 1995,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15487",
+      "siglaTipo": "PL",
+      "numero": 465,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15489",
+      "siglaTipo": "PL",
+      "numero": 466,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/177401",
+      "siglaTipo": "PL",
+      "numero": 468,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/177401",
+      "siglaTipo": "PL",
+      "numero": 468,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15516",
+      "siglaTipo": "PL",
+      "numero": 490,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/177845",
+      "siglaTipo": "PL",
+      "numero": 496,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15530",
+      "siglaTipo": "PL",
+      "numero": 504,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15571",
+      "siglaTipo": "PL",
+      "numero": 542,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15585",
+      "siglaTipo": "PL",
+      "numero": 555,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15596",
+      "siglaTipo": "PL",
+      "numero": 563,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15598",
+      "siglaTipo": "PL",
+      "numero": 564,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15598",
+      "siglaTipo": "PL",
+      "numero": 564,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15599",
+      "siglaTipo": "PL",
+      "numero": 565,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/178885",
+      "siglaTipo": "PL",
+      "numero": 561,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15609",
+      "siglaTipo": "PL",
+      "numero": 573,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15612",
+      "siglaTipo": "PL",
+      "numero": 576,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15612",
+      "siglaTipo": "PL",
+      "numero": 576,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15619",
+      "siglaTipo": "PL",
+      "numero": 580,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15619",
+      "siglaTipo": "PL",
+      "numero": 580,
+      "ano": 1995,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15623",
+      "siglaTipo": "PL",
+      "numero": 584,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15623",
+      "siglaTipo": "PL",
+      "numero": 584,
+      "ano": 1995,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15642",
+      "siglaTipo": "PL",
+      "numero": 602,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/179784",
+      "siglaTipo": "PL",
+      "numero": 618,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15665",
+      "siglaTipo": "PL",
+      "numero": 626,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15670",
+      "siglaTipo": "PL",
+      "numero": 630,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25108",
+      "siglaTipo": "PL",
+      "numero": 533,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/180176",
+      "siglaTipo": "PL",
+      "numero": 643,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15692",
+      "siglaTipo": "PL",
+      "numero": 648,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15692",
+      "siglaTipo": "PL",
+      "numero": 648,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15701",
+      "siglaTipo": "PL",
+      "numero": 656,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15708",
+      "siglaTipo": "PL",
+      "numero": 662,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15717",
+      "siglaTipo": "PL",
+      "numero": 670,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15717",
+      "siglaTipo": "PL",
+      "numero": 670,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15717",
+      "siglaTipo": "PL",
+      "numero": 670,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/180506",
+      "siglaTipo": "PL",
+      "numero": 664,
+      "ano": 1995,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15745",
+      "siglaTipo": "PL",
+      "numero": 691,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15741",
+      "siglaTipo": "PL",
+      "numero": 687,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15741",
+      "siglaTipo": "PL",
+      "numero": 687,
+      "ano": 1995,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15748",
+      "siglaTipo": "PL",
+      "numero": 692,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15750",
+      "siglaTipo": "PL",
+      "numero": 694,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15754",
+      "siglaTipo": "PL",
+      "numero": 704,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15754",
+      "siglaTipo": "PL",
+      "numero": 704,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15762",
+      "siglaTipo": "PL",
+      "numero": 712,
+      "ano": 1995,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15766",
+      "siglaTipo": "PL",
+      "numero": 715,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15766",
+      "siglaTipo": "PL",
+      "numero": 715,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15769",
+      "siglaTipo": "PL",
+      "numero": 717,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/181416",
+      "siglaTipo": "PL",
+      "numero": 722,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15782",
+      "siglaTipo": "PL",
+      "numero": 727,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15790",
+      "siglaTipo": "PL",
+      "numero": 731,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15799",
+      "siglaTipo": "PL",
+      "numero": 737,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15802",
+      "siglaTipo": "PL",
+      "numero": 738,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15810",
+      "siglaTipo": "PL",
+      "numero": 742,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25131",
+      "siglaTipo": "PL",
+      "numero": 743,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15823",
+      "siglaTipo": "PL",
+      "numero": 752,
+      "ano": 1995,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15829",
+      "siglaTipo": "PL",
+      "numero": 756,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15840",
+      "siglaTipo": "PL",
+      "numero": 765,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15847",
+      "siglaTipo": "PL",
+      "numero": 770,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15859",
+      "siglaTipo": "PL",
+      "numero": 779,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15864",
+      "siglaTipo": "PL",
+      "numero": 784,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16391",
+      "siglaTipo": "PL",
+      "numero": 1195,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16391",
+      "siglaTipo": "PL",
+      "numero": 1195,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15892",
+      "siglaTipo": "PL",
+      "numero": 810,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15900",
+      "siglaTipo": "PL",
+      "numero": 814,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15900",
+      "siglaTipo": "PL",
+      "numero": 814,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15902",
+      "siglaTipo": "PL",
+      "numero": 815,
+      "ano": 1995,
+      "codTema": 62,
+      "tema": "Ciência, Tecnologia e Inovação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15902",
+      "siglaTipo": "PL",
+      "numero": 815,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15934",
+      "siglaTipo": "PL",
+      "numero": 841,
+      "ano": 1995,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15934",
+      "siglaTipo": "PL",
+      "numero": 841,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15946",
+      "siglaTipo": "PL",
+      "numero": 850,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15960",
+      "siglaTipo": "PL",
+      "numero": 861,
+      "ano": 1995,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15960",
+      "siglaTipo": "PL",
+      "numero": 861,
+      "ano": 1995,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15964",
+      "siglaTipo": "PL",
+      "numero": 863,
+      "ano": 1995,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15964",
+      "siglaTipo": "PL",
+      "numero": 863,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15967",
+      "siglaTipo": "PL",
+      "numero": 865,
+      "ano": 1995,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/183519",
+      "siglaTipo": "PL",
+      "numero": 857,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15983",
+      "siglaTipo": "PL",
+      "numero": 883,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15987",
+      "siglaTipo": "PL",
+      "numero": 885,
+      "ano": 1995,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/15987",
+      "siglaTipo": "PL",
+      "numero": 885,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16007",
+      "siglaTipo": "PL",
+      "numero": 900,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16014",
+      "siglaTipo": "PL",
+      "numero": 905,
+      "ano": 1995,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16021",
+      "siglaTipo": "PL",
+      "numero": 911,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16031",
+      "siglaTipo": "PL",
+      "numero": 920,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16041",
+      "siglaTipo": "PL",
+      "numero": 928,
+      "ano": 1995,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16041",
+      "siglaTipo": "PL",
+      "numero": 928,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16044",
+      "siglaTipo": "PL",
+      "numero": 930,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16044",
+      "siglaTipo": "PL",
+      "numero": 930,
+      "ano": 1995,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16046",
+      "siglaTipo": "PL",
+      "numero": 931,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16046",
+      "siglaTipo": "PL",
+      "numero": 931,
+      "ano": 1995,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16071",
+      "siglaTipo": "PL",
+      "numero": 954,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16071",
+      "siglaTipo": "PL",
+      "numero": 954,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/185146",
+      "siglaTipo": "PL",
+      "numero": 961,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16078",
+      "siglaTipo": "PL",
+      "numero": 965,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16078",
+      "siglaTipo": "PL",
+      "numero": 965,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16111",
+      "siglaTipo": "PL",
+      "numero": 992,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16126",
+      "siglaTipo": "PL",
+      "numero": 1004,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16154",
+      "siglaTipo": "PL",
+      "numero": 1023,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16154",
+      "siglaTipo": "PL",
+      "numero": 1023,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16158",
+      "siglaTipo": "PL",
+      "numero": 1025,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16165",
+      "siglaTipo": "PL",
+      "numero": 1029,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16187",
+      "siglaTipo": "PL",
+      "numero": 1044,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16198",
+      "siglaTipo": "PL",
+      "numero": 1053,
+      "ano": 1995,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16208",
+      "siglaTipo": "PL",
+      "numero": 1063,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16215",
+      "siglaTipo": "PL",
+      "numero": 1069,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16217",
+      "siglaTipo": "PL",
+      "numero": 1070,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16219",
+      "siglaTipo": "PL",
+      "numero": 1071,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16233",
+      "siglaTipo": "PL",
+      "numero": 1081,
+      "ano": 1995,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16233",
+      "siglaTipo": "PL",
+      "numero": 1081,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16246",
+      "siglaTipo": "PL",
+      "numero": 1094,
+      "ano": 1995,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16261",
+      "siglaTipo": "PL",
+      "numero": 1106,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16267",
+      "siglaTipo": "PL",
+      "numero": 1111,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16272",
+      "siglaTipo": "PL",
+      "numero": 1115,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16281",
+      "siglaTipo": "PL",
+      "numero": 1122,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16281",
+      "siglaTipo": "PL",
+      "numero": 1122,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16281",
+      "siglaTipo": "PL",
+      "numero": 1122,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16283",
+      "siglaTipo": "PL",
+      "numero": 1123,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16312",
+      "siglaTipo": "PL",
+      "numero": 1143,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16327",
+      "siglaTipo": "PL",
+      "numero": 1150,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16327",
+      "siglaTipo": "PL",
+      "numero": 1150,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16327",
+      "siglaTipo": "PL",
+      "numero": 1150,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16329",
+      "siglaTipo": "PL",
+      "numero": 1151,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16332",
+      "siglaTipo": "PL",
+      "numero": 1152,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16334",
+      "siglaTipo": "PL",
+      "numero": 1153,
+      "ano": 1995,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16337",
+      "siglaTipo": "PL",
+      "numero": 1154,
+      "ano": 1995,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16337",
+      "siglaTipo": "PL",
+      "numero": 1154,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16340",
+      "siglaTipo": "PL",
+      "numero": 1155,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16345",
+      "siglaTipo": "PL",
+      "numero": 1157,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16365",
+      "siglaTipo": "PL",
+      "numero": 1174,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16367",
+      "siglaTipo": "PL",
+      "numero": 1175,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16370",
+      "siglaTipo": "PL",
+      "numero": 1176,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16390",
+      "siglaTipo": "PL",
+      "numero": 1193,
+      "ano": 1995,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16390",
+      "siglaTipo": "PL",
+      "numero": 1193,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16396",
+      "siglaTipo": "PL",
+      "numero": 1201,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16400",
+      "siglaTipo": "PL",
+      "numero": 1204,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/188827",
+      "siglaTipo": "PL",
+      "numero": 1194,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16433",
+      "siglaTipo": "PL",
+      "numero": 1226,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16443",
+      "siglaTipo": "PL",
+      "numero": 1232,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16464",
+      "siglaTipo": "PL",
+      "numero": 1245,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16470",
+      "siglaTipo": "PL",
+      "numero": 1251,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16472",
+      "siglaTipo": "PL",
+      "numero": 1252,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16474",
+      "siglaTipo": "PL",
+      "numero": 1253,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16483",
+      "siglaTipo": "PL",
+      "numero": 1259,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16483",
+      "siglaTipo": "PL",
+      "numero": 1259,
+      "ano": 1995,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16488",
+      "siglaTipo": "PL",
+      "numero": 1264,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16493",
+      "siglaTipo": "PL",
+      "numero": 1268,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16495",
+      "siglaTipo": "PL",
+      "numero": 1269,
+      "ano": 1995,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16495",
+      "siglaTipo": "PL",
+      "numero": 1269,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25199",
+      "siglaTipo": "PL",
+      "numero": 1263,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16521",
+      "siglaTipo": "PL",
+      "numero": 1288,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16521",
+      "siglaTipo": "PL",
+      "numero": 1288,
+      "ano": 1995,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16452",
+      "siglaTipo": "PL",
+      "numero": 1238,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16526",
+      "siglaTipo": "PL",
+      "numero": 1292,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16558",
+      "siglaTipo": "PL",
+      "numero": 1316,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16564",
+      "siglaTipo": "PL",
+      "numero": 1321,
+      "ano": 1995,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16566",
+      "siglaTipo": "PL",
+      "numero": 1322,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16570",
+      "siglaTipo": "PL",
+      "numero": 1324,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16570",
+      "siglaTipo": "PL",
+      "numero": 1324,
+      "ano": 1995,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16574",
+      "siglaTipo": "PL",
+      "numero": 1326,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16579",
+      "siglaTipo": "PL",
+      "numero": 1330,
+      "ano": 1995,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16582",
+      "siglaTipo": "PL",
+      "numero": 1333,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16584",
+      "siglaTipo": "PL",
+      "numero": 1334,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16584",
+      "siglaTipo": "PL",
+      "numero": 1334,
+      "ano": 1995,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16588",
+      "siglaTipo": "PL",
+      "numero": 1336,
+      "ano": 1995,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16588",
+      "siglaTipo": "PL",
+      "numero": 1336,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16593",
+      "siglaTipo": "PL",
+      "numero": 1340,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16595",
+      "siglaTipo": "PL",
+      "numero": 1342,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16601",
+      "siglaTipo": "PL",
+      "numero": 1347,
+      "ano": 1995,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16607",
+      "siglaTipo": "PL",
+      "numero": 1350,
+      "ano": 1995,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16623",
+      "siglaTipo": "PL",
+      "numero": 1362,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16623",
+      "siglaTipo": "PL",
+      "numero": 1362,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16627",
+      "siglaTipo": "PL",
+      "numero": 1365,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16669",
+      "siglaTipo": "PL",
+      "numero": 1396,
+      "ano": 1995,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/16673",
+      "siglaTipo": "PL",
+      "numero": 1400,
+      "ano": 1995,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21311",
+      "siglaTipo": "PLP",
+      "numero": 4,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21317",
+      "siglaTipo": "PLP",
+      "numero": 7,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21324",
+      "siglaTipo": "PLP",
+      "numero": 12,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21326",
+      "siglaTipo": "PLP",
+      "numero": 13,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21331",
+      "siglaTipo": "PLP",
+      "numero": 16,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21338",
+      "siglaTipo": "PLP",
+      "numero": 21,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21345",
+      "siglaTipo": "PLP",
+      "numero": 25,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21348",
+      "siglaTipo": "PLP",
+      "numero": 27,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21357",
+      "siglaTipo": "PLP",
+      "numero": 33,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/233407",
+      "siglaTipo": "PLP",
+      "numero": 36,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21367",
+      "siglaTipo": "PLP",
+      "numero": 38,
+      "ano": 1995,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21371",
+      "siglaTipo": "PLP",
+      "numero": 40,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21390",
+      "siglaTipo": "PLP",
+      "numero": 52,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/233575",
+      "siglaTipo": "PLP",
+      "numero": 59,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21404",
+      "siglaTipo": "PLP",
+      "numero": 61,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21413",
+      "siglaTipo": "PLP",
+      "numero": 66,
+      "ano": 1995,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21414",
+      "siglaTipo": "PLP",
+      "numero": 67,
+      "ano": 1995,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21628",
+      "siglaTipo": "PRC",
+      "numero": 2,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21642",
+      "siglaTipo": "PRC",
+      "numero": 14,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21644",
+      "siglaTipo": "PRC",
+      "numero": 15,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21656",
+      "siglaTipo": "PRC",
+      "numero": 23,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21667",
+      "siglaTipo": "PRC",
+      "numero": 29,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21673",
+      "siglaTipo": "PRC",
+      "numero": 33,
+      "ano": 1995,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21689",
+      "siglaTipo": "PRC",
+      "numero": 49,
+      "ano": 1995,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/336667",
+      "siglaTipo": "SBT",
+      "numero": 1,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21634",
+      "siglaTipo": "PRC",
+      "numero": 8,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21636",
+      "siglaTipo": "PRC",
+      "numero": 10,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21640",
+      "siglaTipo": "PRC",
+      "numero": 13,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21645",
+      "siglaTipo": "PRC",
+      "numero": 16,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21648",
+      "siglaTipo": "PRC",
+      "numero": 18,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21650",
+      "siglaTipo": "PRC",
+      "numero": 19,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21652",
+      "siglaTipo": "PRC",
+      "numero": 20,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21659",
+      "siglaTipo": "PRC",
+      "numero": 24,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21665",
+      "siglaTipo": "PRC",
+      "numero": 28,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21670",
+      "siglaTipo": "PRC",
+      "numero": 30,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21672",
+      "siglaTipo": "PRC",
+      "numero": 32,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21675",
+      "siglaTipo": "PRC",
+      "numero": 34,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21681",
+      "siglaTipo": "PRC",
+      "numero": 42,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21684",
+      "siglaTipo": "PRC",
+      "numero": 44,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21695",
+      "siglaTipo": "PRC",
+      "numero": 55,
+      "ano": 1995,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    }
+  ]
+}

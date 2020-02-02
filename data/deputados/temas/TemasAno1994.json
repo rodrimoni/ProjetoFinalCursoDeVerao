@@ -1,0 +1,625 @@
+{
+  "dados": [
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/24176",
+      "siglaTipo": "MSC",
+      "numero": 220,
+      "ano": 1994,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/24660",
+      "siglaTipo": "MSC",
+      "numero": 1204,
+      "ano": 1994,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/24660",
+      "siglaTipo": "MSC",
+      "numero": 1204,
+      "ano": 1994,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14518",
+      "siglaTipo": "PEC",
+      "numero": 188,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14522",
+      "siglaTipo": "PEC",
+      "numero": 190,
+      "ano": 1994,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14524",
+      "siglaTipo": "PEC",
+      "numero": 191,
+      "ano": 1994,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20852",
+      "siglaTipo": "PL",
+      "numero": 4388,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20858",
+      "siglaTipo": "PL",
+      "numero": 4398,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20858",
+      "siglaTipo": "PL",
+      "numero": 4398,
+      "ano": 1994,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20850",
+      "siglaTipo": "PL",
+      "numero": 4385,
+      "ano": 1994,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/221494",
+      "siglaTipo": "PL",
+      "numero": 4433,
+      "ano": 1994,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20933",
+      "siglaTipo": "PL",
+      "numero": 4512,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20905",
+      "siglaTipo": "PL",
+      "numero": 4473,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20905",
+      "siglaTipo": "PL",
+      "numero": 4473,
+      "ano": 1994,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20908",
+      "siglaTipo": "PL",
+      "numero": 4476,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/25670",
+      "siglaTipo": "PL",
+      "numero": 4490,
+      "ano": 1994,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20930",
+      "siglaTipo": "PL",
+      "numero": 4509,
+      "ano": 1994,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20930",
+      "siglaTipo": "PL",
+      "numero": 4509,
+      "ano": 1994,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20931",
+      "siglaTipo": "PL",
+      "numero": 4511,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20939",
+      "siglaTipo": "PL",
+      "numero": 4526,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20939",
+      "siglaTipo": "PL",
+      "numero": 4526,
+      "ano": 1994,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/222161",
+      "siglaTipo": "PL",
+      "numero": 4515,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/222161",
+      "siglaTipo": "PL",
+      "numero": 4515,
+      "ano": 1994,
+      "codTema": 60,
+      "tema": "Turismo",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/222359",
+      "siglaTipo": "PL",
+      "numero": 4539,
+      "ano": 1994,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20950",
+      "siglaTipo": "PL",
+      "numero": 4542,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20953",
+      "siglaTipo": "PL",
+      "numero": 4548,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20959",
+      "siglaTipo": "PL",
+      "numero": 4556,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/222664",
+      "siglaTipo": "PL",
+      "numero": 4577,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20981",
+      "siglaTipo": "PL",
+      "numero": 4586,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20983",
+      "siglaTipo": "PL",
+      "numero": 4587,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20989",
+      "siglaTipo": "PL",
+      "numero": 4594,
+      "ano": 1994,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20989",
+      "siglaTipo": "PL",
+      "numero": 4594,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/222931",
+      "siglaTipo": "PL",
+      "numero": 4610,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21003",
+      "siglaTipo": "PL",
+      "numero": 4620,
+      "ano": 1994,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21005",
+      "siglaTipo": "PL",
+      "numero": 4627,
+      "ano": 1994,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21005",
+      "siglaTipo": "PL",
+      "numero": 4627,
+      "ano": 1994,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21007",
+      "siglaTipo": "PL",
+      "numero": 4628,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21027",
+      "siglaTipo": "PL",
+      "numero": 4650,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21038",
+      "siglaTipo": "PL",
+      "numero": 4661,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21038",
+      "siglaTipo": "PL",
+      "numero": 4661,
+      "ano": 1994,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21031",
+      "siglaTipo": "PL",
+      "numero": 4653,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21035",
+      "siglaTipo": "PL",
+      "numero": 4659,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21047",
+      "siglaTipo": "PL",
+      "numero": 4675,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21062",
+      "siglaTipo": "PL",
+      "numero": 4694,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21076",
+      "siglaTipo": "PL",
+      "numero": 4715,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21076",
+      "siglaTipo": "PL",
+      "numero": 4715,
+      "ano": 1994,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21093",
+      "siglaTipo": "PL",
+      "numero": 4733,
+      "ano": 1994,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21093",
+      "siglaTipo": "PL",
+      "numero": 4733,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21097",
+      "siglaTipo": "PL",
+      "numero": 4736,
+      "ano": 1994,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21097",
+      "siglaTipo": "PL",
+      "numero": 4736,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21103",
+      "siglaTipo": "PL",
+      "numero": 4742,
+      "ano": 1994,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21136",
+      "siglaTipo": "PL",
+      "numero": 4794,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21146",
+      "siglaTipo": "PL",
+      "numero": 4805,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/224512",
+      "siglaTipo": "PL",
+      "numero": 4807,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21162",
+      "siglaTipo": "PL",
+      "numero": 4831,
+      "ano": 1994,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21169",
+      "siglaTipo": "PL",
+      "numero": 4846,
+      "ano": 1994,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21169",
+      "siglaTipo": "PL",
+      "numero": 4846,
+      "ano": 1994,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21171",
+      "siglaTipo": "PL",
+      "numero": 4853,
+      "ano": 1994,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21172",
+      "siglaTipo": "PL",
+      "numero": 4857,
+      "ano": 1994,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21172",
+      "siglaTipo": "PL",
+      "numero": 4857,
+      "ano": 1994,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/224963",
+      "siglaTipo": "PL",
+      "numero": 4864,
+      "ano": 1994,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21187",
+      "siglaTipo": "PL",
+      "numero": 4881,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234273",
+      "siglaTipo": "PLP",
+      "numero": 187,
+      "ano": 1994,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21590",
+      "siglaTipo": "PLP",
+      "numero": 197,
+      "ano": 1994,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21818",
+      "siglaTipo": "PRC",
+      "numero": 227,
+      "ano": 1994,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21817",
+      "siglaTipo": "PRC",
+      "numero": 226,
+      "ano": 1994,
+      "codTema": 62,
+      "tema": "Ciência, Tecnologia e Inovação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21817",
+      "siglaTipo": "PRC",
+      "numero": 226,
+      "ano": 1994,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21819",
+      "siglaTipo": "PRC",
+      "numero": 228,
+      "ano": 1994,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21815",
+      "siglaTipo": "PRC",
+      "numero": 216,
+      "ano": 1994,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    }
+  ]
+}

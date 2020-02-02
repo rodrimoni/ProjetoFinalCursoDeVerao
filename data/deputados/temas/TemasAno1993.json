@@ -1,0 +1,777 @@
+{
+  "dados": [
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/160755",
+      "siglaTipo": "INC",
+      "numero": 285,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13751",
+      "siglaTipo": "PDC",
+      "numero": 383,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/13751",
+      "siglaTipo": "PDC",
+      "numero": 383,
+      "ano": 1993,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14493",
+      "siglaTipo": "PEC",
+      "numero": 171,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14493",
+      "siglaTipo": "PEC",
+      "numero": 171,
+      "ano": 1993,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19767",
+      "siglaTipo": "PL",
+      "numero": 3501,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/40798",
+      "siglaTipo": "PL",
+      "numero": 4304,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/213542",
+      "siglaTipo": "PL",
+      "numero": 3527,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19745",
+      "siglaTipo": "PL",
+      "numero": 3491,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19748",
+      "siglaTipo": "PL",
+      "numero": 3492,
+      "ano": 1993,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19847",
+      "siglaTipo": "PL",
+      "numero": 3560,
+      "ano": 1993,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19851",
+      "siglaTipo": "PL",
+      "numero": 3562,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19860",
+      "siglaTipo": "PL",
+      "numero": 3569,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19906",
+      "siglaTipo": "PL",
+      "numero": 3600,
+      "ano": 1993,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19937",
+      "siglaTipo": "PL",
+      "numero": 3616,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19917",
+      "siglaTipo": "PL",
+      "numero": 3606,
+      "ano": 1993,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/214266",
+      "siglaTipo": "PL",
+      "numero": 3604,
+      "ano": 1993,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/214213",
+      "siglaTipo": "PL",
+      "numero": 3598,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19982",
+      "siglaTipo": "PL",
+      "numero": 3644,
+      "ano": 1993,
+      "codTema": 55,
+      "tema": "Relações Internacionais e Comércio Exterior",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20024",
+      "siglaTipo": "PL",
+      "numero": 3670,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/41302",
+      "siglaTipo": "PL",
+      "numero": 3658,
+      "ano": 1993,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/214749",
+      "siglaTipo": "PL",
+      "numero": 3657,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20029",
+      "siglaTipo": "PL",
+      "numero": 3673,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20083",
+      "siglaTipo": "PL",
+      "numero": 3708,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20146",
+      "siglaTipo": "PL",
+      "numero": 3745,
+      "ano": 1993,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20146",
+      "siglaTipo": "PL",
+      "numero": 3745,
+      "ano": 1993,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20235",
+      "siglaTipo": "PL",
+      "numero": 3796,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20268",
+      "siglaTipo": "PL",
+      "numero": 3815,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20268",
+      "siglaTipo": "PL",
+      "numero": 3815,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20270",
+      "siglaTipo": "PL",
+      "numero": 3816,
+      "ano": 1993,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20270",
+      "siglaTipo": "PL",
+      "numero": 3816,
+      "ano": 1993,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20358",
+      "siglaTipo": "PL",
+      "numero": 3868,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20368",
+      "siglaTipo": "PL",
+      "numero": 3873,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20380",
+      "siglaTipo": "PL",
+      "numero": 3879,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/216042",
+      "siglaTipo": "PL",
+      "numero": 3798,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20186",
+      "siglaTipo": "PL",
+      "numero": 3769,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20409",
+      "siglaTipo": "PL",
+      "numero": 3894,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20252",
+      "siglaTipo": "PL",
+      "numero": 3804,
+      "ano": 1993,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20451",
+      "siglaTipo": "PL",
+      "numero": 3921,
+      "ano": 1993,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20451",
+      "siglaTipo": "PL",
+      "numero": 3921,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20487",
+      "siglaTipo": "PL",
+      "numero": 3942,
+      "ano": 1993,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/217356",
+      "siglaTipo": "PL",
+      "numero": 3943,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20491",
+      "siglaTipo": "PL",
+      "numero": 3944,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20504",
+      "siglaTipo": "PL",
+      "numero": 3952,
+      "ano": 1993,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20536",
+      "siglaTipo": "PL",
+      "numero": 3971,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20546",
+      "siglaTipo": "PL",
+      "numero": 3976,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20426",
+      "siglaTipo": "PL",
+      "numero": 3907,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20555",
+      "siglaTipo": "PL",
+      "numero": 3982,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/217840",
+      "siglaTipo": "PL",
+      "numero": 3996,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20601",
+      "siglaTipo": "PL",
+      "numero": 4017,
+      "ano": 1993,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/216648",
+      "siglaTipo": "PL",
+      "numero": 3865,
+      "ano": 1993,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20608",
+      "siglaTipo": "PL",
+      "numero": 4024,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20610",
+      "siglaTipo": "PL",
+      "numero": 4025,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20624",
+      "siglaTipo": "PL",
+      "numero": 4037,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20645",
+      "siglaTipo": "PL",
+      "numero": 4064,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20648",
+      "siglaTipo": "PL",
+      "numero": 4068,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20670",
+      "siglaTipo": "PL",
+      "numero": 4102,
+      "ano": 1993,
+      "codTema": 62,
+      "tema": "Ciência, Tecnologia e Inovação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20672",
+      "siglaTipo": "PL",
+      "numero": 4104,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20673",
+      "siglaTipo": "PL",
+      "numero": 4106,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20689",
+      "siglaTipo": "PL",
+      "numero": 4132,
+      "ano": 1993,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20706",
+      "siglaTipo": "PL",
+      "numero": 4161,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20708",
+      "siglaTipo": "PL",
+      "numero": 4165,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/219378",
+      "siglaTipo": "PL",
+      "numero": 4173,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20721",
+      "siglaTipo": "PL",
+      "numero": 4191,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20727",
+      "siglaTipo": "PL",
+      "numero": 4197,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20729",
+      "siglaTipo": "PL",
+      "numero": 4198,
+      "ano": 1993,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20729",
+      "siglaTipo": "PL",
+      "numero": 4198,
+      "ano": 1993,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20736",
+      "siglaTipo": "PL",
+      "numero": 4209,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20738",
+      "siglaTipo": "PL",
+      "numero": 4212,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/219776",
+      "siglaTipo": "PL",
+      "numero": 4222,
+      "ano": 1993,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20775",
+      "siglaTipo": "PL",
+      "numero": 4275,
+      "ano": 1993,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20820",
+      "siglaTipo": "PL",
+      "numero": 4344,
+      "ano": 1993,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20820",
+      "siglaTipo": "PL",
+      "numero": 4344,
+      "ano": 1993,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20836",
+      "siglaTipo": "PL",
+      "numero": 4366,
+      "ano": 1993,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20836",
+      "siglaTipo": "PL",
+      "numero": 4366,
+      "ano": 1993,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20840",
+      "siglaTipo": "PL",
+      "numero": 4369,
+      "ano": 1993,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20840",
+      "siglaTipo": "PL",
+      "numero": 4369,
+      "ano": 1993,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/20843",
+      "siglaTipo": "PL",
+      "numero": 4371,
+      "ano": 1993,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234089",
+      "siglaTipo": "PLP",
+      "numero": 153,
+      "ano": 1993,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/234152",
+      "siglaTipo": "PLP",
+      "numero": 165,
+      "ano": 1993,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21571",
+      "siglaTipo": "PLP",
+      "numero": 168,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21571",
+      "siglaTipo": "PLP",
+      "numero": 168,
+      "ano": 1993,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21800",
+      "siglaTipo": "PRC",
+      "numero": 156,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21810",
+      "siglaTipo": "PRC",
+      "numero": 182,
+      "ano": 1993,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/336659",
+      "siglaTipo": "SBT",
+      "numero": 1,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21795",
+      "siglaTipo": "PRC",
+      "numero": 145,
+      "ano": 1993,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    }
+  ]
+}

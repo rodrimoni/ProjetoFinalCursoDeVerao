@@ -1,0 +1,1209 @@
+{
+  "dados": [
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23490",
+      "siglaTipo": "EMS",
+      "numero": 3434,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/23478",
+      "siglaTipo": "EMS",
+      "numero": 3016,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/337247",
+      "siglaTipo": "EMS",
+      "numero": 3129,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/314709",
+      "siglaTipo": "EMS",
+      "numero": 3285,
+      "ano": 1992,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14434",
+      "siglaTipo": "PEC",
+      "numero": 133,
+      "ano": 1992,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/169466",
+      "siglaTipo": "PEC",
+      "numero": 144,
+      "ano": 1992,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/14396",
+      "siglaTipo": "PEC",
+      "numero": 110,
+      "ano": 1992,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18521",
+      "siglaTipo": "PL",
+      "numero": 2710,
+      "ano": 1992,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19406",
+      "siglaTipo": "PL",
+      "numero": 3284,
+      "ano": 1992,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19453",
+      "siglaTipo": "PL",
+      "numero": 3312,
+      "ano": 1992,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19464",
+      "siglaTipo": "PL",
+      "numero": 3320,
+      "ano": 1992,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19496",
+      "siglaTipo": "PL",
+      "numero": 3339,
+      "ano": 1992,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19626",
+      "siglaTipo": "PL",
+      "numero": 3415,
+      "ano": 1992,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19626",
+      "siglaTipo": "PL",
+      "numero": 3415,
+      "ano": 1992,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19469",
+      "siglaTipo": "PL",
+      "numero": 3322,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19680",
+      "siglaTipo": "PL",
+      "numero": 3448,
+      "ano": 1992,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18212",
+      "siglaTipo": "PL",
+      "numero": 2503,
+      "ano": 1992,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18212",
+      "siglaTipo": "PL",
+      "numero": 2503,
+      "ano": 1992,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18220",
+      "siglaTipo": "PL",
+      "numero": 2508,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18249",
+      "siglaTipo": "PL",
+      "numero": 2525,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18314",
+      "siglaTipo": "PL",
+      "numero": 2562,
+      "ano": 1992,
+      "codTema": 52,
+      "tema": "Previdência e Assistência Social",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19630",
+      "siglaTipo": "PL",
+      "numero": 3417,
+      "ano": 1992,
+      "codTema": 42,
+      "tema": "Direito Civil e Processual Civil",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18376",
+      "siglaTipo": "PL",
+      "numero": 2607,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18378",
+      "siglaTipo": "PL",
+      "numero": 2608,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18393",
+      "siglaTipo": "PL",
+      "numero": 2619,
+      "ano": 1992,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18204",
+      "siglaTipo": "PL",
+      "numero": 2500,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18207",
+      "siglaTipo": "PL",
+      "numero": 2501,
+      "ano": 1992,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18265",
+      "siglaTipo": "PL",
+      "numero": 2534,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18287",
+      "siglaTipo": "PL",
+      "numero": 2546,
+      "ano": 1992,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18289",
+      "siglaTipo": "PL",
+      "numero": 2547,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18293",
+      "siglaTipo": "PL",
+      "numero": 2549,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/204354",
+      "siglaTipo": "PL",
+      "numero": 2531,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/204478",
+      "siglaTipo": "PL",
+      "numero": 2545,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/204540",
+      "siglaTipo": "PL",
+      "numero": 2552,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18307",
+      "siglaTipo": "PL",
+      "numero": 2558,
+      "ano": 1992,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18311",
+      "siglaTipo": "PL",
+      "numero": 2561,
+      "ano": 1992,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18338",
+      "siglaTipo": "PL",
+      "numero": 2579,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18421",
+      "siglaTipo": "PL",
+      "numero": 2640,
+      "ano": 1992,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18491",
+      "siglaTipo": "PL",
+      "numero": 2690,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18423",
+      "siglaTipo": "PL",
+      "numero": 2641,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18453",
+      "siglaTipo": "PL",
+      "numero": 2660,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18523",
+      "siglaTipo": "PL",
+      "numero": 2712,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/206007",
+      "siglaTipo": "PL",
+      "numero": 2708,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/205591",
+      "siglaTipo": "PL",
+      "numero": 2664,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18553",
+      "siglaTipo": "PL",
+      "numero": 2735,
+      "ano": 1992,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18563",
+      "siglaTipo": "PL",
+      "numero": 2741,
+      "ano": 1992,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18567",
+      "siglaTipo": "PL",
+      "numero": 2743,
+      "ano": 1992,
+      "codTema": 67,
+      "tema": "Direito e Defesa do Consumidor",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18567",
+      "siglaTipo": "PL",
+      "numero": 2743,
+      "ano": 1992,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18592",
+      "siglaTipo": "PL",
+      "numero": 2762,
+      "ano": 1992,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18598",
+      "siglaTipo": "PL",
+      "numero": 2766,
+      "ano": 1992,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18526",
+      "siglaTipo": "PL",
+      "numero": 2713,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18526",
+      "siglaTipo": "PL",
+      "numero": 2713,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18662",
+      "siglaTipo": "PL",
+      "numero": 2814,
+      "ano": 1992,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18662",
+      "siglaTipo": "PL",
+      "numero": 2814,
+      "ano": 1992,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18677",
+      "siglaTipo": "PL",
+      "numero": 2824,
+      "ano": 1992,
+      "codTema": 35,
+      "tema": "Arte, Cultura e Religião",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18677",
+      "siglaTipo": "PL",
+      "numero": 2824,
+      "ano": 1992,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18680",
+      "siglaTipo": "PL",
+      "numero": 2826,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18680",
+      "siglaTipo": "PL",
+      "numero": 2826,
+      "ano": 1992,
+      "codTema": 43,
+      "tema": "Direito Penal e Processual Penal",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/206173",
+      "siglaTipo": "PL",
+      "numero": 2725,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/206173",
+      "siglaTipo": "PL",
+      "numero": 2725,
+      "ano": 1992,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18746",
+      "siglaTipo": "PL",
+      "numero": 2869,
+      "ano": 1992,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18746",
+      "siglaTipo": "PL",
+      "numero": 2869,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18749",
+      "siglaTipo": "PL",
+      "numero": 2871,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/205850",
+      "siglaTipo": "PL",
+      "numero": 2691,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18641",
+      "siglaTipo": "PL",
+      "numero": 2799,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18760",
+      "siglaTipo": "PL",
+      "numero": 2879,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18758",
+      "siglaTipo": "PL",
+      "numero": 2878,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18780",
+      "siglaTipo": "PL",
+      "numero": 2893,
+      "ano": 1992,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/207292",
+      "siglaTipo": "PL",
+      "numero": 2845,
+      "ano": 1992,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18794",
+      "siglaTipo": "PL",
+      "numero": 2902,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18798",
+      "siglaTipo": "PL",
+      "numero": 2904,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18907",
+      "siglaTipo": "PL",
+      "numero": 2976,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18909",
+      "siglaTipo": "PL",
+      "numero": 2977,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18809",
+      "siglaTipo": "PL",
+      "numero": 2911,
+      "ano": 1992,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18843",
+      "siglaTipo": "PL",
+      "numero": 2932,
+      "ano": 1992,
+      "codTema": 66,
+      "tema": "Indústria, Comércio e Serviços",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18843",
+      "siglaTipo": "PL",
+      "numero": 2932,
+      "ano": 1992,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/208161",
+      "siglaTipo": "PL",
+      "numero": 2939,
+      "ano": 1992,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/208161",
+      "siglaTipo": "PL",
+      "numero": 2939,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18878",
+      "siglaTipo": "PL",
+      "numero": 2957,
+      "ano": 1992,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18891",
+      "siglaTipo": "PL",
+      "numero": 2964,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18891",
+      "siglaTipo": "PL",
+      "numero": 2964,
+      "ano": 1992,
+      "codTema": 46,
+      "tema": "Educação",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19000",
+      "siglaTipo": "PL",
+      "numero": 3035,
+      "ano": 1992,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/208640",
+      "siglaTipo": "PL",
+      "numero": 2991,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/208640",
+      "siglaTipo": "PL",
+      "numero": 2991,
+      "ano": 1992,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/208790",
+      "siglaTipo": "PL",
+      "numero": 3007,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/208790",
+      "siglaTipo": "PL",
+      "numero": 3007,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19029",
+      "siglaTipo": "PL",
+      "numero": 3052,
+      "ano": 1992,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19029",
+      "siglaTipo": "PL",
+      "numero": 3052,
+      "ano": 1992,
+      "codTema": 61,
+      "tema": "Viação, Transporte e Mobilidade",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19048",
+      "siglaTipo": "PL",
+      "numero": 3061,
+      "ano": 1992,
+      "codTema": 44,
+      "tema": "Direitos Humanos e Minorias",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19048",
+      "siglaTipo": "PL",
+      "numero": 3061,
+      "ano": 1992,
+      "codTema": 54,
+      "tema": "Energia, Recursos Hídricos e Minerais",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19072",
+      "siglaTipo": "PL",
+      "numero": 3075,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19137",
+      "siglaTipo": "PL",
+      "numero": 3123,
+      "ano": 1992,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19143",
+      "siglaTipo": "PL",
+      "numero": 3128,
+      "ano": 1992,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18953",
+      "siglaTipo": "PL",
+      "numero": 3006,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/18971",
+      "siglaTipo": "PL",
+      "numero": 3016,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19186",
+      "siglaTipo": "PL",
+      "numero": 3155,
+      "ano": 1992,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19122",
+      "siglaTipo": "PL",
+      "numero": 3113,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19145",
+      "siglaTipo": "PL",
+      "numero": 3129,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19172",
+      "siglaTipo": "PL",
+      "numero": 3146,
+      "ano": 1992,
+      "codTema": 56,
+      "tema": "Saúde",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19172",
+      "siglaTipo": "PL",
+      "numero": 3146,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19231",
+      "siglaTipo": "PL",
+      "numero": 3182,
+      "ano": 1992,
+      "codTema": 51,
+      "tema": "Estrutura Fundiária",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19245",
+      "siglaTipo": "PL",
+      "numero": 3189,
+      "ano": 1992,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/210543",
+      "siglaTipo": "PL",
+      "numero": 3199,
+      "ano": 1992,
+      "codTema": 57,
+      "tema": "Defesa e Segurança",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/210543",
+      "siglaTipo": "PL",
+      "numero": 3199,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19319",
+      "siglaTipo": "PL",
+      "numero": 3232,
+      "ano": 1992,
+      "codTema": 37,
+      "tema": "Comunicações",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19174",
+      "siglaTipo": "PL",
+      "numero": 3147,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19174",
+      "siglaTipo": "PL",
+      "numero": 3147,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/210652",
+      "siglaTipo": "PL",
+      "numero": 3211,
+      "ano": 1992,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19299",
+      "siglaTipo": "PL",
+      "numero": 3220,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19305",
+      "siglaTipo": "PL",
+      "numero": 3223,
+      "ano": 1992,
+      "codTema": 39,
+      "tema": "Esporte e Lazer",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/210681",
+      "siglaTipo": "PL",
+      "numero": 3214,
+      "ano": 1992,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/210617",
+      "siglaTipo": "PL",
+      "numero": 3207,
+      "ano": 1992,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19311",
+      "siglaTipo": "PL",
+      "numero": 3227,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19338",
+      "siglaTipo": "PL",
+      "numero": 3246,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19411",
+      "siglaTipo": "PL",
+      "numero": 3287,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19498",
+      "siglaTipo": "PL",
+      "numero": 3340,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19419",
+      "siglaTipo": "PL",
+      "numero": 3290,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/19599",
+      "siglaTipo": "PL",
+      "numero": 3400,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21461",
+      "siglaTipo": "PLP",
+      "numero": 101,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21461",
+      "siglaTipo": "PLP",
+      "numero": 101,
+      "ano": 1992,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21457",
+      "siglaTipo": "PLP",
+      "numero": 98,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21457",
+      "siglaTipo": "PLP",
+      "numero": 98,
+      "ano": 1992,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21472",
+      "siglaTipo": "PLP",
+      "numero": 107,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21472",
+      "siglaTipo": "PLP",
+      "numero": 107,
+      "ano": 1992,
+      "codTema": 74,
+      "tema": "Política, Partidos e Eleições",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21487",
+      "siglaTipo": "PLP",
+      "numero": 117,
+      "ano": 1992,
+      "codTema": 40,
+      "tema": "Economia",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/233928",
+      "siglaTipo": "PLP",
+      "numero": 123,
+      "ano": 1992,
+      "codTema": 41,
+      "tema": "Cidades e Desenvolvimento Urbano",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/233928",
+      "siglaTipo": "PLP",
+      "numero": 123,
+      "ano": 1992,
+      "codTema": 58,
+      "tema": "Trabalho e Emprego",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21777",
+      "siglaTipo": "PRC",
+      "numero": 118,
+      "ano": 1992,
+      "codTema": 34,
+      "tema": "Administração Pública",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/336654",
+      "siglaTipo": "SBT",
+      "numero": 1,
+      "codTema": 70,
+      "tema": "Finanças Públicas e Orçamento",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21774",
+      "siglaTipo": "PRC",
+      "numero": 116,
+      "ano": 1992,
+      "codTema": 48,
+      "tema": "Meio Ambiente e Desenvolvimento Sustentável",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21774",
+      "siglaTipo": "PRC",
+      "numero": 116,
+      "ano": 1992,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21751",
+      "siglaTipo": "PRC",
+      "numero": 102,
+      "ano": 1992,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21762",
+      "siglaTipo": "PRC",
+      "numero": 109,
+      "ano": 1992,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    },
+    {
+      "uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/21791",
+      "siglaTipo": "PRC",
+      "numero": 138,
+      "ano": 1992,
+      "codTema": 53,
+      "tema": "Processo Legislativo e Atuação Parlamentar",
+      "relevancia": 0
+    }
+  ]
+}
