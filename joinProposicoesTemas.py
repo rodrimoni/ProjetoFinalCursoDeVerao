@@ -26,29 +26,39 @@ for x in years:
 		if (tipo and numero):
 			index = str(element['siglaTipo']) + str(element['numero']) + str(x)
 			if (index in temasDict):
-				temasDict[index] += ". " + element['tema']
-			else:
-				temasDict[index] = element['tema']
-				
+				temasDict[index].append(element['tema'])
+			else:				
+				temasDict[index] = [element['tema']]
+			
 	with open('/home/rodrigo/Documentos/ProjetoFinalCursoDeVerao/data/deputados/proposicoes/Ano' + str(x) + '.json', 'r', encoding = "ISO-8859-1") as data_file:
 		proposicoes = json.load(data_file)
 	
 	for element in proposicoes:
-		myDict = {}
 		index = str(element['siglaTipo']) + str(element['numero']) + str(element['ano'])
-		myDict['siglaTipo'] = element['siglaTipo']
-		myDict['numero'] = element['numero']
-		myDict['ano'] = element['ano']
-		myDict['descricaoTipo'] = element['descricaoTipo']
-		myDict['ementa'] = element['ementa']
-		myDict['ementaDetalhada'] = element['ementaDetalhada']
-		myDict['keywords'] = element['keywords']
 		if (index in temasDict):
-			myDict['tema'] = temasDict[index]
+			for tema in temasDict[index]:
+				myDict = {}	
+				myDict['siglaTipo'] = element['siglaTipo']
+				myDict['numero'] = element['numero']
+				myDict['ano'] = element['ano']
+				myDict['descricaoTipo'] = element['descricaoTipo']
+				myDict['ementa'] = element['ementa']
+				myDict['ementaDetalhada'] = element['ementaDetalhada']
+				myDict['keywords'] = element['keywords']
+				myDict['tema'] = tema
+				result.append(myDict)
 		else:
+			myDict = {}	
+			myDict['siglaTipo'] = element['siglaTipo']
+			myDict['numero'] = element['numero']
+			myDict['ano'] = element['ano']
+			myDict['descricaoTipo'] = element['descricaoTipo']
+			myDict['ementa'] = element['ementa']
+			myDict['ementaDetalhada'] = element['ementaDetalhada']
+			myDict['keywords'] = element['keywords']		
 			myDict['tema'] = ''
-			
-		result.append(myDict)
+			result.append(myDict)
+
 
 	with open('propComTemas/PropComTema' + str(x) + '.json', 'w') as data_file:
 		data = json.dump(result, data_file, ensure_ascii = False)
