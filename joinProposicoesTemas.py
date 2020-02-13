@@ -16,9 +16,8 @@ else:
 
 for x in years:
 	result = []
-	with open('/home/rodrigo/Documentos/ProjetoFinalCursoDeVerao/data/deputados/temas/TemasAno' + str(x) + '.json', 'r') as data_file:
+	with open('/home/estudante/Documentos/ProjetoFinalCursoDeVerao/data/deputados/temas/TemasAno' + str(x) + '.json', 'r') as data_file:
 		temas = json.load(data_file)
-	
 	temasDict = {}
 	for element in temas['dados']:
 		tipo = element.get('siglaTipo')
@@ -30,23 +29,24 @@ for x in years:
 			else:				
 				temasDict[index] = [element['tema']]
 			
-	with open('/home/rodrigo/Documentos/ProjetoFinalCursoDeVerao/data/deputados/proposicoes/Ano' + str(x) + '.json', 'r', encoding = "ISO-8859-1") as data_file:
+	with open('/home/estudante/Documentos/ProjetoFinalCursoDeVerao/data/deputados/proposicoes/Ano' + str(x) + '.json', 'r', encoding = "ISO-8859-1") as data_file:
 		proposicoes = json.load(data_file)
 	
 	for element in proposicoes:
 		index = str(element['siglaTipo']) + str(element['numero']) + str(element['ano'])
 		if (index in temasDict):
-			for tema in temasDict[index]:
-				myDict = {}	
-				myDict['siglaTipo'] = element['siglaTipo']
-				myDict['numero'] = element['numero']
-				myDict['ano'] = element['ano']
-				myDict['descricaoTipo'] = element['descricaoTipo']
-				myDict['ementa'] = element['ementa']
-				myDict['ementaDetalhada'] = element['ementaDetalhada']
-				myDict['keywords'] = element['keywords']
-				myDict['tema'] = tema
-				result.append(myDict)
+			if (len(temasDict[index]) == 1):
+				if (element['keywords']): 
+				    myDict = {}	
+				    myDict['siglaTipo'] = element['siglaTipo']
+				    myDict['numero'] = element['numero']
+				    myDict['ano'] = element['ano']
+				    myDict['descricaoTipo'] = element['descricaoTipo']
+				    myDict['ementa'] = element['ementa']
+				    myDict['ementaDetalhada'] = element['ementaDetalhada']
+				    myDict['keywords'] = element['keywords']
+				    myDict['tema'] = temasDict[index][0]
+				    result.append(myDict)
 
 	with open('propComTemas/PropComTema' + str(x) + '.json', 'w') as data_file:
 		data = json.dump(result, data_file, ensure_ascii = False)
