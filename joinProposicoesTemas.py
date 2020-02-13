@@ -47,18 +47,6 @@ for x in years:
 				myDict['keywords'] = element['keywords']
 				myDict['tema'] = tema
 				result.append(myDict)
-		else:
-			myDict = {}	
-			myDict['siglaTipo'] = element['siglaTipo']
-			myDict['numero'] = element['numero']
-			myDict['ano'] = element['ano']
-			myDict['descricaoTipo'] = element['descricaoTipo']
-			myDict['ementa'] = element['ementa']
-			myDict['ementaDetalhada'] = element['ementaDetalhada']
-			myDict['keywords'] = element['keywords']		
-			myDict['tema'] = ''
-			result.append(myDict)
-
 
 	with open('propComTemas/PropComTema' + str(x) + '.json', 'w') as data_file:
 		data = json.dump(result, data_file, ensure_ascii = False)
