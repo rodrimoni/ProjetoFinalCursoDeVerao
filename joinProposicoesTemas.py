@@ -16,7 +16,7 @@ else:
 
 for x in years:
 	result = []
-	with open('temas/TemasAno' + str(x) + '.json', encoding = "utf8") as data_file:
+	with open('/home/rodrigo/Documentos/ProjetoFinalCursoDeVerao/data/deputados/temas/TemasAno' + str(x) + '.json', 'r') as data_file:
 		temas = json.load(data_file)
 	
 	temasDict = {}
@@ -30,7 +30,7 @@ for x in years:
 			else:
 				temasDict[index] = element['tema']
 				
-	with open('proposicoes/Ano' + str(x) + '.json') as data_file:
+	with open('/home/rodrigo/Documentos/ProjetoFinalCursoDeVerao/data/deputados/proposicoes/Ano' + str(x) + '.json', 'r', encoding = "ISO-8859-1") as data_file:
 		proposicoes = json.load(data_file)
 	
 	for element in proposicoes:
@@ -49,6 +49,6 @@ for x in years:
 			myDict['tema'] = ''
 			
 		result.append(myDict)
-		
+
 	with open('propComTemas/PropComTema' + str(x) + '.json', 'w') as data_file:
 		data = json.dump(result, data_file, ensure_ascii = False)
