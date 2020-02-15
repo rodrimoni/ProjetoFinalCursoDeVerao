@@ -16,7 +16,7 @@ else:
 
 for x in years:
 	result = []
-	with open('/home/estudante/Documentos/ProjetoFinalCursoDeVerao/data/deputados/temas/TemasAno' + str(x) + '.json', 'r') as data_file:
+	with open('/home/rodrigo/Documentos/ProjetoFinalCursoDeVerao/data/deputados/temas/TemasAno' + str(x) + '.json', 'r') as data_file:
 		temas = json.load(data_file)
 	temasDict = {}
 	for element in temas['dados']:
@@ -29,7 +29,7 @@ for x in years:
 			else:				
 				temasDict[index] = [element['tema']]
 			
-	with open('/home/estudante/Documentos/ProjetoFinalCursoDeVerao/data/deputados/proposicoes/Ano' + str(x) + '.json', 'r', encoding = "ISO-8859-1") as data_file:
+	with open('/home/rodrigo/Documentos/ProjetoFinalCursoDeVerao/data/deputados/proposicoes/Ano' + str(x) + '.json', 'r', encoding = "ISO-8859-1") as data_file:
 		proposicoes = json.load(data_file)
 	
 	for element in proposicoes:
@@ -38,12 +38,13 @@ for x in years:
 			if (len(temasDict[index]) == 1):
 				if (element['keywords']): 
 				    myDict = {}	
-				    myDict['siglaTipo'] = element['siglaTipo']
-				    myDict['numero'] = element['numero']
-				    myDict['ano'] = element['ano']
-				    myDict['descricaoTipo'] = element['descricaoTipo']
-				    myDict['ementa'] = element['ementa']
-				    myDict['ementaDetalhada'] = element['ementaDetalhada']
+				    myDict['index'] = index
+    				#myDict['siglaTipo'] = element['siglaTipo']
+				    #myDict['numero'] = element['numero']
+				    #myDict['ano'] = element['ano']
+				    #myDict['descricaoTipo'] = element['descricaoTipo']
+				    #myDict['ementa'] = element['ementa']
+				    #myDict['ementaDetalhada'] = element['ementaDetalhada']
 				    myDict['keywords'] = element['keywords']
 				    myDict['tema'] = temasDict[index][0]
 				    result.append(myDict)
