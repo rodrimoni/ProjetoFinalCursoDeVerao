@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "750949684",
+    "hash" : "0",
     "id" : "18FB0F59",
-    "lastKnownWriteTime" : 1581751135,
-    "last_content_update" : 1581751135,
-    "path" : "~/Documentos/verao/trabfinalverao.R",
+    "lastKnownWriteTime" : 1581898241,
+    "last_content_update" : 1581898241762,
+    "path" : "~/Documentos/modelos/trabfinalverao.R",
     "project_path" : "trabfinalverao.R",
     "properties" : {
+        "cursorPosition" : "104,0",
+        "scrollLine" : "45"
     },
     "read_only" : false,
     "read_only_alternatives" : [

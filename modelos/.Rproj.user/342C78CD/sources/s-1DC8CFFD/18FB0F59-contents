@@ -41,11 +41,25 @@
         
         df <- data.frame()
         
+        # os dados foram baixados em json porque era melhor e mais leve, sem seguida os anos foram mesclados
+        # e colocados todos juntos em um data frame, em que o total ficou em 61.717 observações 
+        # indice, as palavras chaves e o tema 
+        
+        yrs <- 1990:2019
+        
         for (i in 1:30) {
-            arch <- fromJSON(url[i])
-            dfAux <- as.data.frame(arch)
-            df <- merge(df, dfAux, all = T)
+                if(i == 1){
+                        arch <- fromJSON(url[i])
+                        dfAux <- as.data.frame(cbind(arch, year = yrs[i]))
+                        df <- dfAux
+                } else {
+                        arch <- fromJSON(url[i])
+                        dfAux <- as.data.frame(cbind(arch, year = yrs[i]))
+                        df <- merge(df, dfAux, all = TRUE)
+                }
         }
+        
+        
         
         (congress_tokens <- df %>%
             unnest_tokens(output = word, input = keywords) %>%
@@ -64,7 +78,7 @@
         
         congress_dtm <- removeSparseTerms(congress_dtm, sparse = .99)
         dados <- as.data.frame(as.matrix(congress_dtm))
-        dados$tema <- as.factor(df$tema[-56422])
+        dados$tema <- as.factor(df$tema[-56503])
         
         aux <- row.names(dados)
         only <- df$index[!df$index %in% aux] 
